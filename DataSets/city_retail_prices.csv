@@ -1,0 +1,1001 @@
+area,property_type,distance_to_city_center_km,carpet_area_sqft,floor_number,total_floors,frontage_ft,road_width_ft,footfall_score,near_metro,near_parking_facility,zone_type,avg_price_last_6_months,price
+Tonk Road,Showroom,3.39,2423.15,1,6,15.85,198.14,4.9,True,True,Mixed-use,194.35,429992.33
+Bani Park,Shop,6.32,2134.48,2,2,89.51,173.46,6.8,True,False,Mixed-use,130.75,279264.11
+Jagatpura,Showroom,1.23,3156.24,9,10,28.54,97.42,3.2,True,True,Mixed-use,121.64,395314.44
+Bani Park,Shop,6.29,3187.65,1,3,93.66,23.08,8.7,False,True,Mixed-use,188.76,608021.34
+MG Road,Mall Space,18.78,4434.03,5,8,55.44,74.02,4.9,True,True,Mixed-use,55.43,238106.62
+C Scheme,Mall Space,9.6,2666.34,4,8,29.46,159.63,8.6,False,False,Commercial,116.77,291647.94
+Vaishali Nagar,Mall Space,9.99,2787.41,2,6,84.89,121.51,2.6,True,False,Commercial,109.13,324992.19
+C Scheme,Shop,15.15,1341.56,5,10,63.14,50.48,8.4,True,True,Commercial,181.66,266475.58
+Gopalbari,Mall Space,17.59,656.66,7,9,19.03,101.76,8.2,False,False,Commercial,58.61,42060.43
+Vaishali Nagar,Showroom,9.29,4968.37,2,2,70.68,144.95,6.5,False,False,Mixed-use,92.26,414647.64
+C Scheme,Showroom,1.22,1588.5,2,2,90.53,46.6,5.8,False,True,Commercial,148.35,236893.49
+Vaishali Nagar,Showroom,5.92,4281.16,6,7,81.62,135.88,9.4,True,False,Commercial,59.46,263095.38
+Transportation Hub,Mall Space,8.77,3633.56,1,4,12.65,127.1,2.6,True,False,Commercial,84.33,287572.31
+Bani Park,Mall Space,18.59,2071.61,6,9,14.67,54.08,1.5,True,False,Commercial,113.02,224134.88
+Transportation Hub,Mall Space,14.44,1525.8,4,5,16.48,140.19,3.9,True,False,Commercial,185.19,273690.26
+Bani Park,Shop,16.51,2579.95,4,5,94.23,37.17,4.2,False,False,Mixed-use,181.14,467017.37
+Gopalbari,Mall Space,16.7,4532.98,7,9,56.13,21.41,8.7,True,True,Commercial,73.21,330961.71
+Jagatpura,Shop,15.29,2989.65,2,7,50.16,115.02,4.7,True,False,Mixed-use,105.27,326232.48
+MG Road,Mall Space,9.29,4355.97,8,10,63.22,145.56,8.0,True,True,Commercial,174.84,808878.18
+Bani Park,Showroom,15.66,1546.57,5,7,31.28,101.54,8.2,True,True,Commercial,74.66,125771.39
+Transportation Hub,Showroom,0.95,968.94,3,4,26.63,98.65,8.6,False,False,Commercial,139.3,140233.7
+Transportation Hub,Showroom,14.37,2774.66,4,8,80.12,36.88,7.2,True,False,Mixed-use,83.13,219872.33
+Bani Park,Showroom,15.43,4632.96,5,7,64.55,131.14,5.4,True,True,Commercial,78.52,346043.52
+Jagatpura,Showroom,7.53,309.93,6,7,46.21,176.3,2.6,False,True,Mixed-use,156.05,50230.41
+MG Road,Showroom,5.53,4484.17,9,10,64.91,67.23,1.4,False,False,Mixed-use,111.34,548665.64
+Vaishali Nagar,Mall Space,1.69,2855.55,1,1,79.36,37.23,4.4,False,True,Mixed-use,163.38,489595.07
+Bapu Nagar,Showroom,18.35,3221.07,2,2,68.19,61.77,8.1,False,True,Commercial,143.25,439762.39
+Jagatpura,Showroom,12.02,1379.55,2,8,21.82,21.38,6.7,False,False,Mixed-use,137.41,184021.46
+Gopalbari,Shop,19.07,3119.27,3,6,92.45,128.48,2.3,True,False,Commercial,153.29,448689.63
+Vaishali Nagar,Shop,17.24,2690.92,1,8,36.03,190.5,3.9,True,False,Commercial,114.0,296004.74
+Bani Park,Mall Space,7.46,1509.1,1,6,94.52,77.4,2.8,True,False,Commercial,175.43,272238.8
+Vaishali Nagar,Showroom,2.76,3006.09,3,3,52.31,60.09,9.0,False,True,Commercial,85.76,258046.06
+MG Road,Shop,17.82,4514.09,6,8,70.04,147.19,7.6,False,True,Mixed-use,188.5,774117.12
+Vaishali Nagar,Mall Space,2.87,1525.17,5,5,37.0,69.75,3.6,False,False,Commercial,76.52,123961.33
+MG Road,Showroom,13.0,4801.52,7,7,66.53,109.67,2.4,True,False,Commercial,78.94,395988.27
+C Scheme,Mall Space,2.85,3130.84,6,7,95.8,103.07,7.9,False,True,Mixed-use,96.78,315925.75
+C Scheme,Mall Space,17.77,1417.95,5,7,16.65,113.84,9.4,False,False,Mixed-use,193.44,286254.13
+Bapu Nagar,Mall Space,8.38,4368.27,1,1,41.42,54.65,4.3,False,True,Mixed-use,60.6,281220.33
+Tonk Road,Mall Space,1.97,2430.89,5,5,75.01,123.3,5.2,True,False,Commercial,115.79,255385.22
+Vaishali Nagar,Showroom,17.21,4742.27,3,5,96.78,198.4,3.8,True,False,Mixed-use,164.35,772822.11
+Transportation Hub,Shop,3.9,4725.1,1,5,74.47,45.19,5.9,False,True,Mixed-use,114.91,590403.41
+C Scheme,Showroom,5.96,3657.06,1,1,68.2,170.73,1.6,False,True,Commercial,56.88,214617.26
+MG Road,Mall Space,0.85,1411.13,2,6,18.87,55.38,3.9,False,True,Mixed-use,120.13,180871.17
+Gopalbari,Showroom,0.91,4593.43,4,5,26.48,100.26,3.7,True,True,Mixed-use,92.84,467514.14
+Malviya Nagar,Showroom,17.33,3165.35,5,5,42.9,34.85,2.0,False,True,Mixed-use,125.15,382364.79
+Transportation Hub,Showroom,6.89,2569.49,6,6,96.33,98.7,8.6,False,True,Mixed-use,70.25,185304.19
+Jagatpura,Mall Space,13.0,2604.16,1,8,60.14,57.16,9.2,True,False,Commercial,151.48,359311.83
+Bapu Nagar,Mall Space,11.73,1718.14,5,5,75.59,181.99,6.3,False,True,Mixed-use,120.45,223619.8
+Bani Park,Showroom,13.63,2192.83,4,4,33.57,138.23,6.9,False,False,Commercial,149.02,308200.41
+Jagatpura,Shop,14.66,4655.95,3,3,93.12,160.66,9.1,True,True,Commercial,126.99,539913.95
+Gopalbari,Mall Space,4.58,3019.35,4,8,91.43,159.92,8.7,False,True,Commercial,136.73,384647.83
+C Scheme,Showroom,7.87,3800.95,1,8,44.81,137.71,9.4,False,False,Commercial,91.5,349912.9
+Transportation Hub,Shop,3.32,1839.32,3,4,42.95,57.63,4.5,False,True,Mixed-use,106.85,193842.44
+Transportation Hub,Mall Space,16.8,2225.55,2,4,14.01,50.72,3.0,True,True,Commercial,86.03,199575.39
+Tonk Road,Mall Space,6.59,2358.84,7,9,99.48,106.48,9.1,False,True,Commercial,177.02,458007.95
+C Scheme,Shop,3.37,654.71,7,7,50.35,77.31,3.6,True,True,Commercial,67.57,41590.28
+Gopalbari,Shop,17.61,2515.25,6,8,97.23,137.3,7.1,True,True,Commercial,180.79,498317.51
+Bapu Nagar,Mall Space,9.08,4675.26,2,3,77.81,116.01,2.1,True,True,Mixed-use,169.21,736818.94
+Tonk Road,Showroom,1.96,2114.3,1,4,27.49,174.02,3.7,False,True,Mixed-use,64.57,136483.81
+Vaishali Nagar,Shop,4.35,667.62,5,10,96.99,59.02,5.1,False,True,Mixed-use,163.28,118595.6
+Jagatpura,Shop,11.57,3357.1,3,4,88.9,61.78,9.1,True,True,Mixed-use,161.37,519376.06
+Gopalbari,Showroom,11.76,1595.03,2,3,61.38,154.73,8.8,False,False,Mixed-use,176.69,287156.8
+Malviya Nagar,Showroom,14.85,1092.88,3,7,44.27,184.02,7.7,True,True,Mixed-use,191.38,218023.4
+Jagatpura,Shop,15.58,4952.22,4,4,97.93,184.06,6.9,True,True,Commercial,159.69,726319.64
+Bapu Nagar,Shop,13.48,1658.5,4,6,25.28,119.94,3.9,True,False,Mixed-use,118.3,202635.67
+C Scheme,Mall Space,10.03,1552.38,1,8,22.78,27.7,8.6,True,True,Commercial,189.11,294135.87
+Bani Park,Mall Space,8.46,4635.15,4,5,40.15,43.82,9.8,True,False,Commercial,199.55,1008271.63
+Bapu Nagar,Shop,18.27,4246.42,1,4,18.12,131.67,7.9,True,False,Mixed-use,65.62,279492.74
+Bani Park,Shop,1.55,3249.27,4,10,12.49,177.58,4.4,True,True,Commercial,111.02,381879.35
+Jagatpura,Showroom,11.7,4205.88,1,3,23.56,111.84,2.9,False,False,Commercial,170.42,711948.53
+Jagatpura,Mall Space,10.54,2108.68,2,9,95.41,106.65,5.8,False,False,Mixed-use,187.43,382180.25
+Bani Park,Shop,12.54,816.32,3,9,18.03,146.97,6.5,False,True,Commercial,132.6,117631.35
+MG Road,Showroom,1.56,1175.16,1,2,21.38,122.75,9.7,True,True,Mixed-use,156.07,178938.76
+Vaishali Nagar,Shop,4.47,3908.29,1,10,99.75,79.67,7.6,False,True,Commercial,168.48,635036.9
+Bapu Nagar,Shop,4.99,472.91,4,6,63.29,106.73,8.9,False,True,Mixed-use,130.29,64133.09
+Tonk Road,Showroom,14.36,4397.37,4,4,15.4,187.75,4.2,True,True,Mixed-use,167.29,762644.74
+C Scheme,Shop,5.23,3334.59,1,9,14.52,63.65,8.5,False,False,Commercial,74.47,253687.3
+Vaishali Nagar,Showroom,6.83,4198.05,8,10,56.4,170.43,6.9,False,False,Commercial,139.21,613826.68
+Vaishali Nagar,Showroom,3.74,3070.49,1,1,37.09,102.5,8.2,False,True,Mixed-use,161.15,478672.74
+C Scheme,Showroom,3.62,2348.81,9,9,91.71,72.35,2.2,True,False,Mixed-use,174.9,429726.31
+Jagatpura,Mall Space,16.57,3080.02,3,6,18.3,86.01,9.6,True,True,Commercial,71.93,232692.24
+Vaishali Nagar,Mall Space,18.91,1081.48,3,4,21.87,52.74,5.1,True,True,Mixed-use,93.37,99885.76
+Vaishali Nagar,Shop,15.21,643.9,4,5,58.66,90.33,2.8,False,True,Commercial,50.52,34201.98
+Jagatpura,Showroom,11.0,3155.14,3,10,48.36,47.88,6.5,False,False,Commercial,101.91,325958.48
+Transportation Hub,Mall Space,9.92,2910.18,1,1,92.39,49.77,8.3,False,False,Mixed-use,172.32,535797.92
+MG Road,Shop,6.25,4833.14,6,7,62.83,20.13,2.7,False,False,Mixed-use,84.74,419741.54
+Bani Park,Mall Space,1.87,257.74,1,2,80.94,113.04,5.4,False,True,Commercial,136.24,36817.93
+Jagatpura,Shop,8.39,1785.12,1,6,31.44,166.43,8.7,True,True,Mixed-use,72.93,140810.19
+C Scheme,Mall Space,2.69,4339.3,3,4,64.35,175.19,3.6,False,True,Mixed-use,128.02,548668.38
+Vaishali Nagar,Shop,13.14,2736.21,6,7,68.97,146.96,1.7,True,True,Mixed-use,152.22,405569.79
+Bani Park,Showroom,2.54,2914.1,2,3,80.83,194.89,9.9,True,True,Mixed-use,175.59,525653.49
+Vaishali Nagar,Shop,14.55,4728.45,4,7,45.62,171.03,7.6,False,False,Commercial,106.4,501533.49
+Gopalbari,Showroom,13.4,2868.02,1,1,26.18,153.3,4.4,True,True,Mixed-use,105.46,273418.99
+Malviya Nagar,Shop,15.13,1707.29,1,1,28.59,130.79,6.1,False,False,Commercial,77.51,127306.27
+Bani Park,Shop,10.67,3374.68,4,4,61.86,58.05,1.2,True,True,Commercial,143.04,462765.74
+Malviya Nagar,Showroom,7.49,3047.18,1,10,26.73,138.14,2.1,True,True,Mixed-use,100.66,317298.46
+Bani Park,Shop,18.51,2147.15,7,8,73.13,60.61,7.6,False,True,Mixed-use,100.15,197348.06
+Transportation Hub,Showroom,14.17,3060.42,3,10,21.53,86.25,4.6,False,True,Mixed-use,98.99,282158.0
+Tonk Road,Mall Space,3.13,4301.39,1,1,52.69,119.77,5.6,False,True,Mixed-use,92.76,366742.96
+Jagatpura,Mall Space,2.75,2966.74,3,5,13.85,160.46,1.1,False,False,Mixed-use,119.74,336741.86
+Gopalbari,Showroom,6.88,2683.9,3,3,35.25,154.82,9.9,True,False,Commercial,81.6,198256.65
+Bani Park,Shop,10.38,1169.81,2,3,33.55,180.78,6.2,False,False,Commercial,101.6,121408.49
+C Scheme,Showroom,6.41,4846.66,2,8,94.37,39.77,4.5,False,True,Commercial,182.31,913173.84
+C Scheme,Mall Space,14.23,4554.47,2,8,35.46,102.98,8.4,True,False,Mixed-use,79.56,350199.89
+Tonk Road,Mall Space,10.77,2695.6,1,2,56.86,64.2,9.8,True,False,Mixed-use,104.13,254077.53
+Bani Park,Shop,7.41,4396.35,3,10,43.34,57.21,8.6,True,True,Mixed-use,188.29,747139.41
+Malviya Nagar,Shop,19.26,565.72,5,5,65.28,130.66,5.5,True,False,Commercial,121.4,71912.02
+Bapu Nagar,Mall Space,6.26,3693.97,1,1,21.73,21.1,7.8,False,True,Commercial,78.54,262551.22
+Gopalbari,Mall Space,17.52,2977.08,4,7,55.23,68.33,4.7,True,False,Mixed-use,63.45,200329.09
+Gopalbari,Shop,10.17,2643.62,1,10,79.41,89.49,9.0,False,True,Commercial,67.95,174862.96
+Vaishali Nagar,Showroom,13.14,4186.37,2,5,48.48,39.84,9.8,False,False,Mixed-use,98.39,422374.27
+C Scheme,Showroom,10.11,2555.92,8,9,75.63,147.08,1.2,False,True,Mixed-use,58.86,151053.04
+Jagatpura,Showroom,18.75,3728.42,1,4,42.16,102.94,2.4,False,True,Commercial,165.56,617900.42
+Transportation Hub,Mall Space,2.04,622.26,1,6,22.15,61.59,6.1,True,False,Commercial,182.53,122539.84
+Jagatpura,Mall Space,1.68,2694.91,6,7,17.92,73.33,7.5,True,False,Commercial,85.2,221849.92
+Transportation Hub,Mall Space,17.55,592.68,7,7,59.4,28.61,2.0,True,False,Commercial,69.74,43982.95
+MG Road,Shop,2.37,663.6,2,4,94.31,40.98,5.1,True,False,Commercial,92.24,56347.74
+Vaishali Nagar,Mall Space,8.92,1549.42,6,10,95.21,45.66,7.6,False,True,Mixed-use,93.05,140506.61
+MG Road,Showroom,15.22,4904.78,3,5,60.93,82.33,6.1,True,True,Commercial,104.83,472655.78
+Jagatpura,Shop,12.75,4726.53,8,8,71.29,82.05,6.3,True,True,Mixed-use,69.91,355182.94
+Tonk Road,Showroom,9.55,2682.65,1,1,20.35,90.76,2.7,True,False,Mixed-use,149.37,384500.71
+Tonk Road,Mall Space,2.68,3355.21,3,9,41.9,195.19,7.6,False,False,Commercial,156.91,549198.05
+Bapu Nagar,Mall Space,5.28,263.51,6,7,13.62,31.33,9.3,False,False,Commercial,126.35,36121.14
+C Scheme,Shop,4.84,1728.72,1,1,82.1,57.1,9.1,False,False,Mixed-use,59.9,99983.47
+Vaishali Nagar,Shop,3.28,3052.01,4,5,19.26,84.22,4.7,True,True,Commercial,91.94,255376.22
+Transportation Hub,Showroom,1.9,1934.62,2,4,59.69,111.27,2.7,False,False,Commercial,199.1,409925.4
+Jagatpura,Shop,10.08,4012.46,2,3,55.79,183.79,3.8,False,False,Commercial,89.51,339579.96
+Malviya Nagar,Showroom,13.77,3366.27,1,1,42.1,119.03,1.5,True,False,Mixed-use,131.93,432362.95
+C Scheme,Shop,2.04,2504.69,3,8,56.66,129.81,7.6,False,False,Commercial,102.06,245078.86
+Jagatpura,Mall Space,6.33,3530.17,3,5,16.15,157.6,8.4,True,True,Commercial,155.53,536414.6
+Jagatpura,Mall Space,7.41,1015.84,8,8,43.92,165.96,1.6,True,False,Commercial,162.68,149882.6
+Bapu Nagar,Shop,4.73,3663.46,3,10,32.09,150.33,3.1,False,False,Commercial,122.32,455675.64
+Jagatpura,Shop,17.87,381.82,1,4,30.42,58.2,4.3,True,True,Mixed-use,55.37,19507.87
+Bapu Nagar,Showroom,12.55,849.51,1,6,42.36,144.63,6.6,False,False,Mixed-use,96.28,89029.85
+Jagatpura,Shop,2.42,1991.44,2,4,36.15,30.36,2.6,False,False,Mixed-use,195.15,371331.61
+Vaishali Nagar,Mall Space,9.01,4872.58,5,7,17.65,93.51,9.5,False,True,Mixed-use,156.58,728376.49
+Jagatpura,Showroom,8.14,4285.06,6,10,16.39,163.03,2.2,True,True,Commercial,185.05,741560.48
+Tonk Road,Showroom,16.62,3383.33,1,2,47.97,108.6,4.9,False,False,Mixed-use,173.69,561316.96
+Jagatpura,Mall Space,1.98,4729.15,5,7,10.3,31.01,3.4,False,True,Commercial,192.86,821187.24
+Jagatpura,Shop,9.59,1718.02,3,4,21.23,80.46,9.1,False,False,Mixed-use,103.84,181770.31
+Jagatpura,Mall Space,9.9,2979.32,2,2,25.81,29.02,8.3,True,False,Commercial,79.1,255927.25
+Transportation Hub,Shop,4.0,3796.47,3,3,90.31,167.02,2.1,False,False,Commercial,130.03,477833.36
+Vaishali Nagar,Shop,12.16,2465.02,1,3,66.09,136.89,3.1,True,True,Mixed-use,99.92,254046.74
+Jagatpura,Mall Space,4.81,1269.01,5,10,74.57,126.07,7.1,True,False,Commercial,160.82,208713.48
+Tonk Road,Mall Space,1.5,1080.83,8,9,39.35,97.38,8.6,False,True,Commercial,106.47,115715.96
+Jagatpura,Showroom,15.76,4739.0,5,10,69.42,195.01,6.7,False,True,Mixed-use,116.12,578230.23
+Bani Park,Mall Space,12.31,3958.97,5,5,31.72,73.99,2.7,False,True,Mixed-use,182.5,765984.6
+Bani Park,Showroom,5.65,4299.45,1,5,38.5,98.75,6.6,True,False,Mixed-use,120.42,536264.85
+MG Road,Showroom,7.84,4217.37,6,6,73.35,176.44,6.8,True,False,Mixed-use,179.68,728913.48
+MG Road,Mall Space,1.64,2711.38,1,2,82.69,178.47,1.2,True,False,Mixed-use,185.28,500639.6
+Bani Park,Shop,10.57,3262.21,5,6,52.19,169.18,4.6,False,False,Commercial,118.82,405432.08
+Vaishali Nagar,Mall Space,11.26,267.23,7,8,18.58,143.09,1.8,True,True,Commercial,175.36,46389.58
+C Scheme,Shop,4.87,2907.8,3,3,48.97,84.93,4.8,True,False,Mixed-use,57.87,181983.82
+Jagatpura,Mall Space,6.02,3134.33,3,10,77.02,146.45,5.0,True,False,Mixed-use,103.4,301723.18
+Bapu Nagar,Shop,12.0,2107.01,6,9,83.15,83.34,3.7,False,True,Mixed-use,199.16,426866.56
+Jagatpura,Showroom,16.13,1134.39,3,7,30.69,148.35,1.4,False,False,Commercial,95.25,98044.16
+Jagatpura,Shop,16.97,207.41,5,8,13.9,165.43,2.0,True,False,Mixed-use,140.05,26466.81
+Malviya Nagar,Mall Space,8.03,452.47,9,9,27.25,183.78,8.3,False,False,Mixed-use,95.53,41660.54
+Tonk Road,Shop,14.85,1890.87,2,6,79.52,127.62,6.2,False,True,Commercial,175.97,301352.62
+Gopalbari,Showroom,13.2,2270.36,4,9,67.83,57.29,4.8,False,True,Commercial,51.84,107989.52
+Tonk Road,Mall Space,11.1,3668.93,2,4,25.6,28.9,5.8,False,False,Mixed-use,198.16,774766.03
+MG Road,Shop,5.09,4336.42,1,2,22.36,54.56,9.7,False,False,Commercial,75.35,327410.86
+Transportation Hub,Mall Space,4.88,2204.24,1,6,13.56,23.28,7.1,True,True,Commercial,52.82,118126.61
+MG Road,Mall Space,7.14,4290.86,8,9,26.2,132.95,4.7,True,True,Commercial,111.0,463955.31
+Transportation Hub,Mall Space,10.03,1850.16,3,5,96.03,35.18,2.2,False,False,Commercial,109.91,192179.43
+Tonk Road,Shop,15.77,4699.11,5,8,93.12,57.49,9.6,False,False,Commercial,174.41,879096.29
+Malviya Nagar,Shop,14.77,1075.37,2,7,59.38,130.36,6.1,False,True,Commercial,180.93,177399.46
+MG Road,Showroom,12.9,3397.15,2,3,36.94,118.07,9.7,True,True,Mixed-use,102.52,353393.26
+Bapu Nagar,Mall Space,18.6,1871.51,4,4,10.14,167.35,8.3,False,True,Commercial,106.18,191529.43
+Transportation Hub,Shop,0.96,3050.22,5,9,72.34,40.82,8.4,False,False,Commercial,74.91,240492.92
+Bapu Nagar,Shop,5.78,1246.22,3,4,18.82,199.32,8.5,False,False,Mixed-use,50.61,61719.5
+MG Road,Shop,16.75,2435.94,4,6,18.05,35.53,1.6,True,False,Mixed-use,120.12,311181.48
+MG Road,Showroom,16.13,425.59,7,9,89.78,20.27,2.1,True,True,Mixed-use,115.32,53404.58
+Jagatpura,Showroom,3.59,1833.91,6,10,36.66,136.83,7.0,True,True,Commercial,146.66,268772.43
+C Scheme,Mall Space,15.5,3522.2,2,3,73.68,111.36,1.9,False,False,Mixed-use,106.82,373083.59
+Jagatpura,Showroom,8.32,958.89,1,2,34.85,33.09,3.2,False,True,Mixed-use,189.49,172287.96
+C Scheme,Mall Space,17.11,2892.11,3,4,79.28,107.16,5.8,False,False,Mixed-use,53.94,154267.34
+Bapu Nagar,Shop,15.79,3794.34,1,1,77.72,122.58,5.5,False,False,Mixed-use,157.07,557311.15
+Jagatpura,Shop,15.81,2446.69,2,5,60.13,138.64,6.4,True,False,Commercial,64.23,147164.88
+Jagatpura,Shop,10.95,2720.98,7,7,74.13,166.75,1.3,True,False,Commercial,144.53,408629.65
+Bapu Nagar,Shop,18.59,4190.06,1,9,77.41,185.12,5.2,True,True,Commercial,156.11,593884.63
+Tonk Road,Shop,9.1,2916.44,9,9,48.18,27.12,7.5,False,True,Mixed-use,170.0,529553.61
+Tonk Road,Shop,4.18,1157.25,1,2,35.92,20.2,2.0,False,False,Commercial,179.19,196757.45
+C Scheme,Showroom,9.6,4821.81,1,5,48.59,81.96,1.2,True,False,Mixed-use,125.11,626719.81
+MG Road,Mall Space,7.93,260.21,3,3,22.36,67.35,1.6,True,False,Commercial,97.56,23109.44
+Gopalbari,Shop,15.7,3718.93,2,2,40.48,139.88,7.5,False,False,Commercial,97.53,364504.0
+Jagatpura,Shop,14.4,4776.93,5,5,77.29,80.52,6.5,True,False,Mixed-use,121.54,532671.51
+C Scheme,Mall Space,9.43,965.13,6,6,14.76,107.68,1.7,True,False,Commercial,89.83,84739.53
+Vaishali Nagar,Shop,14.39,1826.82,1,3,57.77,81.46,8.7,True,True,Mixed-use,124.09,219612.5
+Vaishali Nagar,Showroom,16.33,1306.69,4,5,84.67,30.19,2.0,True,True,Mixed-use,69.9,99672.64
+Jagatpura,Mall Space,14.18,2634.6,8,8,10.22,76.11,9.9,False,False,Mixed-use,139.19,343435.43
+Bapu Nagar,Showroom,16.77,2829.38,1,1,91.75,180.7,4.1,False,False,Commercial,185.87,495123.75
+Vaishali Nagar,Mall Space,19.84,1529.94,2,3,66.76,92.43,7.2,True,False,Mixed-use,144.56,225716.87
+Tonk Road,Showroom,11.84,941.48,6,8,66.53,176.04,8.5,True,True,Commercial,170.8,152429.66
+Vaishali Nagar,Mall Space,4.73,1925.24,1,1,26.66,174.96,9.0,False,True,Mixed-use,146.75,291512.59
+Malviya Nagar,Shop,7.63,3906.59,4,6,63.0,166.44,5.8,False,True,Commercial,162.31,571711.16
+Malviya Nagar,Showroom,5.79,3780.3,2,6,50.49,90.57,1.9,True,True,Mixed-use,78.36,310699.39
+Jagatpura,Mall Space,7.0,1935.78,1,1,74.17,82.91,2.8,True,False,Commercial,143.53,257649.68
+Jagatpura,Showroom,10.05,2917.82,4,4,64.37,147.34,4.1,False,True,Commercial,70.52,209809.25
+Tonk Road,Shop,7.93,4524.71,6,7,84.21,34.83,8.8,False,True,Commercial,82.57,367482.1
+Vaishali Nagar,Shop,9.49,2059.21,1,3,69.36,22.8,1.7,False,True,Mixed-use,129.01,271360.65
+Tonk Road,Showroom,17.36,4648.27,5,8,76.65,59.61,3.2,True,True,Mixed-use,136.64,640225.61
+Transportation Hub,Mall Space,16.09,2850.81,1,1,63.91,32.24,6.0,False,False,Commercial,165.93,428297.93
+Malviya Nagar,Showroom,15.86,2533.11,7,7,75.89,146.68,1.3,False,False,Commercial,179.25,426300.78
+MG Road,Showroom,11.91,3668.23,1,1,22.26,70.87,4.9,False,True,Commercial,65.52,256914.43
+Transportation Hub,Showroom,9.7,3962.07,4,4,52.07,182.46,4.3,False,True,Commercial,123.97,450255.94
+Jagatpura,Mall Space,7.55,4787.91,6,6,58.27,146.4,4.7,True,True,Commercial,177.12,889484.56
+Gopalbari,Shop,0.93,1840.0,9,9,70.04,25.91,1.4,True,True,Mixed-use,187.59,316165.21
+Gopalbari,Shop,13.21,1088.75,3,5,34.63,145.84,5.1,True,False,Commercial,150.84,150934.69
+Vaishali Nagar,Showroom,12.64,3648.29,1,1,40.36,65.24,4.0,False,False,Commercial,194.09,754303.37
+Gopalbari,Showroom,19.61,3355.92,6,6,94.5,173.54,2.1,True,False,Commercial,123.24,433064.42
+Vaishali Nagar,Shop,15.5,3357.03,1,4,25.67,42.44,7.1,False,True,Commercial,164.69,520327.75
+Gopalbari,Showroom,14.01,750.08,1,6,92.07,172.49,5.9,False,False,Commercial,84.66,68358.15
+C Scheme,Shop,14.34,2316.48,2,5,18.83,130.94,6.5,False,True,Commercial,105.37,247084.47
+Malviya Nagar,Mall Space,8.19,4483.66,1,1,74.67,175.33,6.4,False,False,Mixed-use,107.47,463410.04
+C Scheme,Mall Space,15.12,963.96,9,10,80.02,180.12,2.5,True,True,Mixed-use,120.35,110284.51
+Vaishali Nagar,Showroom,13.57,4682.68,1,3,79.79,65.86,1.8,False,True,Mixed-use,119.79,517676.89
+C Scheme,Mall Space,12.21,754.56,9,9,46.41,40.05,3.5,False,True,Mixed-use,53.35,40132.47
+Transportation Hub,Shop,11.36,3991.51,10,10,50.54,27.64,4.2,False,True,Commercial,95.7,358172.46
+Malviya Nagar,Mall Space,10.96,1513.09,2,9,38.22,62.78,1.6,True,True,Mixed-use,85.9,141096.41
+Jagatpura,Shop,1.8,705.71,9,10,72.69,166.4,8.1,True,True,Commercial,123.53,88034.06
+Jagatpura,Showroom,0.72,539.54,1,2,13.97,21.91,9.5,False,False,Commercial,129.05,74440.28
+C Scheme,Mall Space,4.97,2893.83,4,4,88.49,172.15,9.6,False,False,Commercial,129.67,351625.9
+Bapu Nagar,Mall Space,0.95,3173.46,1,3,44.73,94.38,7.8,True,False,Commercial,72.03,230379.17
+Transportation Hub,Mall Space,4.24,387.96,2,6,11.0,104.82,8.6,False,False,Mixed-use,53.06,22039.32
+MG Road,Mall Space,17.12,2208.11,2,2,85.96,152.36,4.8,False,False,Commercial,93.08,198976.3
+Jagatpura,Shop,19.56,855.89,1,1,65.09,21.22,6.4,True,False,Mixed-use,155.28,126925.1
+C Scheme,Shop,12.56,1526.98,9,10,87.65,37.33,2.3,True,False,Commercial,137.97,209334.84
+Jagatpura,Showroom,19.52,4853.86,1,1,48.62,148.46,3.2,False,False,Commercial,184.33,906996.84
+Gopalbari,Shop,5.52,1116.85,1,1,58.12,191.65,1.4,True,False,Mixed-use,183.65,209542.1
+Vaishali Nagar,Shop,15.85,1917.65,4,6,97.94,89.88,2.4,True,False,Mixed-use,67.01,131391.66
+Gopalbari,Shop,9.56,3916.76,2,5,32.52,158.97,7.8,False,False,Mixed-use,67.89,240136.77
+Bani Park,Showroom,3.8,2061.42,6,7,94.64,42.7,2.2,False,False,Mixed-use,166.8,318935.72
+Transportation Hub,Shop,10.74,4151.76,1,1,16.44,51.01,1.8,True,False,Commercial,137.98,530604.59
+Gopalbari,Shop,12.59,970.14,1,2,62.34,179.81,9.1,True,False,Mixed-use,117.08,114857.24
+C Scheme,Shop,9.03,856.0,4,10,44.04,113.06,1.7,False,False,Commercial,143.09,127903.37
+Bani Park,Shop,15.3,1851.51,8,8,84.54,167.69,1.2,True,True,Mixed-use,183.24,326039.05
+Tonk Road,Shop,10.01,3273.46,1,8,50.2,82.64,1.8,True,False,Mixed-use,166.39,534003.63
+Bapu Nagar,Shop,12.08,2478.15,6,6,99.09,61.13,7.5,True,True,Mixed-use,83.18,195863.06
+MG Road,Mall Space,7.81,3271.81,2,2,57.41,62.05,6.3,True,False,Commercial,67.15,226510.41
+MG Road,Shop,6.6,2401.63,10,10,83.37,126.03,5.1,True,True,Mixed-use,180.47,411707.88
+Vaishali Nagar,Showroom,3.37,736.64,4,9,45.32,121.2,2.3,True,True,Commercial,89.07,62063.23
+Tonk Road,Showroom,9.81,1040.6,3,7,56.62,189.01,4.7,True,False,Mixed-use,174.21,198149.64
+Tonk Road,Mall Space,5.9,343.86,3,3,30.48,23.8,7.5,True,False,Commercial,140.53,47803.45
+Tonk Road,Shop,1.08,4745.17,2,2,18.57,100.5,6.8,True,False,Commercial,50.59,242057.99
+Jagatpura,Showroom,13.47,2014.08,1,1,38.84,193.41,6.2,False,True,Mixed-use,158.34,288359.83
+Vaishali Nagar,Shop,14.35,3294.53,6,9,98.36,184.45,9.8,False,False,Mixed-use,159.98,510972.45
+Transportation Hub,Showroom,7.17,4985.08,1,5,53.32,48.84,2.6,False,True,Mixed-use,80.8,371812.83
+Malviya Nagar,Shop,5.36,642.83,3,5,84.01,87.84,4.2,True,False,Commercial,121.62,73076.8
+MG Road,Showroom,6.63,3399.23,6,6,70.56,35.43,1.2,False,True,Commercial,90.82,290068.93
+Gopalbari,Showroom,6.43,722.93,1,5,33.31,156.22,6.6,False,True,Commercial,76.01,51941.56
+Bani Park,Showroom,7.16,357.23,2,2,59.44,181.4,3.7,False,False,Commercial,142.57,50389.89
+Malviya Nagar,Mall Space,0.83,4472.59,1,2,35.43,89.31,9.4,False,True,Commercial,186.42,898809.44
+Gopalbari,Shop,15.01,3693.86,1,1,81.56,144.92,3.4,False,True,Commercial,158.8,577216.34
+C Scheme,Showroom,14.54,4599.88,4,6,24.57,41.5,9.1,True,False,Commercial,165.25,694692.47
+Transportation Hub,Showroom,8.67,4740.21,1,2,85.35,52.81,1.2,False,False,Mixed-use,86.16,400665.06
+Bapu Nagar,Mall Space,9.15,2395.2,2,7,16.33,122.47,1.9,True,False,Mixed-use,54.36,121761.12
+Jagatpura,Shop,8.73,739.35,7,7,35.8,111.03,5.6,True,True,Mixed-use,184.9,145787.96
+Transportation Hub,Shop,3.71,3575.97,5,5,48.03,152.11,6.2,False,False,Mixed-use,88.51,289812.31
+MG Road,Showroom,6.79,4866.44,9,10,85.67,184.07,7.3,True,False,Mixed-use,141.23,651921.24
+Bapu Nagar,Mall Space,13.07,570.22,7,7,51.24,196.14,6.5,False,False,Mixed-use,171.75,94684.9
+Malviya Nagar,Showroom,6.72,3902.41,1,6,98.51,160.38,2.1,True,False,Commercial,112.28,431217.68
+MG Road,Mall Space,15.61,4376.78,8,9,24.12,33.12,2.9,True,False,Commercial,85.32,337492.25
+Vaishali Nagar,Showroom,17.23,2537.39,2,9,70.35,74.64,6.3,False,True,Commercial,53.98,132810.08
+Tonk Road,Mall Space,4.77,4947.96,3,4,25.88,169.19,8.1,False,True,Commercial,135.02,607741.25
+Transportation Hub,Shop,15.6,449.94,2,2,80.84,153.19,7.4,True,True,Commercial,183.82,82793.76
+MG Road,Shop,8.22,2909.86,3,10,32.02,186.42,7.1,True,True,Commercial,98.42,279261.59
+C Scheme,Showroom,1.42,930.19,3,8,15.06,130.41,4.7,False,False,Mixed-use,118.7,115190.69
+MG Road,Mall Space,3.82,622.64,3,9,78.56,185.08,2.0,True,False,Commercial,148.66,89999.13
+Bapu Nagar,Shop,2.58,895.0,1,1,33.14,47.94,9.6,False,True,Commercial,116.32,101722.19
+C Scheme,Shop,9.69,2181.62,6,6,33.56,132.08,4.3,True,False,Commercial,66.7,134223.39
+Malviya Nagar,Shop,19.51,3348.4,1,1,76.79,150.45,6.6,True,False,Commercial,182.25,615701.9
+Jagatpura,Mall Space,10.95,982.47,1,2,42.63,136.51,1.6,True,False,Commercial,100.16,99514.89
+Gopalbari,Showroom,12.35,2287.57,3,3,63.04,139.61,4.4,False,False,Mixed-use,122.11,282857.85
+Gopalbari,Showroom,2.7,4861.82,2,7,97.77,72.03,1.7,False,True,Mixed-use,137.22,642045.43
+Bapu Nagar,Shop,19.87,3545.04,1,6,46.02,154.6,6.2,False,False,Commercial,84.37,311949.37
+C Scheme,Shop,16.53,4701.01,4,6,11.97,59.29,6.0,True,True,Mixed-use,173.43,789339.73
+Transportation Hub,Mall Space,6.32,1524.99,1,6,82.1,114.71,1.5,False,False,Mixed-use,126.23,210867.18
+Tonk Road,Showroom,7.72,3027.55,4,4,97.37,154.8,8.5,False,False,Commercial,152.83,465421.73
+Bani Park,Showroom,19.43,1748.52,5,9,42.8,186.31,1.5,False,True,Commercial,165.19,271961.05
+Jagatpura,Mall Space,12.97,1202.39,7,9,50.12,81.71,9.0,False,False,Commercial,149.93,181428.54
+Jagatpura,Showroom,19.77,4051.79,5,8,34.35,79.45,9.7,True,False,Commercial,187.06,820774.18
+Bapu Nagar,Shop,17.75,3484.91,8,8,84.1,51.11,9.3,False,True,Mixed-use,94.13,297720.44
+Bani Park,Mall Space,12.83,1009.28,1,9,56.28,43.69,6.3,False,True,Mixed-use,117.14,125116.65
+C Scheme,Showroom,10.34,4571.02,1,1,12.0,112.49,2.5,True,False,Mixed-use,52.99,221073.9
+Bani Park,Shop,17.18,3936.25,1,1,41.35,134.37,3.1,False,False,Mixed-use,195.07,747633.41
+Jagatpura,Shop,1.07,1621.9,2,3,24.47,91.64,8.0,True,False,Commercial,123.31,192145.98
+Transportation Hub,Mall Space,4.46,3840.58,1,2,38.93,130.52,1.3,True,False,Mixed-use,51.08,205064.84
+Vaishali Nagar,Mall Space,7.51,2228.14,2,3,76.52,154.14,1.2,True,True,Mixed-use,181.07,392655.49
+Bapu Nagar,Shop,13.96,3720.0,2,4,16.7,110.11,4.4,False,True,Mixed-use,132.99,540975.4
+Bani Park,Mall Space,13.63,4150.86,1,1,70.22,71.96,7.6,True,True,Mixed-use,119.81,508200.79
+Vaishali Nagar,Mall Space,11.02,1331.67,2,2,39.15,168.47,1.3,False,False,Mixed-use,92.19,115106.37
+MG Road,Shop,0.84,1851.01,3,9,49.45,61.84,6.9,True,True,Commercial,105.2,200074.82
+Malviya Nagar,Mall Space,4.38,3336.95,1,5,98.48,151.8,4.0,False,False,Commercial,105.83,355490.56
+Vaishali Nagar,Shop,10.33,3291.65,3,4,62.7,153.75,4.5,False,True,Commercial,117.19,390935.15
+Bapu Nagar,Showroom,3.86,4529.73,1,4,35.81,122.95,7.3,False,False,Mixed-use,185.6,852042.25
+Bani Park,Showroom,2.04,3013.32,1,1,48.68,174.85,4.0,True,False,Commercial,58.74,166662.04
+Vaishali Nagar,Shop,8.47,4849.86,1,5,11.67,162.15,2.6,True,False,Commercial,86.54,455662.57
+Malviya Nagar,Showroom,12.46,568.98,2,2,88.99,49.42,7.7,True,True,Mixed-use,151.72,83063.18
+Jagatpura,Mall Space,18.82,3929.14,3,6,38.75,36.86,3.3,True,False,Commercial,112.63,456419.87
+Malviya Nagar,Showroom,3.94,2655.71,1,1,26.22,81.24,9.6,False,True,Commercial,61.96,174246.61
+Jagatpura,Shop,17.34,1817.08,2,4,46.47,108.52,1.7,True,True,Mixed-use,65.29,120148.39
+Bani Park,Showroom,6.12,2918.34,6,7,40.02,118.53,6.5,True,False,Mixed-use,174.03,468797.56
+Gopalbari,Shop,7.45,3007.32,9,10,84.29,65.2,9.1,False,False,Mixed-use,125.85,362432.68
+MG Road,Shop,19.04,4814.74,6,8,25.31,60.91,2.9,False,False,Mixed-use,131.41,585033.68
+MG Road,Showroom,7.66,3303.25,3,3,34.14,119.49,6.7,True,True,Commercial,183.45,602749.47
+Vaishali Nagar,Shop,4.07,370.8,4,9,98.61,28.44,8.0,False,False,Commercial,105.35,37824.92
+Bapu Nagar,Shop,9.18,1601.63,1,2,11.77,193.79,9.1,False,False,Mixed-use,139.98,206443.6
+Transportation Hub,Shop,0.79,4550.49,4,10,20.7,88.45,9.0,False,True,Commercial,134.04,606439.35
+MG Road,Mall Space,6.56,3595.12,1,2,78.78,144.88,7.2,False,False,Mixed-use,73.29,276294.92
+Transportation Hub,Shop,17.46,2228.9,2,10,18.21,39.12,1.2,False,False,Mixed-use,191.91,465642.76
+Bani Park,Showroom,7.57,2507.61,5,7,21.15,126.16,4.9,False,True,Mixed-use,88.79,234284.93
+Gopalbari,Shop,12.96,4100.14,8,10,10.37,185.97,3.6,True,True,Commercial,171.87,651695.53
+Tonk Road,Showroom,10.34,1777.82,2,3,90.01,26.59,10.0,False,True,Commercial,193.04,352524.35
+Bapu Nagar,Mall Space,14.84,1071.27,7,9,49.29,88.53,10.0,True,False,Commercial,117.84,119143.37
+Jagatpura,Shop,12.57,4627.86,8,9,60.95,49.04,1.4,True,False,Mixed-use,170.08,853969.28
+Transportation Hub,Mall Space,8.26,3519.66,1,2,79.8,111.35,7.7,True,False,Commercial,173.37,606794.11
+Jagatpura,Showroom,19.69,4962.39,1,4,27.9,190.1,5.0,False,True,Commercial,163.45,825121.64
+MG Road,Showroom,18.92,733.71,5,5,27.37,44.11,2.9,False,True,Commercial,189.33,145829.88
+Gopalbari,Showroom,14.06,3555.89,4,5,75.23,41.07,7.8,True,True,Mixed-use,154.16,575106.06
+C Scheme,Mall Space,19.93,2916.49,2,2,50.38,183.07,2.5,False,False,Mixed-use,169.68,472133.41
+Transportation Hub,Showroom,10.5,1490.22,4,7,20.9,184.38,4.5,False,True,Mixed-use,163.34,265781.64
+Jagatpura,Mall Space,9.89,2257.55,3,3,79.42,99.65,2.6,True,True,Commercial,135.64,297343.52
+Transportation Hub,Showroom,0.78,4028.76,2,4,90.78,121.38,5.2,False,False,Mixed-use,81.32,328151.53
+Transportation Hub,Showroom,1.79,2819.39,1,2,43.45,96.36,8.5,False,False,Commercial,87.13,251800.7
+Gopalbari,Mall Space,18.07,1650.16,1,4,31.93,162.19,9.2,True,True,Mixed-use,144.66,238106.46
+Gopalbari,Showroom,9.68,4076.71,1,3,66.17,51.02,9.8,True,False,Commercial,107.75,414822.42
+Jagatpura,Showroom,12.91,3282.51,3,5,89.62,25.84,4.6,False,True,Mixed-use,92.45,321514.01
+Gopalbari,Mall Space,19.36,556.83,2,2,59.33,58.04,9.5,False,False,Mixed-use,75.77,42128.14
+MG Road,Showroom,18.19,320.22,2,9,14.37,61.94,6.5,False,True,Commercial,82.32,24854.0
+MG Road,Showroom,7.81,4155.29,4,5,33.22,32.3,8.5,False,True,Commercial,137.67,580997.5
+Bapu Nagar,Mall Space,16.01,1007.48,4,9,76.76,22.28,9.6,False,False,Commercial,178.32,176317.55
+Gopalbari,Showroom,8.26,3468.61,2,6,97.38,102.93,3.0,False,False,Mixed-use,114.95,368627.15
+Vaishali Nagar,Shop,17.35,1198.29,1,1,94.79,81.89,4.0,True,False,Commercial,131.96,159347.68
+Jagatpura,Mall Space,2.58,2759.14,5,6,45.08,173.05,3.5,False,False,Commercial,166.14,464058.02
+Bapu Nagar,Mall Space,16.17,445.01,2,4,75.42,30.49,1.8,False,True,Commercial,164.53,79563.99
+Bani Park,Showroom,10.6,1323.83,4,6,87.99,136.18,6.3,False,False,Mixed-use,104.75,130420.39
+Vaishali Nagar,Showroom,5.18,861.28,1,7,53.64,194.49,3.1,True,True,Commercial,110.27,90804.02
+Jagatpura,Showroom,7.89,3460.59,2,6,86.29,153.31,6.7,True,True,Mixed-use,170.87,630183.67
+Gopalbari,Shop,12.58,435.71,1,1,89.45,21.35,4.6,False,False,Mixed-use,97.04,38088.53
+Jagatpura,Shop,16.01,1846.28,2,2,62.32,56.83,8.6,False,False,Commercial,189.11,333680.74
+Bani Park,Shop,7.06,4736.41,1,3,58.64,38.94,1.3,True,False,Mixed-use,142.06,692167.23
+C Scheme,Shop,18.84,4278.78,4,7,88.13,85.29,4.1,True,False,Commercial,151.91,592584.86
+Transportation Hub,Shop,3.61,2596.02,1,1,24.86,150.64,8.3,False,False,Mixed-use,75.14,205941.39
+C Scheme,Mall Space,6.41,3576.54,2,3,28.58,173.53,8.0,False,True,Commercial,81.83,286044.25
+Bapu Nagar,Shop,18.08,939.44,1,1,32.1,100.44,2.2,False,True,Commercial,143.21,126281.96
+Bani Park,Showroom,2.34,3821.04,4,10,86.35,129.77,7.4,False,True,Mixed-use,189.28,651357.77
+MG Road,Mall Space,1.47,3068.41,1,5,29.58,87.34,8.3,False,True,Commercial,181.16,520101.12
+Gopalbari,Shop,2.4,1860.58,3,5,97.16,168.94,3.0,True,True,Commercial,95.91,164970.19
+Bapu Nagar,Shop,12.54,4097.68,3,4,61.77,181.68,2.5,True,False,Commercial,133.96,510559.81
+Gopalbari,Mall Space,3.3,4069.37,2,3,24.97,109.53,7.7,False,False,Commercial,115.42,490087.4
+Tonk Road,Mall Space,2.92,1099.55,3,9,78.53,89.97,3.0,True,True,Commercial,75.08,77886.49
+Vaishali Nagar,Showroom,8.52,4684.29,1,7,96.37,157.37,8.5,False,True,Mixed-use,64.6,331159.0
+C Scheme,Showroom,13.14,4144.17,6,6,14.04,162.72,9.5,False,True,Mixed-use,130.35,507257.89
+Vaishali Nagar,Mall Space,4.85,2083.35,1,1,24.55,198.0,7.0,True,True,Mixed-use,171.86,347723.57
+Tonk Road,Mall Space,3.06,2116.06,1,1,31.07,34.63,6.9,False,False,Mixed-use,95.69,195245.74
+Malviya Nagar,Shop,11.32,1660.93,1,5,81.96,39.11,1.7,False,True,Commercial,53.27,91156.28
+C Scheme,Mall Space,18.74,4996.11,1,1,80.41,154.65,7.3,False,False,Commercial,105.36,562352.31
+Bapu Nagar,Showroom,6.35,2004.76,4,6,52.39,143.99,9.1,True,True,Commercial,154.72,318276.87
+C Scheme,Showroom,11.48,1698.23,1,2,62.11,160.77,4.5,False,True,Mixed-use,119.8,198916.11
+MG Road,Showroom,16.12,1285.25,4,10,78.91,84.9,9.9,False,True,Commercial,181.26,250481.0
+Transportation Hub,Showroom,7.57,4827.93,6,8,18.99,120.36,3.8,True,True,Mixed-use,134.0,706552.48
+C Scheme,Shop,12.67,1465.88,1,2,12.8,58.7,9.4,False,True,Mixed-use,199.29,272884.04
+Transportation Hub,Showroom,17.03,3226.3,5,10,42.79,50.51,7.4,False,True,Mixed-use,89.44,290097.98
+Gopalbari,Mall Space,8.02,3183.03,8,9,91.71,125.16,9.2,False,True,Commercial,90.94,308272.92
+Bani Park,Shop,13.64,4172.62,2,6,86.4,22.5,8.6,True,True,Mixed-use,107.16,467180.55
+Jagatpura,Mall Space,15.58,3370.93,1,1,66.85,113.4,7.8,True,True,Mixed-use,123.59,413322.71
+C Scheme,Showroom,11.74,1585.65,1,2,37.73,128.48,6.7,True,False,Mixed-use,136.29,204024.01
+Jagatpura,Shop,7.84,4078.23,1,5,59.16,48.37,4.1,False,True,Commercial,76.54,342406.86
+Tonk Road,Shop,18.62,766.17,10,10,94.84,108.17,7.4,False,True,Mixed-use,109.07,86853.13
+MG Road,Shop,14.92,877.05,7,8,49.07,24.86,7.0,True,True,Commercial,112.83,91654.35
+C Scheme,Showroom,19.06,444.1,9,10,60.77,22.5,7.1,False,False,Commercial,148.71,64922.73
+Malviya Nagar,Showroom,16.62,1990.99,7,8,44.77,79.42,6.4,True,True,Mixed-use,63.44,119187.74
+Vaishali Nagar,Showroom,3.34,3625.45,3,9,80.8,196.52,7.3,False,True,Commercial,168.22,552554.29
+Bani Park,Mall Space,6.12,2281.44,2,4,76.27,44.36,8.9,True,True,Commercial,114.81,261339.09
+Gopalbari,Mall Space,19.73,1006.92,2,3,65.4,84.49,1.8,False,False,Mixed-use,177.48,172910.46
+MG Road,Mall Space,9.1,1579.0,1,7,30.56,33.62,9.4,False,False,Commercial,199.83,308685.87
+Bapu Nagar,Shop,1.59,1048.31,6,10,39.9,87.64,4.7,False,False,Mixed-use,133.59,132281.2
+MG Road,Showroom,17.41,4004.08,4,5,52.98,62.4,9.3,False,False,Mixed-use,163.15,678161.65
+Transportation Hub,Mall Space,14.54,2335.96,1,3,33.86,144.44,2.1,False,True,Commercial,131.38,308198.81
+Vaishali Nagar,Showroom,15.68,2290.75,1,7,43.68,143.2,5.4,True,False,Commercial,91.58,212640.38
+MG Road,Mall Space,8.58,2551.44,6,10,46.82,94.89,1.9,False,True,Commercial,60.21,149684.22
+Malviya Nagar,Showroom,19.08,2387.23,1,3,25.07,189.01,8.3,False,False,Commercial,74.01,159097.86
+Vaishali Nagar,Mall Space,16.55,3475.13,1,2,58.14,118.24,5.1,True,False,Mixed-use,118.16,441405.5
+Malviya Nagar,Showroom,1.68,2046.49,2,7,68.19,58.24,9.7,True,False,Mixed-use,52.4,117933.13
+Transportation Hub,Showroom,15.44,3764.33,4,9,14.42,27.73,1.1,False,False,Mixed-use,165.72,596410.67
+MG Road,Shop,6.89,4478.72,2,3,72.27,35.34,2.9,True,True,Mixed-use,64.15,300547.86
+Bapu Nagar,Mall Space,19.42,2526.42,1,1,41.98,112.82,7.7,True,False,Mixed-use,69.17,168303.55
+Gopalbari,Shop,6.29,3269.81,3,6,37.33,119.41,7.4,False,False,Mixed-use,184.71,569369.65
+C Scheme,Mall Space,6.72,4162.52,2,2,13.09,87.79,6.7,False,True,Mixed-use,159.13,727112.99
+Malviya Nagar,Shop,8.12,2678.15,2,9,36.05,101.77,8.0,False,True,Commercial,72.82,188215.96
+Transportation Hub,Shop,8.13,772.67,7,10,67.89,139.24,3.7,True,True,Mixed-use,95.54,74561.12
+Tonk Road,Showroom,6.93,3618.02,1,2,71.34,194.61,5.2,True,True,Commercial,175.11,647577.02
+MG Road,Mall Space,18.62,2191.4,3,5,79.58,35.74,9.3,True,False,Commercial,164.24,378868.99
+Transportation Hub,Shop,15.95,1289.76,7,7,55.01,72.7,2.1,False,False,Mixed-use,190.38,239148.12
+Bapu Nagar,Shop,6.84,4829.83,1,9,60.66,147.01,2.8,False,False,Commercial,125.64,645083.69
+MG Road,Shop,3.8,4796.45,1,1,61.47,163.75,5.0,False,False,Commercial,131.93,644453.9
+C Scheme,Shop,7.18,4530.88,3,6,18.78,109.01,6.3,True,True,Mixed-use,163.08,771966.04
+Jagatpura,Shop,12.86,4542.36,1,2,22.25,191.58,4.3,True,False,Mixed-use,198.28,815680.69
+Bani Park,Showroom,15.7,803.06,1,8,65.34,165.04,6.1,True,False,Commercial,76.58,67341.23
+Jagatpura,Mall Space,3.33,1178.43,9,10,54.72,23.94,3.4,True,True,Mixed-use,192.29,245200.24
+Bapu Nagar,Shop,13.17,558.16,4,6,47.64,154.9,9.1,False,True,Mixed-use,147.88,78178.89
+Malviya Nagar,Showroom,8.97,4131.41,8,10,10.76,175.64,9.8,True,True,Commercial,64.81,282463.21
+MG Road,Mall Space,0.84,4451.33,3,6,50.75,97.84,1.8,False,True,Mixed-use,111.68,466832.29
+Jagatpura,Mall Space,18.26,1059.66,4,8,23.94,28.95,6.0,False,False,Commercial,61.42,61840.92
+MG Road,Mall Space,12.3,1376.13,3,5,30.82,45.48,2.9,False,False,Mixed-use,168.49,243048.92
+Tonk Road,Mall Space,11.77,3610.92,7,7,81.53,70.38,4.9,False,False,Commercial,151.3,514142.67
+Tonk Road,Showroom,16.55,4959.49,5,5,84.3,139.0,8.7,True,True,Mixed-use,93.61,428340.35
+Bani Park,Showroom,10.06,3140.83,1,3,51.57,27.16,1.4,True,False,Commercial,144.62,450762.41
+Bapu Nagar,Shop,14.4,3263.4,4,5,54.8,190.4,5.1,True,False,Commercial,134.24,475893.74
+Tonk Road,Shop,17.09,3700.46,3,5,66.85,115.4,2.4,False,False,Commercial,158.27,589129.0
+Tonk Road,Showroom,1.56,2854.17,1,2,36.94,165.07,6.0,False,True,Commercial,116.96,351580.87
+Malviya Nagar,Mall Space,1.22,1575.94,4,8,70.78,49.03,2.5,False,False,Mixed-use,93.19,141869.69
+Malviya Nagar,Showroom,7.04,4797.78,6,7,32.64,125.12,4.0,False,False,Commercial,178.67,847803.34
+Gopalbari,Showroom,11.7,3109.5,3,4,33.22,103.78,6.9,True,False,Mixed-use,67.22,211207.47
+Transportation Hub,Mall Space,14.67,2528.65,2,2,42.36,85.44,6.4,True,True,Commercial,176.41,408953.35
+Tonk Road,Shop,5.07,203.04,1,1,67.16,87.96,3.3,False,True,Mixed-use,196.16,38445.46
+Bapu Nagar,Showroom,10.55,2669.7,2,9,73.17,150.98,9.8,False,False,Mixed-use,149.23,399652.98
+MG Road,Showroom,1.17,2617.63,1,2,69.89,128.29,5.0,False,True,Commercial,52.14,147914.56
+MG Road,Shop,3.45,518.29,1,1,36.42,168.41,9.4,True,False,Mixed-use,132.02,67552.06
+Malviya Nagar,Mall Space,8.88,856.22,5,9,81.81,137.99,2.6,False,True,Mixed-use,150.67,126121.73
+Transportation Hub,Mall Space,19.28,4739.91,6,8,30.42,133.0,6.5,False,True,Commercial,110.48,515370.49
+Vaishali Nagar,Mall Space,18.44,3918.07,2,7,26.49,104.17,6.7,True,True,Commercial,75.94,269036.29
+MG Road,Shop,9.08,2390.7,1,1,41.05,58.38,9.4,False,True,Mixed-use,90.04,228413.19
+MG Road,Shop,5.61,3608.6,1,5,19.01,119.49,8.4,True,True,Commercial,83.21,304791.9
+C Scheme,Showroom,10.6,2467.26,9,10,54.76,127.15,6.7,True,True,Commercial,177.98,438472.29
+Tonk Road,Mall Space,13.54,1179.95,7,7,84.35,71.13,1.4,False,False,Mixed-use,80.37,97129.82
+C Scheme,Showroom,13.06,1640.96,5,8,41.68,93.2,6.3,False,True,Mixed-use,183.6,331383.05
+Transportation Hub,Mall Space,3.08,2270.35,8,9,91.41,103.53,2.1,False,False,Mixed-use,163.74,337229.1
+Jagatpura,Mall Space,15.32,2752.78,2,6,48.48,129.7,3.8,True,False,Commercial,175.43,470924.61
+Bapu Nagar,Shop,3.82,4111.92,1,1,67.94,36.28,1.1,False,True,Commercial,78.29,309203.43
+C Scheme,Mall Space,2.89,862.69,1,1,11.8,131.73,6.7,True,True,Mixed-use,100.65,88448.21
+Bapu Nagar,Mall Space,0.57,3916.58,2,3,50.82,166.64,5.3,True,True,Mixed-use,54.41,216013.33
+MG Road,Mall Space,6.25,2634.51,1,2,86.66,106.51,2.6,True,False,Commercial,196.72,501403.47
+Vaishali Nagar,Showroom,8.57,4810.12,2,2,75.51,126.75,4.7,False,False,Commercial,184.4,891989.12
+Vaishali Nagar,Mall Space,10.28,279.39,6,7,81.42,186.48,10.0,True,True,Commercial,191.42,50945.49
+Tonk Road,Shop,5.77,2074.79,2,4,89.45,196.89,3.1,False,False,Commercial,73.75,138095.94
+Bani Park,Shop,17.85,2155.74,2,2,17.27,166.2,8.7,True,True,Commercial,73.37,156322.82
+Bapu Nagar,Mall Space,18.82,4232.72,2,2,69.69,49.25,2.4,True,True,Commercial,174.52,671137.3
+MG Road,Shop,16.07,3255.01,1,1,99.94,137.6,5.2,True,True,Mixed-use,194.61,626283.32
+Bapu Nagar,Showroom,0.94,2059.62,8,8,13.28,67.8,9.8,True,False,Commercial,84.11,159421.75
+Bapu Nagar,Shop,4.56,215.73,1,1,67.61,107.04,3.6,False,False,Mixed-use,78.72,18060.17
+Malviya Nagar,Mall Space,9.53,3638.79,1,5,66.62,124.33,4.9,True,True,Commercial,127.46,466745.45
+Gopalbari,Mall Space,9.5,3271.21,1,7,39.64,44.39,4.2,False,False,Commercial,108.51,382057.41
+Transportation Hub,Mall Space,18.85,671.71,1,2,22.96,127.2,2.7,False,False,Commercial,102.6,66416.3
+Vaishali Nagar,Mall Space,14.63,636.97,2,5,88.61,187.38,9.8,False,True,Commercial,80.46,49092.68
+Tonk Road,Shop,7.11,4742.47,1,2,14.64,115.6,7.3,True,True,Commercial,90.89,429117.22
+Jagatpura,Shop,10.73,3332.46,4,6,96.26,128.81,2.1,True,False,Commercial,55.32,195276.76
+C Scheme,Showroom,17.3,2397.17,6,10,21.65,122.36,2.2,True,True,Mixed-use,142.28,370987.78
+Bani Park,Mall Space,12.04,1056.34,9,9,72.31,194.77,3.2,False,True,Commercial,67.69,66583.98
+C Scheme,Showroom,3.48,2401.32,3,6,49.98,81.05,7.4,True,True,Commercial,165.14,391795.37
+Gopalbari,Shop,0.88,2360.13,3,3,48.51,121.75,8.8,True,True,Mixed-use,161.27,360243.51
+Bani Park,Mall Space,15.04,1332.03,1,7,92.42,27.37,6.8,False,True,Mixed-use,185.27,267669.43
+MG Road,Mall Space,6.51,2359.74,3,6,88.31,43.98,4.3,False,True,Commercial,146.09,373441.26
+Jagatpura,Mall Space,9.73,3017.01,3,3,45.07,68.64,9.6,False,True,Commercial,142.99,417793.97
+Gopalbari,Showroom,14.05,1953.54,1,1,25.35,108.23,5.7,False,True,Mixed-use,124.72,259700.96
+MG Road,Shop,5.71,4707.25,4,7,56.21,187.66,7.5,True,True,Commercial,72.23,355334.65
+C Scheme,Mall Space,13.59,3453.24,2,6,36.06,129.85,6.2,True,True,Commercial,136.56,449394.55
+Tonk Road,Showroom,7.55,1669.77,1,10,48.86,51.98,6.9,False,False,Mixed-use,173.21,265311.24
+Tonk Road,Showroom,6.64,2379.82,1,2,72.31,193.66,5.0,False,True,Mixed-use,119.88,311202.3
+C Scheme,Mall Space,7.5,805.94,1,2,99.94,117.16,2.7,False,False,Mixed-use,159.93,132750.93
+C Scheme,Shop,12.38,501.6,2,4,83.12,158.55,9.0,True,True,Mixed-use,108.9,57807.22
+Transportation Hub,Showroom,2.95,4339.79,4,8,26.1,111.65,7.3,True,False,Commercial,73.12,286839.42
+MG Road,Mall Space,5.83,4486.33,4,10,67.77,136.37,1.2,True,True,Commercial,95.87,398024.92
+Gopalbari,Shop,5.49,2816.02,2,2,74.65,128.52,7.2,False,False,Mixed-use,176.42,461822.8
+Gopalbari,Mall Space,3.09,4930.59,1,1,32.83,52.65,5.3,True,False,Commercial,84.91,383541.0
+Jagatpura,Showroom,4.73,2351.25,2,2,38.8,165.71,2.7,False,False,Mixed-use,99.39,240283.78
+Bani Park,Showroom,15.19,2718.55,5,9,62.09,167.58,8.6,True,False,Commercial,106.09,294092.13
+Bani Park,Shop,9.69,4715.75,3,4,48.79,49.69,7.1,False,False,Mixed-use,77.02,392776.86
+Gopalbari,Shop,15.7,4610.77,8,8,35.06,51.03,2.8,False,True,Commercial,187.54,917130.29
+Malviya Nagar,Showroom,14.97,4602.94,1,4,83.32,184.3,9.0,True,True,Mixed-use,97.4,433904.93
+Transportation Hub,Showroom,6.46,1352.91,1,1,24.71,78.62,3.4,False,True,Commercial,180.8,232466.8
+Transportation Hub,Showroom,14.29,2836.2,4,4,28.89,42.01,5.6,True,False,Commercial,110.73,308758.2
+Bapu Nagar,Mall Space,12.76,497.95,2,2,94.48,108.98,6.6,True,False,Mixed-use,128.88,67787.58
+Vaishali Nagar,Showroom,2.11,520.8,5,8,53.03,142.37,4.1,False,True,Commercial,100.77,47808.4
+Malviya Nagar,Shop,9.13,1778.74,6,7,13.71,85.79,3.9,False,True,Commercial,142.93,255533.94
+Bani Park,Showroom,6.36,4448.53,1,1,46.87,59.86,9.4,False,False,Commercial,54.83,261364.06
+Vaishali Nagar,Shop,12.59,3607.57,7,10,83.19,178.3,1.9,True,False,Mixed-use,154.3,594473.5
+Bani Park,Showroom,10.26,943.33,1,1,36.79,87.46,7.2,False,True,Commercial,63.05,54555.93
+Gopalbari,Showroom,2.01,1478.48,2,3,74.8,187.9,2.1,True,True,Commercial,155.36,226085.6
+Jagatpura,Shop,16.29,2662.42,2,3,52.93,168.72,2.8,True,True,Commercial,191.78,532929.84
+Gopalbari,Shop,6.16,2340.8,7,10,91.11,102.14,5.3,True,False,Commercial,199.91,469187.98
+Gopalbari,Showroom,15.04,806.21,3,3,86.85,114.46,9.8,False,True,Mixed-use,161.17,137567.58
+Jagatpura,Mall Space,19.37,4038.11,5,9,82.94,195.12,5.9,False,False,Mixed-use,146.8,575812.24
+Malviya Nagar,Shop,13.31,4310.68,1,8,94.43,187.61,8.4,False,True,Mixed-use,193.04,892726.98
+Malviya Nagar,Shop,14.28,2460.64,3,5,65.84,130.72,5.2,True,True,Mixed-use,111.41,294851.77
+Jagatpura,Shop,1.99,1131.14,4,5,44.93,74.42,3.7,False,True,Mixed-use,59.17,71755.61
+Bani Park,Shop,7.09,3697.88,2,2,84.93,164.48,10.0,False,True,Commercial,162.53,653366.7
+Jagatpura,Shop,14.36,4387.71,5,10,86.52,108.51,1.3,True,True,Commercial,77.61,345624.25
+Transportation Hub,Shop,9.17,1557.54,2,2,14.83,192.8,7.9,False,True,Commercial,100.14,164497.66
+Gopalbari,Showroom,12.57,2122.78,1,3,44.95,192.87,6.5,False,False,Mixed-use,152.96,351242.43
+Malviya Nagar,Mall Space,17.18,4625.98,1,2,26.92,36.55,7.0,True,True,Commercial,162.83,802613.39
+Tonk Road,Showroom,12.45,907.13,8,8,54.36,52.91,6.6,False,False,Mixed-use,187.85,177312.62
+Vaishali Nagar,Showroom,1.08,3735.06,2,4,80.12,31.44,6.5,True,False,Commercial,139.44,498022.93
+Malviya Nagar,Showroom,8.64,3690.32,1,1,88.29,62.2,9.0,False,True,Mixed-use,92.85,376615.57
+Gopalbari,Shop,18.08,3875.74,7,7,56.83,134.01,8.6,True,False,Mixed-use,95.49,387848.9
+Bapu Nagar,Shop,16.65,3003.14,2,7,69.89,124.52,6.2,False,True,Mixed-use,117.14,371892.68
+Bani Park,Showroom,5.02,3702.34,2,3,94.28,198.2,1.3,False,True,Mixed-use,138.53,545486.07
+Gopalbari,Showroom,14.65,1499.0,4,7,63.37,158.13,4.1,True,False,Mixed-use,148.84,216697.09
+Malviya Nagar,Shop,1.82,1094.76,5,6,24.96,144.14,4.0,True,True,Commercial,65.15,66666.85
+Bani Park,Mall Space,10.41,388.93,8,8,99.45,110.65,9.0,False,True,Commercial,77.82,32926.14
+Gopalbari,Mall Space,9.08,1497.43,1,1,20.67,87.49,4.0,True,True,Mixed-use,127.22,205398.32
+Transportation Hub,Showroom,6.38,3935.29,1,7,48.47,112.52,8.5,False,True,Commercial,126.41,486629.11
+Malviya Nagar,Shop,18.6,4506.6,4,4,83.95,191.57,8.0,False,True,Mixed-use,180.51,877503.65
+Tonk Road,Showroom,2.45,1330.54,3,8,36.02,189.65,6.8,True,False,Commercial,171.49,237811.1
+Gopalbari,Shop,11.47,1207.58,7,8,98.09,151.4,1.1,True,False,Commercial,80.82,102286.77
+Transportation Hub,Showroom,15.73,3742.56,3,3,97.58,59.49,1.4,True,False,Commercial,163.98,587389.08
+Bani Park,Mall Space,19.8,4561.24,8,8,74.92,31.92,6.3,True,True,Commercial,81.09,356647.43
+Bapu Nagar,Showroom,18.99,1015.69,2,5,39.95,198.87,3.3,False,False,Commercial,78.69,77236.05
+Gopalbari,Mall Space,0.86,3691.52,9,9,70.57,116.5,5.9,False,False,Commercial,74.45,292776.16
+Transportation Hub,Shop,1.96,2973.02,1,8,57.52,103.27,3.6,False,True,Mixed-use,172.65,512342.7
+Bapu Nagar,Mall Space,7.24,1766.23,2,3,63.56,102.91,5.6,True,False,Commercial,121.0,209636.22
+Vaishali Nagar,Shop,3.57,1593.55,4,5,61.37,195.65,3.6,True,True,Mixed-use,174.24,250376.7
+Transportation Hub,Showroom,8.25,2093.94,3,8,82.02,123.71,2.0,False,False,Mixed-use,120.14,239194.48
+C Scheme,Showroom,16.7,3008.72,1,7,55.59,176.15,6.2,True,True,Mixed-use,143.89,411717.24
+Tonk Road,Shop,5.72,2400.31,3,3,21.43,52.31,2.8,False,True,Commercial,105.42,246193.46
+Bani Park,Mall Space,15.8,3827.7,1,1,64.26,71.34,4.4,True,False,Commercial,192.51,723411.69
+Gopalbari,Showroom,5.96,3445.48,3,4,95.8,105.85,3.4,True,False,Mixed-use,84.55,285089.96
+Tonk Road,Mall Space,16.29,4032.47,5,6,30.2,195.52,1.6,False,False,Mixed-use,116.24,451180.69
+Transportation Hub,Shop,5.29,3584.99,1,2,34.95,169.41,4.2,False,False,Mixed-use,198.6,729646.0
+Gopalbari,Shop,12.27,4825.13,1,2,18.49,60.39,1.8,True,False,Commercial,113.04,549854.55
+Tonk Road,Shop,14.28,2273.6,3,6,58.25,124.95,8.4,True,False,Commercial,110.29,268653.44
+Transportation Hub,Shop,12.0,1534.27,1,1,54.87,72.28,6.0,False,False,Commercial,183.83,285109.46
+Malviya Nagar,Showroom,1.26,3456.18,1,2,62.09,126.36,4.3,True,False,Mixed-use,179.61,644914.2
+Vaishali Nagar,Showroom,10.19,4857.76,5,7,32.81,172.2,4.1,True,True,Mixed-use,188.14,977603.1
+Jagatpura,Mall Space,14.73,4269.05,6,7,51.35,99.45,8.3,False,False,Mixed-use,175.36,734118.72
+Jagatpura,Mall Space,11.31,886.39,2,9,34.1,44.48,3.1,True,False,Mixed-use,97.27,88946.24
+Gopalbari,Mall Space,4.54,3736.03,4,5,84.17,131.55,3.1,True,False,Commercial,108.7,372011.17
+Bapu Nagar,Mall Space,18.65,4360.5,4,6,85.04,89.57,9.5,False,True,Mixed-use,188.26,791302.06
+Jagatpura,Shop,15.95,2526.4,1,2,40.94,104.01,5.8,True,False,Commercial,150.25,376444.25
+Bapu Nagar,Mall Space,10.78,856.52,1,1,16.35,107.88,7.3,False,False,Commercial,184.76,173841.1
+C Scheme,Mall Space,13.79,2798.02,2,5,44.72,180.82,3.0,True,True,Mixed-use,80.94,232235.59
+C Scheme,Showroom,16.96,4373.34,1,1,41.69,64.29,6.8,True,False,Mixed-use,89.96,402054.6
+C Scheme,Shop,19.5,2838.12,2,9,10.85,70.24,8.2,True,True,Mixed-use,84.71,252918.41
+Bani Park,Shop,13.28,1546.26,2,7,46.14,55.98,1.3,False,True,Mixed-use,69.93,112602.71
+Vaishali Nagar,Shop,15.82,533.1,1,10,52.14,69.1,9.7,False,False,Mixed-use,154.88,79045.59
+Vaishali Nagar,Shop,8.02,1814.38,2,3,53.93,20.52,2.4,True,True,Mixed-use,62.35,121610.32
+Bapu Nagar,Shop,9.4,4612.85,6,8,51.31,121.41,8.7,False,False,Mixed-use,147.53,705759.02
+Bani Park,Shop,4.66,4097.56,3,6,59.55,86.63,4.8,False,False,Mixed-use,158.41,629755.16
+Bani Park,Showroom,14.54,3325.39,4,9,78.19,182.54,6.9,False,False,Mixed-use,137.55,469311.19
+Bapu Nagar,Shop,5.72,1207.01,4,4,16.83,23.2,9.8,False,True,Mixed-use,181.56,217828.97
+Bapu Nagar,Showroom,19.15,614.15,2,3,85.15,59.69,7.7,True,True,Commercial,65.94,38032.42
+Bapu Nagar,Showroom,1.18,3665.8,4,8,24.06,182.59,8.5,True,False,Commercial,87.19,345170.85
+Tonk Road,Mall Space,9.48,3090.53,5,5,19.26,32.22,7.0,False,False,Mixed-use,80.38,254385.93
+Transportation Hub,Mall Space,15.77,4113.07,3,7,86.71,89.61,4.3,False,False,Commercial,97.26,429638.12
+Bapu Nagar,Shop,7.55,4508.06,3,4,48.08,79.06,2.5,False,False,Commercial,146.64,600426.05
+Jagatpura,Showroom,15.9,4857.83,3,7,50.26,139.66,9.1,False,False,Mixed-use,153.6,774490.72
+Bani Park,Mall Space,7.87,1135.75,1,8,69.13,50.61,8.2,True,False,Mixed-use,103.17,122319.48
+C Scheme,Showroom,10.93,2649.17,1,6,36.87,58.25,3.8,False,True,Mixed-use,127.69,367386.55
+MG Road,Shop,14.64,516.45,7,7,79.73,22.85,9.6,False,False,Mixed-use,90.55,48618.77
+Jagatpura,Showroom,13.24,4550.1,2,6,67.72,161.18,3.8,True,True,Mixed-use,74.81,359554.71
+Tonk Road,Mall Space,12.68,4325.83,3,5,81.21,46.16,1.0,True,True,Mixed-use,73.37,299176.84
+Jagatpura,Showroom,5.22,1462.81,3,3,60.84,136.11,3.7,True,False,Commercial,121.04,169594.22
+Jagatpura,Showroom,1.9,3173.49,1,2,65.92,31.17,7.9,True,False,Mixed-use,98.41,302549.09
+MG Road,Mall Space,13.66,4015.12,8,9,10.04,56.51,8.9,True,True,Mixed-use,107.18,461127.88
+Vaishali Nagar,Mall Space,13.68,299.32,4,6,35.5,177.53,1.2,True,False,Commercial,114.0,33059.37
+Bapu Nagar,Mall Space,10.55,4070.62,1,9,77.56,154.47,4.6,True,True,Commercial,78.49,350677.05
+C Scheme,Mall Space,13.33,3561.34,1,1,42.47,93.89,5.5,False,True,Mixed-use,189.81,666512.09
+MG Road,Shop,5.16,4031.71,1,8,65.75,84.07,2.9,False,True,Commercial,68.53,251745.16
+Bani Park,Mall Space,3.5,4676.15,9,9,18.98,48.89,2.3,True,False,Commercial,178.6,793068.39
+Tonk Road,Mall Space,1.6,1465.95,5,7,54.77,187.69,4.1,True,True,Commercial,195.73,289411.86
+Vaishali Nagar,Mall Space,17.9,1979.36,7,9,96.55,38.36,2.0,False,False,Commercial,69.4,147624.85
+Bapu Nagar,Mall Space,7.57,4122.82,7,8,29.42,24.46,5.8,True,True,Mixed-use,183.77,690227.79
+Bapu Nagar,Shop,15.11,1044.57,7,7,46.9,146.11,8.9,True,False,Mixed-use,181.3,191787.06
+Bapu Nagar,Showroom,19.69,3903.53,2,2,11.58,81.01,3.7,False,True,Mixed-use,148.39,606715.18
+Tonk Road,Mall Space,0.58,493.61,6,8,95.98,66.31,7.2,False,True,Mixed-use,112.91,58157.48
+Transportation Hub,Showroom,3.82,2793.8,2,4,93.72,171.33,8.2,False,True,Mixed-use,88.44,248280.29
+Malviya Nagar,Shop,13.62,4937.0,8,8,13.17,79.95,3.6,False,False,Mixed-use,122.37,560934.4
+C Scheme,Showroom,4.45,2308.68,1,9,73.34,191.3,1.5,False,False,Commercial,51.82,124021.08
+MG Road,Shop,16.3,2529.9,7,10,57.91,154.03,7.7,True,True,Mixed-use,130.11,331826.6
+Tonk Road,Shop,18.86,4275.58,2,2,38.02,24.73,3.8,False,False,Commercial,177.19,806862.82
+Transportation Hub,Shop,9.42,2292.2,2,7,82.07,104.28,6.3,True,False,Commercial,161.13,356081.02
+Gopalbari,Mall Space,18.08,3419.11,7,8,94.86,49.7,2.7,False,True,Mixed-use,142.52,454679.11
+Tonk Road,Shop,9.43,1755.11,1,7,30.71,108.44,8.7,False,True,Mixed-use,86.06,145665.06
+Vaishali Nagar,Showroom,17.21,308.55,3,3,17.54,193.36,8.8,False,False,Commercial,82.1,24746.9
+Gopalbari,Shop,17.01,3664.82,1,1,89.91,163.8,1.7,False,True,Mixed-use,184.57,644753.0
+Malviya Nagar,Mall Space,4.76,1685.52,2,2,50.72,139.55,2.4,False,True,Mixed-use,169.82,270923.68
+Transportation Hub,Mall Space,16.49,3298.55,1,1,40.26,147.68,8.2,True,True,Commercial,157.81,486067.27
+Transportation Hub,Showroom,15.21,982.63,2,4,32.1,164.7,7.2,True,True,Commercial,117.48,124295.56
+Tonk Road,Showroom,9.57,4247.72,1,2,49.61,180.12,1.0,False,False,Commercial,184.8,711389.89
+Tonk Road,Showroom,12.76,1227.33,3,5,66.87,25.27,4.8,True,True,Commercial,62.27,74704.27
+Transportation Hub,Showroom,11.95,2406.66,3,7,24.76,73.89,7.8,True,True,Commercial,86.66,221840.83
+MG Road,Showroom,9.86,4469.15,1,10,85.65,73.63,6.3,False,True,Commercial,102.98,472307.65
+Bapu Nagar,Shop,16.07,510.53,6,10,67.16,197.23,8.3,True,False,Commercial,74.39,41433.17
+Transportation Hub,Shop,14.51,2111.89,1,3,51.31,114.31,5.2,True,False,Mixed-use,61.96,143301.88
+Tonk Road,Showroom,8.33,1095.55,3,6,82.56,107.42,8.2,False,True,Mixed-use,183.48,186432.97
+Malviya Nagar,Shop,17.52,4451.4,5,7,32.94,189.66,5.1,True,False,Commercial,157.34,696249.34
+Bapu Nagar,Mall Space,14.89,903.42,1,1,24.85,155.22,9.4,True,True,Commercial,168.76,158963.38
+MG Road,Mall Space,4.53,499.63,6,10,37.65,115.28,3.9,True,True,Mixed-use,189.06,91043.66
+Vaishali Nagar,Mall Space,5.04,2918.08,4,5,77.02,47.33,5.8,False,False,Mixed-use,88.86,282673.52
+MG Road,Showroom,17.04,3574.19,1,2,83.69,84.77,8.0,True,False,Mixed-use,199.17,699369.82
+Jagatpura,Mall Space,2.58,1195.27,3,3,77.13,181.68,6.0,True,False,Commercial,107.71,121321.43
+Jagatpura,Shop,2.26,316.92,1,7,14.53,126.68,6.4,True,True,Mixed-use,57.59,18967.99
+MG Road,Mall Space,16.56,1445.9,2,5,19.21,154.65,5.2,False,True,Mixed-use,121.65,168152.64
+Bani Park,Mall Space,8.25,1454.49,5,6,18.73,105.17,4.8,True,False,Commercial,185.21,292770.84
+Tonk Road,Showroom,9.22,3403.17,5,8,47.79,193.42,1.9,True,False,Commercial,124.84,428641.12
+Jagatpura,Shop,17.86,1593.66,1,1,85.32,103.78,9.6,False,True,Commercial,195.44,325844.57
+Bapu Nagar,Showroom,9.82,692.37,10,10,49.89,182.39,4.0,False,False,Mixed-use,67.78,44978.85
+Bapu Nagar,Showroom,1.65,4575.01,2,3,49.47,84.68,1.2,False,True,Mixed-use,118.18,494029.73
+Transportation Hub,Mall Space,18.12,2364.16,1,9,31.21,127.03,2.5,False,True,Commercial,118.58,306533.1
+Jagatpura,Mall Space,11.62,2924.76,1,2,68.03,168.6,7.4,False,False,Mixed-use,169.13,485713.14
+Gopalbari,Showroom,7.47,2636.01,3,6,72.95,91.94,1.6,False,True,Mixed-use,143.41,394023.36
+Bani Park,Shop,6.37,1093.28,4,7,50.72,88.65,8.7,True,False,Mixed-use,99.79,103302.58
+Transportation Hub,Shop,9.39,485.82,1,1,58.24,166.56,9.0,False,False,Mixed-use,57.44,26545.76
+Malviya Nagar,Shop,6.44,2309.39,6,8,85.44,24.33,6.7,True,True,Mixed-use,121.12,257635.27
+Malviya Nagar,Showroom,17.38,922.36,4,7,49.21,160.32,9.5,False,True,Commercial,164.67,166041.05
+Bani Park,Shop,11.48,2789.83,1,4,68.55,169.32,2.0,False,True,Mixed-use,154.87,438542.15
+Transportation Hub,Mall Space,12.37,4446.19,1,4,35.6,107.14,3.0,True,True,Mixed-use,161.35,786613.01
+Bapu Nagar,Shop,5.98,3782.42,1,2,39.38,78.4,1.5,True,False,Mixed-use,133.09,545538.85
+Jagatpura,Showroom,6.25,1023.96,1,10,80.42,154.11,7.7,False,False,Commercial,139.39,153947.38
+Transportation Hub,Showroom,17.74,3784.22,2,5,39.28,110.24,9.2,False,False,Mixed-use,132.61,460494.96
+Malviya Nagar,Shop,13.83,1725.06,1,8,58.76,60.03,6.9,True,False,Commercial,81.41,129341.34
+Jagatpura,Shop,8.72,3941.19,1,2,13.1,192.7,8.9,False,False,Commercial,136.33,581575.39
+Jagatpura,Mall Space,10.73,1097.3,5,5,84.28,195.41,4.0,False,False,Mixed-use,68.73,69120.23
+Transportation Hub,Showroom,3.02,890.69,1,1,46.11,169.36,5.8,False,False,Mixed-use,143.38,121777.36
+C Scheme,Mall Space,3.72,357.61,2,8,53.07,162.93,5.2,True,False,Mixed-use,82.94,30828.53
+MG Road,Shop,0.91,379.03,2,3,83.47,193.57,4.7,False,True,Mixed-use,195.35,72019.24
+Malviya Nagar,Showroom,12.78,2698.21,2,8,28.12,184.58,1.9,True,True,Mixed-use,68.05,185487.55
+Gopalbari,Showroom,13.51,2098.47,2,6,30.83,150.8,3.8,True,True,Mixed-use,182.72,389139.23
+Jagatpura,Showroom,11.13,2482.6,1,5,52.06,187.71,2.4,False,False,Commercial,136.74,364751.49
+Tonk Road,Mall Space,15.58,3574.55,3,7,82.64,48.93,5.0,False,False,Mixed-use,93.2,313343.28
+C Scheme,Showroom,5.46,4211.63,3,3,51.14,84.15,3.2,True,True,Mixed-use,125.98,581431.84
+Tonk Road,Shop,5.05,1440.86,3,6,51.19,128.84,2.9,True,True,Commercial,106.84,146961.87
+Bapu Nagar,Shop,14.17,2136.07,2,2,86.07,119.91,4.3,False,True,Commercial,148.92,333374.59
+C Scheme,Showroom,1.75,3898.18,5,5,85.54,110.64,8.2,True,False,Mixed-use,120.45,488456.18
+Bapu Nagar,Mall Space,7.99,1920.4,3,4,89.47,127.81,5.1,True,False,Mixed-use,125.16,220760.0
+Vaishali Nagar,Showroom,8.54,2461.79,4,4,41.67,66.5,5.5,False,True,Mixed-use,113.86,303008.96
+Jagatpura,Mall Space,9.83,4158.37,4,9,34.16,144.76,1.4,False,True,Mixed-use,199.74,808656.49
+Malviya Nagar,Showroom,8.25,1678.83,5,7,76.31,128.91,7.5,True,True,Mixed-use,128.57,228112.19
+Transportation Hub,Mall Space,7.24,609.0,1,4,27.62,30.37,3.1,False,True,Commercial,144.67,90550.43
+C Scheme,Shop,13.37,2591.89,1,6,91.68,61.53,7.3,True,True,Commercial,53.65,137447.62
+Gopalbari,Showroom,12.18,4607.9,1,1,80.1,96.65,2.3,True,True,Mixed-use,167.44,713544.26
+MG Road,Showroom,12.83,1567.81,1,5,38.08,150.8,5.2,True,True,Mixed-use,78.82,115512.61
+Jagatpura,Shop,3.57,1025.12,3,10,12.83,50.31,4.3,False,False,Commercial,124.65,121092.48
+Transportation Hub,Mall Space,18.78,2386.67,5,10,51.53,125.96,2.4,False,False,Mixed-use,106.07,252940.15
+MG Road,Showroom,8.57,4275.79,1,4,92.25,162.59,4.2,True,True,Commercial,181.27,742574.75
+MG Road,Mall Space,4.96,775.98,4,8,31.41,81.07,1.7,False,False,Commercial,111.84,88091.56
+Vaishali Nagar,Showroom,0.69,1846.26,4,6,21.07,49.31,2.4,True,False,Commercial,94.11,183255.53
+Malviya Nagar,Showroom,4.31,3734.76,1,2,75.56,56.81,7.2,False,True,Commercial,168.03,628459.63
+Gopalbari,Showroom,4.87,873.77,2,2,88.55,196.48,8.0,False,True,Mixed-use,160.03,142756.66
+C Scheme,Mall Space,9.4,1984.75,3,3,45.85,158.89,9.9,True,False,Commercial,109.03,231545.89
+Malviya Nagar,Showroom,8.76,4620.94,7,9,91.8,102.52,8.4,True,False,Mixed-use,61.31,301380.47
+Tonk Road,Mall Space,19.85,1142.62,4,5,25.17,71.37,6.0,False,True,Commercial,85.01,103350.27
+Transportation Hub,Shop,19.03,3979.96,7,8,74.78,103.99,2.8,False,True,Commercial,184.57,799007.64
+Transportation Hub,Mall Space,18.82,2795.5,2,4,47.3,134.65,4.3,False,True,Mixed-use,165.92,466874.11
+Jagatpura,Shop,6.86,4293.67,7,9,66.01,189.41,9.4,True,True,Mixed-use,126.06,591772.02
+Tonk Road,Showroom,9.34,2673.78,4,7,91.83,195.07,2.9,False,False,Mixed-use,162.93,398507.81
+Vaishali Nagar,Shop,5.14,4180.54,2,4,49.54,77.0,3.7,True,True,Mixed-use,78.03,305487.87
+Tonk Road,Mall Space,6.85,944.1,2,2,59.55,116.27,8.1,True,False,Mixed-use,182.5,166624.29
+Gopalbari,Mall Space,2.55,981.22,2,6,97.2,145.46,9.9,False,True,Commercial,196.61,179741.73
+Gopalbari,Showroom,11.36,3158.36,6,9,94.88,194.34,3.2,False,False,Commercial,109.76,375792.1
+Vaishali Nagar,Shop,13.67,4421.99,1,9,58.86,22.76,9.5,True,False,Commercial,89.41,389337.25
+Bapu Nagar,Showroom,17.75,3153.36,1,1,20.93,155.83,6.4,False,False,Commercial,84.07,257705.83
+Bani Park,Shop,11.21,4836.96,2,10,96.91,181.76,6.5,True,False,Commercial,162.94,852754.88
+MG Road,Shop,13.12,1594.33,1,4,64.62,164.6,6.6,True,True,Commercial,104.85,180383.77
+Tonk Road,Mall Space,18.01,841.2,1,1,24.7,82.95,8.3,False,False,Commercial,170.92,153277.03
+Gopalbari,Mall Space,4.27,538.36,1,2,25.66,133.49,6.0,False,True,Mixed-use,194.23,113099.72
+Bani Park,Mall Space,2.35,754.62,2,2,98.44,175.18,4.8,True,True,Commercial,179.85,145550.98
+Vaishali Nagar,Shop,14.16,3213.55,4,8,57.26,153.76,7.3,True,False,Commercial,77.93,261900.19
+Jagatpura,Mall Space,2.9,2388.6,2,8,68.26,64.32,9.8,False,False,Commercial,126.64,331312.43
+MG Road,Shop,6.01,774.47,2,2,91.01,89.52,9.5,True,False,Commercial,152.35,122845.79
+Transportation Hub,Showroom,17.84,4899.09,1,3,37.7,170.99,2.2,True,False,Commercial,71.64,352969.9
+Malviya Nagar,Mall Space,16.65,783.78,6,9,49.99,126.31,9.4,True,False,Mixed-use,96.26,74330.85
+Malviya Nagar,Mall Space,1.89,3112.0,3,10,76.58,51.05,7.8,True,True,Mixed-use,135.6,404903.8
+Vaishali Nagar,Shop,16.2,1116.65,3,5,23.97,148.17,6.6,False,True,Mixed-use,52.15,59360.95
+MG Road,Mall Space,12.65,3532.81,3,7,13.79,66.72,4.3,False,False,Mixed-use,173.24,647952.06
+Jagatpura,Mall Space,3.81,1258.97,2,8,52.13,196.06,9.9,False,True,Commercial,143.54,165861.99
+Gopalbari,Showroom,9.15,3838.62,4,4,91.38,29.48,8.7,True,False,Commercial,106.38,372146.12
+Gopalbari,Showroom,4.23,3199.07,3,6,77.79,31.53,1.8,True,True,Commercial,176.4,561495.89
+Jagatpura,Showroom,17.22,3564.49,6,7,46.27,111.28,9.7,True,False,Mixed-use,94.11,339851.47
+Bani Park,Mall Space,6.84,529.66,2,8,26.85,21.69,1.7,False,False,Commercial,124.25,60201.01
+Jagatpura,Mall Space,4.9,4647.06,1,6,90.65,193.89,7.7,True,False,Commercial,181.03,902613.61
+Bapu Nagar,Mall Space,10.43,3417.68,1,1,20.54,23.56,10.0,True,True,Mixed-use,173.58,640656.88
+Gopalbari,Showroom,4.79,839.77,3,4,41.82,84.25,8.9,True,False,Mixed-use,65.05,59705.93
+Gopalbari,Mall Space,9.43,3112.24,2,3,13.45,53.53,9.7,True,False,Mixed-use,190.07,544571.52
+Transportation Hub,Shop,19.65,912.23,1,5,29.51,164.34,1.6,True,False,Mixed-use,81.49,69851.68
+Tonk Road,Showroom,7.52,3243.29,9,9,65.82,71.28,4.4,False,True,Mixed-use,189.22,642254.7
+Jagatpura,Mall Space,12.92,1151.44,1,6,70.29,103.28,9.1,False,True,Commercial,96.05,108683.34
+Malviya Nagar,Shop,16.97,2593.17,5,7,72.01,152.07,4.8,False,False,Mixed-use,148.12,414553.35
+Jagatpura,Mall Space,5.08,4910.61,2,5,62.61,128.98,4.7,True,False,Mixed-use,76.61,382416.41
+Transportation Hub,Mall Space,2.59,3100.99,3,7,63.64,198.04,1.8,True,False,Commercial,148.35,428363.03
+Bani Park,Shop,1.79,656.84,3,7,73.12,68.32,2.3,False,False,Mixed-use,160.57,105258.3
+C Scheme,Mall Space,14.57,640.0,4,4,70.89,115.72,7.1,False,True,Commercial,55.88,38941.74
+C Scheme,Mall Space,13.4,1459.45,1,9,94.08,38.62,3.6,True,False,Mixed-use,170.87,263782.06
+Malviya Nagar,Mall Space,9.49,940.5,1,1,34.3,27.86,8.2,False,True,Commercial,194.68,171424.07
+Malviya Nagar,Mall Space,12.89,2205.41,1,4,87.06,120.36,6.9,False,True,Commercial,146.17,311160.23
+Malviya Nagar,Shop,10.12,2054.59,3,5,43.63,115.67,3.6,False,False,Commercial,197.22,387907.94
+Tonk Road,Shop,18.36,877.82,1,4,55.65,154.41,7.9,False,True,Mixed-use,67.42,62337.6
+Transportation Hub,Shop,4.07,4458.22,3,9,18.8,73.06,8.7,True,False,Mixed-use,198.68,809754.96
+MG Road,Showroom,17.1,4570.59,1,1,88.87,63.27,9.1,True,True,Mixed-use,170.41,722455.56
+Transportation Hub,Mall Space,14.98,2984.95,1,1,88.62,116.37,9.6,True,True,Mixed-use,159.3,451610.09
+Gopalbari,Mall Space,18.56,1046.01,5,7,27.47,76.41,1.0,False,True,Commercial,69.67,68227.24
+Gopalbari,Shop,11.76,203.65,1,2,16.87,139.97,6.8,False,True,Commercial,83.92,17121.44
+Transportation Hub,Mall Space,15.1,423.42,2,6,31.37,45.47,6.5,True,True,Mixed-use,79.46,33622.35
+Gopalbari,Showroom,19.41,2921.79,4,10,62.68,68.25,4.1,True,False,Mixed-use,78.43,246224.77
+Bapu Nagar,Shop,4.44,3350.88,4,10,91.11,33.53,3.4,False,False,Mixed-use,191.78,664798.48
+MG Road,Mall Space,11.92,2283.69,1,6,86.26,29.14,6.9,False,False,Commercial,150.32,354995.59
+MG Road,Shop,19.94,2026.44,10,10,55.5,199.87,4.5,True,True,Commercial,74.04,145895.43
+MG Road,Shop,0.8,4656.46,2,5,63.29,168.68,7.5,False,True,Commercial,83.72,410412.55
+Malviya Nagar,Showroom,13.08,289.74,4,5,66.59,165.16,9.4,False,True,Mixed-use,177.13,54668.02
+C Scheme,Shop,13.02,3718.42,4,7,96.6,27.45,3.6,False,False,Mixed-use,132.81,505171.32
+Bapu Nagar,Mall Space,14.43,271.98,7,8,53.71,125.29,8.3,True,True,Commercial,115.24,29993.61
+Jagatpura,Mall Space,11.21,2433.62,6,7,95.53,43.73,5.8,False,True,Mixed-use,122.45,319174.56
+Bani Park,Showroom,12.13,3685.05,3,9,38.34,31.39,1.3,True,False,Mixed-use,82.77,319291.33
+Vaishali Nagar,Showroom,4.89,2014.68,4,4,39.44,57.7,4.2,True,False,Mixed-use,118.79,259728.9
+Tonk Road,Mall Space,9.77,1435.83,4,4,27.35,128.7,4.2,True,True,Mixed-use,127.34,197284.06
+Tonk Road,Mall Space,17.14,2937.68,5,8,55.78,123.35,6.7,True,False,Mixed-use,180.31,567594.95
+Bani Park,Showroom,10.96,1468.49,8,10,24.56,123.18,7.9,False,False,Commercial,146.15,228984.65
+Gopalbari,Shop,12.08,4869.99,5,8,83.61,192.92,4.0,True,False,Mixed-use,181.93,948842.79
+Gopalbari,Showroom,6.96,3299.73,1,5,93.65,180.24,6.8,True,True,Commercial,187.64,660856.37
+Tonk Road,Showroom,1.87,3533.45,4,6,95.32,181.63,2.7,True,False,Commercial,133.37,517070.94
+Vaishali Nagar,Shop,13.83,1774.66,2,4,78.87,130.0,9.8,False,True,Commercial,58.16,94460.93
+Vaishali Nagar,Showroom,18.35,2189.22,1,9,36.31,196.53,4.6,True,False,Commercial,173.0,393036.83
+Malviya Nagar,Showroom,17.07,4751.67,1,8,67.7,50.51,3.4,True,False,Mixed-use,113.02,551273.46
+Malviya Nagar,Showroom,6.43,4851.44,6,6,59.42,195.22,6.4,False,True,Mixed-use,72.38,361698.98
+Vaishali Nagar,Shop,16.91,4090.22,1,4,35.78,45.82,1.5,True,True,Commercial,50.83,202561.35
+Malviya Nagar,Mall Space,7.52,4168.05,5,6,58.49,171.47,7.2,True,False,Mixed-use,130.57,500649.29
+Vaishali Nagar,Showroom,8.53,2800.55,3,5,86.02,180.19,9.7,True,True,Commercial,141.02,381632.03
+Gopalbari,Shop,13.98,2189.08,3,4,34.56,137.19,7.2,False,False,Mixed-use,141.43,289810.82
+Bapu Nagar,Showroom,7.54,3789.62,1,1,52.51,30.66,3.6,True,False,Commercial,137.39,562785.52
+Transportation Hub,Mall Space,9.29,3179.66,1,5,89.15,76.8,3.9,True,False,Commercial,86.32,282176.54
+Vaishali Nagar,Showroom,8.88,3363.03,3,9,84.79,143.43,3.7,True,True,Commercial,102.36,375697.05
+Jagatpura,Shop,2.58,3908.25,7,9,55.25,115.13,9.6,True,False,Commercial,56.49,231019.16
+C Scheme,Showroom,19.23,4227.66,3,6,28.9,119.11,8.2,False,True,Mixed-use,119.88,540995.41
+Jagatpura,Showroom,11.53,3087.16,1,2,60.35,186.98,6.1,True,False,Commercial,169.22,512594.47
+Jagatpura,Showroom,11.56,1102.15,2,6,36.94,156.32,1.7,True,False,Commercial,102.63,109115.78
+Malviya Nagar,Showroom,16.36,4198.94,1,7,27.43,184.58,8.9,False,True,Commercial,181.65,736850.98
+Gopalbari,Showroom,11.18,756.93,3,6,16.72,152.3,8.4,False,True,Commercial,68.08,50329.27
+C Scheme,Mall Space,3.88,3387.56,5,8,99.67,60.88,7.7,True,False,Mixed-use,154.31,559133.53
+Gopalbari,Mall Space,11.02,4726.6,8,9,51.58,181.8,4.1,False,False,Mixed-use,91.4,443890.29
+Bani Park,Mall Space,1.76,1908.56,3,9,52.78,172.57,9.3,False,True,Commercial,84.52,155425.34
+Bapu Nagar,Showroom,8.55,4392.68,2,3,94.56,49.58,8.5,False,True,Commercial,147.83,713628.25
+Gopalbari,Shop,12.5,890.92,1,1,45.83,59.71,7.4,False,True,Commercial,131.0,118388.5
+MG Road,Mall Space,4.26,1110.83,1,3,91.58,147.79,7.8,False,True,Mixed-use,61.82,75488.65
+MG Road,Showroom,1.11,4795.1,7,10,26.38,139.54,4.2,True,True,Commercial,194.84,1016236.85
+Jagatpura,Mall Space,14.96,678.79,4,4,39.07,32.0,5.6,False,True,Mixed-use,66.61,42701.64
+Gopalbari,Mall Space,9.53,960.57,2,4,71.31,30.41,9.3,False,True,Mixed-use,134.74,134853.8
+C Scheme,Showroom,13.75,1255.16,2,3,39.84,47.32,7.8,False,False,Mixed-use,60.74,76761.55
+MG Road,Showroom,9.62,3379.78,6,10,59.17,82.41,1.5,True,True,Commercial,179.13,655536.88
+Vaishali Nagar,Shop,11.93,535.06,3,5,13.97,123.72,5.9,False,False,Mixed-use,97.89,52979.04
+Tonk Road,Showroom,15.63,389.78,4,5,40.41,65.94,1.5,False,False,Commercial,186.94,78869.37
+C Scheme,Showroom,16.2,3383.24,3,6,80.38,199.65,3.0,False,False,Mixed-use,73.26,268967.9
+Gopalbari,Showroom,8.06,4846.7,4,4,42.56,30.91,4.4,True,True,Mixed-use,144.76,711115.42
+Jagatpura,Showroom,8.13,1099.03,1,2,47.87,42.2,5.9,True,True,Mixed-use,51.25,60844.97
+Transportation Hub,Shop,6.26,3266.6,4,6,17.24,135.66,4.0,True,True,Commercial,161.88,479350.57
+MG Road,Showroom,3.54,3398.27,7,8,29.0,154.9,6.4,False,True,Mixed-use,128.38,453878.09
+C Scheme,Mall Space,13.57,4397.31,2,4,67.29,25.46,4.5,False,True,Mixed-use,106.04,440568.52
+Vaishali Nagar,Shop,13.0,3793.67,8,8,53.51,34.91,5.6,True,True,Commercial,148.88,555124.42
+Tonk Road,Showroom,14.91,4866.31,8,8,61.8,109.94,7.8,True,False,Commercial,106.19,512518.78
+Tonk Road,Showroom,16.04,1633.72,1,9,51.98,171.1,2.5,True,False,Commercial,141.49,210781.3
+Tonk Road,Mall Space,3.49,4343.38,1,1,78.03,42.7,1.3,False,True,Mixed-use,181.63,723435.34
+Vaishali Nagar,Showroom,11.77,3638.73,5,5,63.54,69.69,7.4,False,True,Mixed-use,135.08,473530.06
+C Scheme,Showroom,19.55,1531.59,7,10,85.12,90.07,3.7,False,False,Mixed-use,144.94,229679.17
+Tonk Road,Shop,9.21,3908.07,1,6,57.07,108.29,4.0,True,True,Commercial,110.63,424501.1
+Bani Park,Showroom,14.89,4813.72,1,1,63.32,128.23,5.8,True,True,Mixed-use,82.95,414683.3
+Bapu Nagar,Mall Space,15.61,2137.13,4,6,38.58,71.47,2.5,True,True,Commercial,196.25,435522.61
+Vaishali Nagar,Showroom,18.52,4222.58,3,7,26.79,69.28,5.9,True,True,Mixed-use,56.68,219565.56
+Transportation Hub,Showroom,18.9,2995.02,1,2,89.18,78.55,4.1,True,True,Commercial,134.89,374370.59
+Bani Park,Mall Space,8.77,415.1,10,10,88.36,182.55,6.6,True,False,Commercial,198.97,78300.24
+Gopalbari,Shop,15.38,1483.0,5,5,47.7,45.82,5.0,False,False,Commercial,50.22,70075.86
+Bani Park,Mall Space,17.59,241.0,4,10,74.39,119.66,6.8,True,True,Commercial,181.88,47792.7
+Transportation Hub,Mall Space,16.54,1835.29,2,2,87.24,46.92,7.6,True,False,Mixed-use,62.45,109797.4
+Gopalbari,Shop,4.17,3767.17,2,10,89.46,117.21,5.1,False,True,Mixed-use,68.39,233208.82
+Jagatpura,Shop,5.71,4620.51,2,2,96.92,148.07,5.4,False,True,Mixed-use,83.62,365095.07
+Bani Park,Shop,0.71,453.9,2,4,84.75,96.07,3.0,False,True,Commercial,155.94,70943.28
+Bani Park,Mall Space,12.76,3861.11,1,1,30.73,159.29,9.3,True,True,Mixed-use,96.57,361602.77
+Tonk Road,Mall Space,2.05,1443.49,3,10,30.34,36.62,3.7,False,True,Commercial,167.29,247345.82
+Vaishali Nagar,Showroom,17.86,2571.92,6,6,12.25,121.96,5.5,False,False,Commercial,165.33,457895.65
+Bapu Nagar,Mall Space,5.24,3395.82,1,3,92.31,89.05,3.2,False,False,Mixed-use,61.26,194946.83
+Vaishali Nagar,Mall Space,3.85,2934.34,4,10,82.35,22.65,2.9,True,True,Commercial,65.7,211816.85
+Gopalbari,Shop,4.74,3303.89,7,8,45.29,29.09,5.6,True,True,Commercial,74.03,237259.36
+C Scheme,Mall Space,11.31,531.27,10,10,89.77,162.14,2.5,True,False,Mixed-use,97.56,47606.08
+Bani Park,Mall Space,17.45,3363.53,5,8,73.6,189.48,1.9,True,True,Mixed-use,115.52,404819.97
+Malviya Nagar,Showroom,15.91,2485.66,3,9,43.99,199.26,6.2,False,False,Commercial,63.5,153308.06
+Tonk Road,Showroom,17.22,904.37,1,3,50.97,101.69,4.7,True,True,Mixed-use,198.98,189973.61
+Malviya Nagar,Mall Space,6.57,289.81,1,1,52.72,38.74,7.6,False,True,Mixed-use,137.94,36959.91
+C Scheme,Shop,4.59,3915.52,5,10,99.95,188.92,2.8,True,False,Commercial,98.61,421637.38
+MG Road,Shop,4.58,3586.3,2,6,45.15,54.73,8.7,False,True,Commercial,175.15,672128.6
+Bani Park,Showroom,6.99,4610.08,5,9,40.34,56.96,6.1,False,True,Commercial,165.67,707472.3
+Gopalbari,Mall Space,8.09,4654.78,6,10,98.06,23.06,4.2,False,False,Mixed-use,83.25,364907.97
+Bani Park,Showroom,2.64,799.51,8,8,51.65,82.27,7.9,False,True,Mixed-use,172.04,148691.23
+Vaishali Nagar,Mall Space,8.77,2759.49,6,7,25.77,98.75,8.8,True,True,Mixed-use,74.28,203685.78
+Gopalbari,Shop,6.67,2061.49,4,10,22.33,61.76,6.0,True,True,Mixed-use,184.45,402341.33
+MG Road,Showroom,0.56,4215.9,4,7,98.67,158.59,4.4,True,True,Commercial,168.77,765194.48
+Bani Park,Mall Space,5.05,1268.95,5,10,28.43,97.88,5.8,False,False,Mixed-use,127.71,176969.83
+Gopalbari,Shop,12.18,1858.33,1,3,25.55,30.62,4.4,True,True,Mixed-use,173.08,302447.86
+Vaishali Nagar,Mall Space,8.66,4472.88,2,5,51.48,39.25,3.4,True,False,Commercial,73.25,358421.84
+Tonk Road,Shop,18.24,4333.77,1,9,31.48,159.44,5.8,False,False,Mixed-use,193.04,802547.88
+Jagatpura,Shop,7.13,4765.92,2,9,54.42,68.28,4.0,True,True,Commercial,157.26,775235.54
+Gopalbari,Shop,10.21,1614.71,1,1,16.44,24.78,8.5,True,False,Mixed-use,93.76,161772.72
+MG Road,Shop,17.33,2316.7,4,4,13.35,181.3,6.6,True,False,Commercial,79.69,192078.7
+Vaishali Nagar,Shop,14.8,567.12,1,1,80.66,62.56,8.2,False,True,Mixed-use,126.04,67529.41
+Tonk Road,Shop,8.49,1560.3,4,6,94.26,137.04,5.9,False,True,Commercial,68.72,113771.72
+Malviya Nagar,Showroom,13.85,1040.69,1,1,33.11,182.1,2.1,True,False,Commercial,62.98,64087.73
+Jagatpura,Shop,10.16,1347.5,2,2,94.31,191.75,1.6,True,False,Commercial,109.28,136025.33
+Vaishali Nagar,Showroom,9.43,4735.51,2,3,16.64,28.5,7.6,False,True,Commercial,186.7,929001.73
+Jagatpura,Showroom,3.48,1740.04,4,5,89.24,105.03,4.7,False,False,Mixed-use,118.12,197517.84
+Vaishali Nagar,Showroom,8.26,1874.99,1,9,92.09,186.9,9.8,True,False,Commercial,99.06,170400.45
+Transportation Hub,Mall Space,11.91,1769.98,4,7,60.15,40.87,3.0,True,False,Commercial,113.15,190037.73
+Bani Park,Shop,19.87,2583.7,4,7,37.3,64.91,5.0,True,True,Mixed-use,115.14,276406.31
+Transportation Hub,Showroom,12.53,2559.2,3,3,67.05,194.86,1.7,True,False,Commercial,126.76,352082.41
+MG Road,Shop,9.51,2401.4,1,4,51.89,114.83,1.7,False,False,Commercial,162.97,409285.72
+Bani Park,Mall Space,12.29,1959.42,1,1,39.0,32.28,3.1,False,False,Mixed-use,192.07,407038.36
+Vaishali Nagar,Shop,18.29,2479.09,1,4,56.4,25.39,8.2,True,False,Mixed-use,103.85,231824.94
+Transportation Hub,Mall Space,2.28,2666.85,1,3,59.18,92.17,2.2,True,True,Mixed-use,195.75,482775.89
+Malviya Nagar,Showroom,17.78,4760.13,1,3,45.27,180.72,3.7,False,True,Commercial,171.17,873633.86
+Malviya Nagar,Mall Space,19.54,2701.92,2,6,41.96,97.53,1.5,True,True,Commercial,136.93,373506.89
+Jagatpura,Shop,13.74,1924.49,8,10,71.26,182.09,9.2,False,False,Mixed-use,109.65,190614.92
+C Scheme,Showroom,15.88,2054.25,1,9,89.11,33.28,2.8,True,True,Commercial,195.85,385187.19
+C Scheme,Shop,12.35,3639.91,6,6,81.71,92.23,9.4,False,False,Mixed-use,101.8,385137.95
+Transportation Hub,Showroom,4.07,917.99,1,7,79.97,109.81,7.0,False,False,Mixed-use,96.68,86391.54
+C Scheme,Mall Space,10.08,3164.67,4,10,66.34,76.41,4.5,False,False,Commercial,89.25,305071.48
+Tonk Road,Shop,4.03,4376.17,1,2,65.72,39.36,4.3,True,True,Commercial,100.38,456678.06
+C Scheme,Shop,4.98,972.29,7,8,39.67,121.79,8.1,False,False,Mixed-use,90.97,89940.83
+Tonk Road,Mall Space,1.44,4992.48,5,8,73.04,123.73,9.6,False,True,Mixed-use,182.19,869180.62
+Malviya Nagar,Showroom,15.09,2150.51,5,8,96.97,51.32,5.7,True,False,Mixed-use,55.82,118985.63
+MG Road,Mall Space,3.76,3835.83,2,6,77.15,165.76,8.9,False,True,Commercial,120.02,447020.55
+MG Road,Shop,17.62,4283.18,1,6,61.28,41.0,9.1,True,False,Commercial,188.58,786240.84
+Malviya Nagar,Mall Space,14.47,4471.23,2,5,41.59,142.52,9.7,False,True,Commercial,81.53,338941.56
+Bani Park,Mall Space,5.62,3484.12,4,7,46.58,113.08,6.1,False,True,Mixed-use,194.38,675979.47
+Malviya Nagar,Shop,10.31,3616.43,2,5,85.99,68.9,1.5,True,False,Commercial,169.05,589090.82
+Jagatpura,Mall Space,4.92,3893.55,2,3,70.79,149.12,5.3,True,True,Commercial,69.04,287137.77
+Malviya Nagar,Mall Space,17.19,2274.68,2,2,64.47,78.37,3.1,False,True,Mixed-use,171.4,368136.18
+Malviya Nagar,Mall Space,14.64,405.28,1,5,96.15,178.21,9.9,True,False,Mixed-use,172.7,74415.49
+Transportation Hub,Shop,17.84,3965.8,3,5,14.17,135.05,9.0,False,True,Commercial,162.21,636923.29
+C Scheme,Shop,2.25,4360.65,2,10,99.06,98.7,2.4,True,False,Commercial,74.32,306487.73
+MG Road,Showroom,2.67,743.47,3,8,56.03,159.55,8.6,True,False,Commercial,136.29,97991.84
+Tonk Road,Mall Space,3.88,2836.29,6,7,24.3,88.81,2.7,True,False,Commercial,109.98,302069.69
+Gopalbari,Mall Space,0.61,1784.31,5,10,31.42,95.15,5.4,True,True,Commercial,181.56,349640.23
+Transportation Hub,Shop,1.63,1531.51,8,8,63.26,175.97,7.2,False,True,Commercial,130.79,187498.51
+Bapu Nagar,Showroom,3.47,1437.63,2,2,94.7,184.09,6.9,True,True,Commercial,75.0,101198.65
+C Scheme,Shop,8.55,4222.86,4,8,69.53,47.88,3.1,False,False,Commercial,169.42,656610.39
+Vaishali Nagar,Shop,11.25,1863.57,2,3,38.27,56.54,1.4,True,False,Commercial,165.55,331573.47
+Tonk Road,Mall Space,6.32,2456.05,6,6,92.19,149.72,1.7,False,True,Commercial,123.04,315119.41
+Vaishali Nagar,Mall Space,15.71,466.0,7,7,16.86,188.15,8.0,False,False,Commercial,144.94,61779.81
+Jagatpura,Shop,7.76,4622.99,2,4,77.89,22.02,6.9,True,False,Mixed-use,194.57,973388.72
+Bapu Nagar,Shop,4.73,4673.85,6,10,43.26,169.25,2.5,False,True,Commercial,85.6,384956.51
+Malviya Nagar,Showroom,10.22,208.68,2,5,24.12,150.31,9.5,True,False,Commercial,121.08,24811.17
+Malviya Nagar,Mall Space,10.56,1823.83,4,6,76.69,70.0,2.7,True,False,Mixed-use,102.84,173289.36
+Bapu Nagar,Shop,15.34,1083.1,7,10,31.37,40.13,3.9,False,False,Mixed-use,170.81,175946.87
+Jagatpura,Shop,1.9,3837.63,1,2,14.76,174.26,3.3,True,True,Mixed-use,170.83,646499.71
+Transportation Hub,Mall Space,14.78,3882.92,6,10,42.89,135.53,4.2,True,True,Mixed-use,73.46,301238.81
+Vaishali Nagar,Showroom,18.1,2506.69,10,10,70.23,150.86,8.9,False,True,Commercial,70.08,173183.63
+Transportation Hub,Shop,2.74,3362.03,6,10,63.82,137.71,9.2,True,True,Commercial,175.1,643993.52
+Jagatpura,Shop,2.73,1750.5,1,10,19.05,44.13,2.2,False,True,Commercial,180.57,324624.47
+Malviya Nagar,Shop,8.78,1186.62,7,8,91.05,101.84,3.0,True,True,Mixed-use,192.06,243273.11
+Bani Park,Shop,5.1,3008.41,2,2,73.43,31.69,6.4,True,True,Commercial,66.81,190248.82
+Malviya Nagar,Showroom,5.08,2999.9,1,6,88.5,139.75,5.8,False,True,Mixed-use,176.27,504234.13
+Bapu Nagar,Showroom,1.33,3923.34,1,3,96.28,20.82,4.0,True,False,Mixed-use,76.9,325367.74
+Vaishali Nagar,Showroom,2.15,2901.56,3,4,54.76,92.71,9.2,True,True,Mixed-use,155.02,490442.92
+Bapu Nagar,Shop,17.1,3054.37,8,8,60.89,131.05,3.1,True,False,Commercial,145.47,452975.32
+Bapu Nagar,Showroom,4.26,2298.52,4,6,58.51,170.55,7.7,False,False,Mixed-use,120.82,301714.08
+Bani Park,Mall Space,2.66,3669.21,5,5,82.22,88.51,4.0,False,False,Commercial,118.69,430409.41
+MG Road,Shop,13.84,2521.16,5,6,43.05,193.17,5.1,False,True,Commercial,128.39,313363.69
+Gopalbari,Mall Space,15.94,2245.37,2,5,39.41,81.56,4.1,False,True,Commercial,56.11,124433.97
+Bani Park,Mall Space,10.63,1282.33,2,10,62.35,90.71,2.1,False,True,Mixed-use,100.48,121347.91
+C Scheme,Shop,12.22,1224.58,1,1,83.87,151.34,4.3,True,True,Mixed-use,122.37,142740.02
+C Scheme,Showroom,13.53,344.87,3,4,74.76,193.55,6.1,False,False,Mixed-use,147.2,51081.43
+Tonk Road,Shop,19.49,3586.93,2,3,36.47,78.63,3.8,True,False,Commercial,121.14,406522.77
+Gopalbari,Showroom,8.0,2962.58,9,10,52.43,163.3,2.1,True,False,Mixed-use,138.73,444212.78
+Bapu Nagar,Mall Space,19.51,1061.07,1,6,63.25,41.87,8.6,False,False,Mixed-use,189.32,209996.36
+Tonk Road,Showroom,17.6,457.09,2,6,78.35,22.66,6.6,False,True,Commercial,64.9,30666.77
+C Scheme,Mall Space,1.45,3331.99,9,9,79.41,83.21,2.3,True,False,Commercial,122.6,381711.8
+C Scheme,Showroom,1.34,780.26,6,10,16.11,75.58,5.2,True,False,Mixed-use,112.38,90125.45
+Transportation Hub,Shop,11.86,1863.99,5,6,71.35,81.99,8.8,True,True,Mixed-use,114.75,203507.94
+Transportation Hub,Shop,7.05,775.01,5,5,93.05,94.51,3.6,False,True,Mixed-use,99.44,72075.05
+Jagatpura,Mall Space,8.86,2390.57,3,6,73.74,80.12,3.9,True,False,Mixed-use,197.67,444380.98
+C Scheme,Mall Space,5.16,3975.53,9,10,65.05,126.04,4.4,False,True,Commercial,197.73,798136.02
+Bapu Nagar,Shop,8.46,4083.25,4,4,80.77,153.68,7.9,True,False,Commercial,93.24,358193.91
+Transportation Hub,Shop,0.67,2324.17,1,1,92.26,169.75,7.2,True,False,Mixed-use,69.44,166281.17
+Malviya Nagar,Showroom,16.4,2062.56,4,5,78.11,118.22,5.5,True,True,Mixed-use,165.2,330009.54
+Jagatpura,Showroom,9.15,1598.96,2,7,83.58,121.54,9.5,False,True,Commercial,76.07,111244.84
+Bapu Nagar,Shop,16.04,3572.01,1,1,82.96,87.3,2.9,False,False,Mixed-use,116.01,410360.17
+MG Road,Shop,13.71,1799.78,5,6,21.58,20.59,5.0,False,False,Commercial,85.51,151378.85
+Tonk Road,Shop,5.68,3856.92,1,1,57.92,96.5,9.5,True,True,Commercial,60.45,222299.03
+Jagatpura,Shop,1.78,4094.8,1,1,47.9,74.18,2.6,True,False,Mixed-use,180.33,742384.83
+Gopalbari,Shop,13.35,2839.08,1,2,18.77,197.48,2.7,False,True,Mixed-use,104.07,275057.69
+Tonk Road,Shop,18.4,1287.99,1,2,49.62,187.19,3.4,False,True,Mixed-use,153.21,211591.21
+Tonk Road,Mall Space,14.97,458.13,4,7,54.01,173.56,7.5,False,True,Commercial,156.25,74267.44
+MG Road,Showroom,14.5,3728.21,1,1,12.18,29.03,8.4,True,False,Mixed-use,81.23,291519.85
+C Scheme,Mall Space,17.73,4375.11,1,1,95.09,188.0,7.6,False,True,Commercial,109.6,496823.06
+Bapu Nagar,Mall Space,9.72,1538.96,1,7,31.29,21.53,5.8,False,True,Commercial,81.21,127851.12
+Jagatpura,Shop,19.18,4472.37,9,9,24.97,70.27,2.6,True,True,Mixed-use,126.61,519460.38
+Bani Park,Mall Space,6.06,4808.11,3,6,12.38,60.97,2.0,True,True,Commercial,138.48,632105.61
+C Scheme,Shop,3.98,800.58,2,3,77.24,116.21,4.6,False,False,Mixed-use,95.76,74098.35
+Vaishali Nagar,Showroom,13.32,2202.31,1,1,25.55,68.57,9.3,False,True,Commercial,132.43,296397.25
+Malviya Nagar,Showroom,11.64,1508.68,1,1,91.82,145.06,9.9,True,True,Commercial,88.82,123596.69
+Malviya Nagar,Showroom,19.65,4210.59,3,9,53.28,57.34,6.4,True,True,Commercial,104.39,426083.94
+Vaishali Nagar,Mall Space,6.37,4310.08,5,10,12.54,193.43,5.7,False,False,Commercial,111.56,510006.25
+Transportation Hub,Mall Space,3.88,1148.22,3,9,43.26,82.91,7.9,False,True,Commercial,195.89,225968.89
+C Scheme,Mall Space,5.81,2753.35,6,7,94.98,144.52,2.8,True,True,Mixed-use,178.9,466559.42
+Bapu Nagar,Mall Space,16.82,1952.8,2,5,76.52,83.52,6.0,True,False,Mixed-use,132.3,268079.58
+Bani Park,Mall Space,9.74,3894.77,5,8,53.26,141.02,8.4,True,True,Mixed-use,100.38,415619.97
+MG Road,Showroom,8.02,3624.72,1,1,45.54,122.74,5.3,False,True,Mixed-use,146.75,536525.24
+MG Road,Showroom,0.7,3551.44,2,9,14.94,24.72,5.4,False,False,Mixed-use,153.34,513919.6
+Malviya Nagar,Showroom,18.04,2360.34,6,7,39.67,105.48,1.6,False,True,Commercial,179.37,402881.9
+MG Road,Showroom,5.7,4747.58,1,1,71.88,198.35,6.5,True,False,Commercial,169.28,753135.69
+Bapu Nagar,Mall Space,5.15,1019.76,3,9,37.56,139.4,9.6,False,True,Mixed-use,167.02,165851.79
+Malviya Nagar,Shop,2.88,1515.59,4,4,60.34,70.62,4.8,True,False,Commercial,169.06,240869.96
+Vaishali Nagar,Mall Space,6.57,4878.64,1,6,96.69,82.08,5.0,True,True,Mixed-use,57.77,292492.55
+C Scheme,Mall Space,11.35,2964.1,1,1,49.74,84.37,9.6,True,False,Commercial,197.54,624671.39
+Vaishali Nagar,Shop,6.89,3658.16,1,2,90.59,180.91,9.5,True,True,Mixed-use,142.86,471408.04
+Malviya Nagar,Shop,3.34,3859.64,3,10,54.08,80.49,1.8,True,True,Commercial,178.12,636634.8
+Bani Park,Showroom,2.29,4327.86,1,4,82.57,165.13,7.6,False,False,Mixed-use,68.73,283146.46
+Tonk Road,Mall Space,15.58,364.95,6,6,12.52,64.03,9.5,False,True,Mixed-use,72.76,24004.67
+Transportation Hub,Shop,9.44,4379.84,7,10,26.7,152.8,2.1,True,False,Mixed-use,178.99,855701.97
+Bani Park,Mall Space,17.4,574.73,6,6,34.19,163.6,4.3,False,True,Mixed-use,177.08,106254.02
+MG Road,Shop,0.85,3982.49,1,2,32.91,173.14,5.0,False,False,Mixed-use,52.53,201057.19
+C Scheme,Shop,15.7,4623.03,6,6,35.38,23.43,4.1,False,True,Mixed-use,126.12,540623.64
+Jagatpura,Shop,13.7,1321.01,4,4,30.28,197.94,3.0,False,True,Mixed-use,190.63,267297.27
+Vaishali Nagar,Shop,4.03,4739.46,1,6,45.33,98.54,8.7,False,False,Commercial,181.55,881623.7
+Tonk Road,Mall Space,14.31,3462.35,2,5,32.99,83.24,6.0,False,True,Mixed-use,68.52,248686.18
+Bapu Nagar,Mall Space,16.23,631.54,5,6,25.52,110.3,4.7,True,True,Mixed-use,158.91,100368.55
+Vaishali Nagar,Mall Space,3.19,1600.55,8,10,31.8,138.11,1.6,False,False,Commercial,129.5,197552.75
+Jagatpura,Shop,14.63,1415.0,6,9,61.75,88.38,8.3,False,True,Commercial,194.95,298988.01
+MG Road,Showroom,4.78,1295.69,1,6,71.61,93.1,7.2,False,True,Commercial,74.47,101706.36
+MG Road,Shop,8.4,1839.06,1,2,73.87,65.95,1.7,False,True,Mixed-use,56.62,102679.43
+Jagatpura,Mall Space,14.0,3203.27,3,9,50.67,84.75,2.7,True,True,Commercial,148.74,445748.54
+Transportation Hub,Showroom,10.82,4743.47,7,8,69.65,171.45,2.3,True,True,Commercial,183.94,898180.82
+Jagatpura,Shop,17.65,4801.41,1,2,10.11,52.89,3.0,True,True,Mixed-use,67.93,345249.34
+MG Road,Showroom,7.0,3309.41,8,9,10.93,20.23,6.5,False,True,Mixed-use,185.31,596692.52
+Transportation Hub,Shop,14.7,4725.23,1,5,80.89,94.64,8.7,False,False,Commercial,67.14,313766.07
+Bani Park,Mall Space,4.18,3956.75,2,5,49.34,143.92,4.0,True,True,Mixed-use,115.37,411068.34
+MG Road,Mall Space,10.04,3854.14,4,7,28.39,185.7,4.1,True,True,Commercial,172.75,710282.04
+Malviya Nagar,Mall Space,17.87,2923.42,9,10,18.05,143.43,9.2,False,True,Mixed-use,65.75,206664.35
+Malviya Nagar,Mall Space,15.23,4913.28,1,6,10.42,177.69,8.5,False,False,Commercial,133.34,650113.7
+Malviya Nagar,Shop,19.68,3571.65,2,4,29.01,30.84,1.2,True,False,Commercial,140.66,497141.66
+Bapu Nagar,Shop,4.69,3546.05,6,7,76.67,108.2,1.4,True,False,Commercial,178.31,581870.03
+C Scheme,Shop,12.84,3466.94,2,2,48.69,37.9,4.3,False,False,Mixed-use,65.67,213937.88
+Gopalbari,Showroom,6.17,3857.37,1,2,29.15,163.88,1.7,True,False,Commercial,88.47,350791.85
+Tonk Road,Shop,17.76,1356.61,1,2,32.66,63.76,6.8,False,False,Commercial,58.61,84706.8
+Bani Park,Showroom,10.03,4408.62,2,5,45.26,68.85,5.2,False,True,Commercial,176.79,781640.63
+MG Road,Mall Space,13.31,3173.42,4,5,14.42,38.06,4.5,False,False,Mixed-use,63.62,195226.83
+Transportation Hub,Mall Space,4.48,3139.71,1,3,30.73,153.08,7.8,False,True,Commercial,137.75,436570.84
+Tonk Road,Showroom,12.07,4783.43,6,6,82.69,53.51,8.1,False,False,Mixed-use,107.57,505981.43
+MG Road,Showroom,8.0,2229.59,2,3,45.92,61.59,3.5,True,True,Mixed-use,135.01,330367.65
+Bapu Nagar,Shop,10.05,1380.48,5,8,37.25,170.32,5.5,False,False,Commercial,112.35,143946.43
+Bapu Nagar,Shop,16.7,2329.02,7,9,51.16,22.92,8.2,False,False,Mixed-use,178.87,440346.74
+Bani Park,Showroom,4.61,3410.7,6,7,13.35,107.34,3.9,True,True,Commercial,163.58,525593.74
+Vaishali Nagar,Showroom,18.25,4729.68,4,10,24.57,32.69,8.5,True,False,Mixed-use,162.79,808073.58
+Bani Park,Shop,14.39,4523.56,5,9,63.8,123.89,5.6,True,False,Commercial,129.06,601553.9
+Gopalbari,Shop,15.68,4036.82,7,9,96.85,43.03,4.9,True,False,Mixed-use,153.06,618011.93
+MG Road,Mall Space,1.01,2125.81,4,4,52.42,71.11,3.6,True,True,Mixed-use,76.26,151644.62
+MG Road,Mall Space,9.79,4826.18,2,7,95.36,48.6,9.4,False,False,Mixed-use,98.78,496327.65
+MG Road,Shop,11.68,2131.93,4,7,34.0,167.68,5.1,False,False,Mixed-use,193.48,406818.11
+Gopalbari,Mall Space,15.76,1827.13,4,5,45.0,50.63,4.4,False,False,Mixed-use,91.19,162248.09
+Tonk Road,Shop,7.02,3578.65,7,9,86.58,40.58,5.7,False,False,Mixed-use,176.72,570317.12
+Transportation Hub,Showroom,17.08,1607.17,3,3,65.1,163.65,8.1,False,False,Commercial,194.02,301771.58
+Transportation Hub,Shop,18.98,2962.73,4,4,20.7,189.29,1.8,False,True,Mixed-use,88.05,273965.14
+Transportation Hub,Shop,0.87,2621.47,4,10,65.67,57.72,5.9,True,False,Commercial,165.24,433130.96
+Transportation Hub,Showroom,7.96,4431.49,1,2,21.97,147.71,4.9,True,True,Commercial,87.52,417502.76
+MG Road,Shop,2.15,3491.35,3,3,54.31,28.61,8.9,True,False,Commercial,63.11,235194.56
+Vaishali Nagar,Mall Space,13.85,2075.65,3,3,74.48,143.47,8.0,True,False,Commercial,188.17,422020.26
+Tonk Road,Mall Space,11.38,3696.96,1,3,87.24,114.9,4.3,False,False,Commercial,56.37,211755.08
+Tonk Road,Shop,18.78,4919.39,1,4,36.7,141.66,7.3,False,True,Mixed-use,167.82,814004.25
+Bani Park,Showroom,5.19,3392.9,4,7,37.93,129.83,4.4,True,True,Mixed-use,157.28,546372.21
+Jagatpura,Mall Space,15.56,3767.38,1,4,13.79,42.87,3.3,True,False,Commercial,90.12,332008.67
+Transportation Hub,Mall Space,10.3,4220.39,1,6,55.4,93.08,8.6,True,True,Commercial,133.82,586271.82
+Vaishali Nagar,Shop,11.29,271.88,6,6,51.73,134.44,2.8,False,True,Commercial,86.53,25594.61
+Bapu Nagar,Shop,12.85,4564.18,1,4,84.0,179.02,1.6,True,True,Mixed-use,118.57,525521.05
+Bapu Nagar,Mall Space,4.59,3632.1,1,1,52.86,141.49,6.3,True,True,Commercial,121.65,482202.31
+Bani Park,Shop,17.53,4430.73,1,3,83.04,24.43,3.1,True,True,Mixed-use,120.68,488018.4
+Jagatpura,Showroom,16.91,2128.34,1,9,13.79,149.11,9.6,False,False,Mixed-use,171.07,390868.95
+Vaishali Nagar,Shop,17.08,3802.29,1,5,70.3,61.21,6.0,False,False,Mixed-use,197.48,716876.91
+Jagatpura,Showroom,6.43,370.71,7,9,91.13,89.77,8.7,True,True,Commercial,69.25,23520.96
+Gopalbari,Showroom,12.14,2429.58,1,3,40.53,21.34,8.2,False,True,Mixed-use,106.09,249371.23
+Tonk Road,Mall Space,17.32,1682.14,7,7,68.33,158.6,9.8,False,True,Commercial,113.78,181936.66
+Transportation Hub,Showroom,4.42,3452.62,2,3,62.59,173.8,6.7,True,True,Commercial,113.03,408192.44
+C Scheme,Showroom,19.28,2055.5,1,5,95.88,88.17,5.9,False,False,Commercial,55.18,108654.34
+Transportation Hub,Shop,8.39,4482.46,2,3,38.41,129.72,3.8,False,True,Mixed-use,116.45,567920.35
+Vaishali Nagar,Shop,0.84,3109.04,2,3,57.41,102.43,6.3,True,False,Commercial,111.76,336939.05
+C Scheme,Showroom,11.55,2522.49,4,5,97.46,101.42,9.8,False,True,Mixed-use,148.91,393933.3
+Tonk Road,Showroom,9.34,2626.44,2,2,21.81,39.52,5.4,False,False,Mixed-use,85.94,211576.79
+MG Road,Shop,1.77,2990.7,6,9,41.98,78.21,9.1,False,True,Commercial,60.24,167422.38
+MG Road,Showroom,8.38,3921.99,5,10,58.99,110.89,6.4,False,True,Mixed-use,192.59,731695.18
+C Scheme,Showroom,16.08,2339.48,3,4,19.91,162.35,8.0,False,False,Commercial,147.48,328620.47
+Transportation Hub,Showroom,7.12,3183.29,9,10,22.53,147.7,9.0,False,True,Commercial,131.07,411463.49
+Gopalbari,Showroom,16.62,3167.45,1,1,20.44,182.43,5.3,True,True,Mixed-use,184.7,571945.31
+Transportation Hub,Shop,2.56,1042.1,1,1,11.41,116.82,5.0,False,False,Commercial,87.23,88856.71
+Jagatpura,Shop,19.86,344.37,1,3,47.3,52.99,4.6,False,False,Mixed-use,64.5,24205.61
+Bani Park,Mall Space,10.35,981.45,6,10,48.24,90.07,6.8,True,True,Mixed-use,63.13,67914.87
+Malviya Nagar,Shop,13.29,4798.31,3,6,41.86,180.3,4.0,True,True,Commercial,64.96,328016.53
+Bapu Nagar,Mall Space,0.95,3077.25,2,3,16.68,116.46,9.8,False,True,Mixed-use,160.63,481726.16
+Tonk Road,Mall Space,6.99,3996.63,2,3,36.64,107.5,6.7,False,False,Mixed-use,95.64,368803.68
+MG Road,Shop,17.95,2468.09,2,8,24.89,28.49,3.0,True,True,Mixed-use,73.63,163758.03
+Gopalbari,Showroom,7.12,2304.54,3,3,32.43,78.53,1.2,True,True,Mixed-use,87.54,187732.52
+MG Road,Shop,13.23,901.91,1,3,23.75,169.87,4.9,False,True,Mixed-use,79.78,78559.0
+Tonk Road,Mall Space,12.98,3937.89,2,5,95.92,26.32,9.2,False,True,Commercial,129.32,531946.63
+Malviya Nagar,Showroom,14.09,3555.47,2,2,91.51,65.45,5.5,False,True,Mixed-use,165.34,627576.82
+Jagatpura,Mall Space,11.39,1172.16,1,3,35.92,108.28,1.6,False,True,Commercial,166.68,214453.98
+Gopalbari,Showroom,18.92,1495.05,9,10,62.84,152.59,4.0,True,False,Mixed-use,106.19,172583.83
+Malviya Nagar,Mall Space,16.73,4147.76,6,7,33.96,58.55,4.7,False,True,Mixed-use,55.35,246458.03
+Jagatpura,Shop,17.8,494.17,1,3,80.77,56.58,1.3,True,False,Commercial,188.52,99186.08
+MG Road,Mall Space,7.98,1920.68,4,9,51.64,69.53,8.5,True,True,Commercial,62.88,110315.05
+Jagatpura,Mall Space,7.98,1800.83,4,9,47.98,69.69,6.0,False,False,Mixed-use,117.09,208090.75
+C Scheme,Shop,1.04,253.8,5,5,92.88,122.84,8.8,True,True,Commercial,125.8,32254.64
+Jagatpura,Shop,17.76,492.6,2,2,12.4,151.91,4.3,False,False,Commercial,139.18,74282.54
+Jagatpura,Mall Space,17.45,4617.18,1,4,17.68,129.59,5.2,False,True,Mixed-use,96.67,417513.52
+Bapu Nagar,Shop,12.06,2337.8,9,9,40.97,56.59,9.1,True,False,Mixed-use,64.9,153691.23
+Tonk Road,Mall Space,4.58,4974.0,2,3,92.63,84.46,7.5,True,False,Mixed-use,75.61,378088.08

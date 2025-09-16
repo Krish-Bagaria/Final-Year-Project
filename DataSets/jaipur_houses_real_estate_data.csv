@@ -1,0 +1,501 @@
+area,distance_to_city_center_km,plot_size_sqft,built_up_area_sqft,bhk,bathrooms,floors,parking_spaces,age_of_property_years,facing_direction,furnishing_status,near_school,near_hospital,near_metro,zone_type,avg_price_last_6_months,price,built_up_ratio
+Lal Kothi,2.8,5400,3049,5,5,3,4,20,East,Semi-Furnished,True,False,False,Residential,50889891,53742399,0.5646296296296296
+Mansarovar Extension,9.2,1800,787,2,2,1,2,7,South,Fully-Furnished,True,False,False,Residential,6847860,7589166,0.43722222222222223
+Tonk Road,12.5,3000,1413,2,2,1,3,19,East,Unfurnished,True,False,False,Residential,6804784,7228035,0.471
+Malviya Nagar,4.2,3600,1997,4,4,2,3,7,South,Unfurnished,False,True,False,Residential,18819015,20088214,0.5547222222222222
+Mansarovar,7.2,4500,2466,3,3,3,2,10,East,Unfurnished,True,True,True,Residential,32124214,35107200,0.548
+Vaishali Nagar Extension,10.8,1200,573,3,3,2,2,4,East,Semi-Furnished,True,True,False,Residential,4978232,5578642,0.4775
+Chomu,38.2,3600,1957,3,3,3,3,8,East,Semi-Furnished,True,True,False,Agricultural,5820476,6241947,0.5436111111111112
+Pink City,0.8,3000,1869,2,2,2,3,4,West,Semi-Furnished,False,True,False,Residential,26909159,28403335,0.623
+Bindayaka,21.7,1500,615,3,3,2,2,25,East,Unfurnished,True,True,False,Residential,2032394,2194332,0.41
+Bani Park,2.6,3000,1616,4,3,1,2,5,East,Unfurnished,True,True,False,Residential,22116615,24544366,0.5386666666666666
+Ajmer Road,16.3,5400,2658,3,3,2,2,3,North,Semi-Furnished,True,True,False,Residential,19039058,20055863,0.4922222222222222
+Dhawas Road,12.8,2000,932,2,2,3,2,7,West,Unfurnished,True,False,False,Residential,5434294,5976699,0.466
+Civil Lines,1.8,4050,1998,4,4,2,2,5,North,Semi-Furnished,True,True,True,Residential,50737236,56904163,0.49333333333333335
+Tonk Road,12.5,2700,1272,3,2,1,2,4,East,Semi-Furnished,False,True,False,Residential,6934950,7799503,0.4711111111111111
+Shyam Nagar,5.8,2700,1413,2,1,1,3,23,East,Unfurnished,False,True,True,Residential,9812595,11085507,0.5233333333333333
+Sikar Road,19.8,2250,995,2,2,2,2,8,East,Fully-Furnished,True,True,False,Residential,5083667,5437895,0.44222222222222224
+Vaishali Nagar,8.9,4500,2621,4,4,3,3,24,South,Unfurnished,False,True,False,Residential,18735886,20027679,0.5824444444444444
+Vaishali Nagar Extension,10.8,3600,1724,2,2,3,4,9,North,Fully-Furnished,True,False,False,Residential,15899994,17381089,0.47888888888888886
+Raja Park,2.2,2000,1078,3,3,3,2,9,North,Unfurnished,True,True,False,Residential,12511659,13725663,0.539
+C-Scheme,1.4,2700,1732,4,4,1,3,10,North,Semi-Furnished,True,True,False,Commercial,36349154,40622407,0.6414814814814814
+Civil Lines,1.8,2000,1174,3,3,2,3,0,East,Fully-Furnished,True,True,True,Residential,30011747,34188794,0.587
+Lal Kothi,2.8,1800,850,2,2,2,2,3,South,Semi-Furnished,True,False,False,Residential,7919995,8835309,0.4722222222222222
+Lal Kothi,2.8,2000,954,3,3,3,3,13,East,Semi-Furnished,True,False,False,Residential,9722388,10554109,0.477
+Jagatpura,14.2,2250,1175,3,3,1,2,12,East,Unfurnished,False,False,False,Residential,6278698,7163868,0.5222222222222223
+Mahapura,24.8,1350,579,3,3,1,2,12,North,Unfurnished,False,True,False,Industrial,1935414,2197537,0.4288888888888889
+Lal Kothi,2.8,3000,1409,3,3,3,4,12,North,Unfurnished,True,True,False,Residential,18386888,19593022,0.4696666666666667
+Raja Park,2.2,2700,1673,3,2,2,2,13,North,Fully-Furnished,False,True,False,Residential,20300498,22889191,0.6196296296296296
+Lal Kothi,2.8,2250,1047,2,1,2,2,21,East,Semi-Furnished,True,True,False,Residential,9443508,10166248,0.4653333333333333
+Hathod,15.5,1800,990,2,1,1,2,21,East,Fully-Furnished,True,True,False,Residential,4548305,5174901,0.55
+Sikar Road,19.8,1350,549,2,2,2,1,13,East,Semi-Furnished,True,False,False,Residential,2568479,2750554,0.4066666666666667
+Vatika,20.1,2400,1033,3,2,2,2,3,South,Unfurnished,True,True,False,Residential,3861527,4362656,0.43041666666666667
+Vaishali Nagar Extension,10.8,1350,755,1,1,2,1,9,East,Unfurnished,True,True,False,Residential,4770912,5122790,0.5592592592592592
+Raja Park,2.2,3600,1668,3,3,2,2,15,West,Fully-Furnished,True,True,False,Residential,20649366,22482670,0.4633333333333333
+Vaishali Nagar Extension,10.8,1500,716,2,1,2,1,17,West,Unfurnished,False,True,False,Residential,3915446,4236824,0.47733333333333333
+Gokulpura,14.5,1350,661,2,2,2,1,7,South,Unfurnished,True,True,False,Residential,3128013,3491051,0.48962962962962964
+Sindhi Camp,1.4,1800,1151,2,2,2,2,3,North,Unfurnished,True,True,True,Residential,15117973,16603575,0.6394444444444445
+Jagatpura,14.2,1800,1020,3,3,2,2,13,East,Semi-Furnished,True,True,False,Residential,7138994,7960375,0.5666666666666667
+Gopalpura Bypass,13.4,2400,1144,2,2,2,2,16,South,Unfurnished,True,False,False,Residential,4827082,5401156,0.4766666666666667
+Shyam Nagar,5.8,1350,696,3,2,1,1,16,East,Unfurnished,True,True,True,Residential,5356674,6103146,0.5155555555555555
+Sirsi Road,18.2,2000,979,2,2,1,3,5,North,Unfurnished,True,False,False,Residential,4993421,5725857,0.4895
+Mansarovar,7.2,4500,2189,3,3,3,3,12,East,Unfurnished,True,True,True,Residential,28864456,31129026,0.48644444444444446
+Sirsi Road,18.2,2400,1314,2,2,2,2,23,North,Unfurnished,True,False,False,Residential,5814048,6381584,0.5475
+Sitapura Industrial Area,18.5,5400,2881,5,5,3,2,6,North,Unfurnished,False,False,False,Industrial,16469128,17430260,0.5335185185185185
+Shyam Nagar,5.8,3600,2095,5,5,2,4,7,North,Unfurnished,True,True,True,Residential,26036011,27802771,0.5819444444444445
+Chitrakoot,15.8,2700,1355,2,2,1,2,16,West,Fully-Furnished,True,False,False,Residential,7898849,8380261,0.5018518518518519
+Mansarovar,7.2,3600,1666,3,2,2,3,15,West,Semi-Furnished,True,False,True,Residential,19105320,21911150,0.4627777777777778
+Jaisinghpura,16.8,1800,1009,2,2,1,2,3,South,Unfurnished,True,False,False,Residential,5431035,5885877,0.5605555555555556
+Pratap Nagar,11.8,3000,1297,3,3,2,4,17,East,Unfurnished,True,True,False,Residential,8362486,8839652,0.43233333333333335
+Sirsi Road,18.2,2700,1459,3,3,1,3,21,East,Fully-Furnished,True,False,False,Residential,8323065,9464493,0.5403703703703704
+Raja Park,2.2,6000,3704,4,3,2,3,29,West,Unfurnished,True,True,False,Residential,47967138,54543636,0.6173333333333333
+New Sanganer Road,15.2,3600,1999,3,2,3,2,19,North,Semi-Furnished,True,True,False,Residential,11256527,11885555,0.5552777777777778
+Sirsi Road,18.2,3600,1668,3,2,3,3,6,West,Unfurnished,False,True,False,Residential,9608622,10207317,0.4633333333333333
+Vivek Vihar,6.2,2000,874,2,2,2,2,19,East,Unfurnished,True,True,True,Residential,7005250,7633668,0.437
+Vaishali Nagar,8.9,2000,1092,3,3,2,2,13,North,Fully-Furnished,True,False,False,Residential,8215319,9181835,0.546
+Bagru,32.6,5400,2227,4,3,3,3,22,North,Unfurnished,False,True,False,Residential,6772220,7223029,0.4124074074074074
+Sirsi Road,18.2,2250,1109,3,3,3,2,7,North,Unfurnished,True,True,False,Residential,6083787,6474172,0.4928888888888889
+Durgapura,8.7,5400,3042,4,3,3,3,6,North,Fully-Furnished,True,True,False,Residential,37281199,39435366,0.5633333333333334
+Hathod,15.5,2250,914,2,2,2,3,3,East,Semi-Furnished,True,False,False,Residential,4603009,4963978,0.4062222222222222
+Murlipura,26.3,2400,1142,2,2,1,2,17,North,Unfurnished,True,False,False,Residential,3375195,3679145,0.47583333333333333
+Pratap Nagar,11.8,1500,616,2,2,2,2,1,East,Unfurnished,True,True,False,Residential,4059046,4562031,0.4106666666666667
+Bani Park,2.6,2250,1121,3,3,1,2,19,South,Semi-Furnished,True,True,False,Residential,10770183,11903355,0.49822222222222223
+Sirsi Road,18.2,2400,1294,2,2,1,2,21,North,Unfurnished,False,False,False,Residential,4649865,5256910,0.5391666666666667
+Lal Kothi,2.8,2000,1102,2,1,2,2,0,North,Semi-Furnished,True,True,False,Residential,13140213,14174025,0.551
+Gopalpura Bypass,13.4,2000,974,2,2,2,3,15,North,Unfurnished,True,False,False,Residential,4904591,5493754,0.487
+Lal Kothi,2.8,2000,1126,3,3,2,3,16,North,Unfurnished,True,True,False,Residential,9282248,9922929,0.563
+Murlipura,26.3,3600,1798,4,4,2,4,19,North,Unfurnished,True,True,False,Residential,6714178,7218909,0.49944444444444447
+Bani Park,2.6,4050,2024,4,4,2,3,0,West,Fully-Furnished,True,True,False,Residential,40495760,45837160,0.4997530864197531
+Vatika,20.1,3600,1579,3,2,2,2,22,East,Semi-Furnished,False,True,False,Residential,6942157,7832145,0.4386111111111111
+Lal Kothi,2.8,3600,1894,2,2,3,2,30,West,Semi-Furnished,True,False,False,Residential,19943976,22006747,0.5261111111111111
+Pink City,0.8,4500,2254,3,3,3,2,3,North,Fully-Furnished,True,True,False,Residential,37878745,41985088,0.5008888888888889
+New Sanganer Road,15.2,1350,553,2,2,2,1,13,West,Unfurnished,False,True,False,Residential,2248565,2508206,0.4096296296296296
+Mansarovar,7.2,9000,5685,5,5,3,3,0,East,Unfurnished,True,False,True,Residential,96988555,107927787,0.6316666666666667
+Bani Park,2.6,2400,1356,2,2,3,2,21,North,Unfurnished,True,True,False,Residential,14727628,16110438,0.565
+Durgapura,8.7,5400,3154,5,4,2,2,8,East,Fully-Furnished,True,False,False,Residential,26399413,30034214,0.5840740740740741
+New Sanganer Road,15.2,3000,1328,3,3,2,3,7,North,Unfurnished,True,False,False,Residential,6662200,7384328,0.44266666666666665
+Jagatpura,14.2,5400,2163,3,3,3,2,25,North,Unfurnished,False,False,False,Residential,13364778,14876009,0.40055555555555555
+Sanganer,17.6,3600,1681,2,1,2,4,24,North,Semi-Furnished,True,True,False,Residential,8256196,9240880,0.46694444444444444
+Kalwar Road,25.8,5400,3235,6,6,3,3,13,South,Unfurnished,True,True,False,Residential,16363670,18277622,0.5990740740740741
+Tonk Road,12.5,1500,749,2,2,1,2,16,East,Unfurnished,False,False,False,Residential,2787299,3018042,0.49933333333333335
+Jaisinghpura,16.8,1350,578,3,3,2,2,0,North,Unfurnished,True,True,False,Residential,4468835,4887580,0.42814814814814817
+Jhotwara,22.4,1800,947,3,2,2,2,0,North,Semi-Furnished,True,True,False,Residential,4446427,4895805,0.5261111111111111
+Jhotwara,22.4,2700,1325,2,2,2,3,18,South,Unfurnished,False,False,False,Residential,3586019,4052775,0.49074074074074076
+Ajmer Road,16.3,3600,2121,3,3,2,2,5,West,Unfurnished,True,True,False,Residential,10597443,11790845,0.5891666666666666
+Vaishali Nagar,8.9,1800,845,3,2,2,2,3,North,Semi-Furnished,True,True,False,Residential,7008995,7517518,0.46944444444444444
+Malviya Nagar,4.2,6000,2707,3,3,2,2,8,West,Semi-Furnished,False,True,False,Residential,31675924,35261134,0.45116666666666666
+Vivek Vihar,6.2,2700,1350,3,3,2,3,25,North,Unfurnished,True,False,True,Residential,11879371,13374695,0.5
+Mahapura,24.8,1200,604,2,2,2,2,10,North,Semi-Furnished,False,False,False,Industrial,2423763,2718635,0.5033333333333333
+Jagatpura,14.2,1800,849,2,1,2,1,0,North,Fully-Furnished,True,False,False,Residential,6989866,7375489,0.4716666666666667
+Gopalpura Bypass,13.4,5400,2862,3,2,3,4,24,East,Unfurnished,False,False,False,Residential,20008534,22008520,0.53
+Lal Kothi,2.8,3600,1780,2,2,2,3,0,East,Fully-Furnished,False,True,False,Residential,29305456,31165068,0.49444444444444446
+Gopalpura Bypass,13.4,4500,2421,5,5,3,4,19,North,Unfurnished,False,True,False,Residential,16115774,17455411,0.538
+Chomu,38.2,1350,675,2,2,1,1,2,North,Fully-Furnished,False,True,False,Residential,2110082,2302239,0.5
+Durgapura,8.7,1200,615,2,2,1,2,12,North,Fully-Furnished,False,False,False,Residential,3555479,3945329,0.5125
+Adarsh Nagar,5.2,2250,1246,2,2,3,3,7,West,Unfurnished,False,False,False,Residential,7320652,7822657,0.5537777777777778
+Murlipura,26.3,4500,2255,3,3,3,3,13,East,Semi-Furnished,False,True,False,Residential,9660041,10996255,0.5011111111111111
+Sitapura Industrial Area,18.5,2000,1120,3,2,2,2,0,North,Fully-Furnished,False,False,False,Industrial,4631354,5304401,0.56
+Malviya Nagar,4.2,5400,2917,4,3,2,4,4,North,Fully-Furnished,True,True,False,Residential,42957451,48424497,0.5401851851851852
+Mansarovar Extension,9.2,2400,1304,3,2,1,3,4,West,Fully-Furnished,True,False,False,Residential,11791023,12940980,0.5433333333333333
+Mansarovar Extension,9.2,1500,762,2,1,2,2,7,East,Fully-Furnished,True,False,False,Residential,8288720,8732698,0.508
+Sikar Road,19.8,1500,702,2,1,2,2,4,South,Unfurnished,True,True,False,Residential,2815609,3206773,0.468
+Lal Kothi,2.8,4500,2194,4,4,2,3,7,North,Semi-Furnished,True,True,False,Residential,28895729,31991659,0.4875555555555556
+Jhotwara,22.4,3000,1749,3,3,2,3,11,North,Fully-Furnished,True,False,False,Residential,7749091,8253167,0.583
+Vaishali Nagar Extension,10.8,3600,1986,4,3,3,4,3,North,Unfurnished,True,False,False,Residential,16968442,18497849,0.5516666666666666
+Chomu,38.2,2700,1433,3,3,3,2,0,East,Fully-Furnished,True,True,False,Residential,6042279,6364419,0.5307407407407407
+Lal Kothi,2.8,2400,1125,3,2,2,2,15,North,Unfurnished,True,True,False,Residential,9899828,10752013,0.46875
+Sanganer,17.6,3000,1432,3,3,2,2,21,West,Semi-Furnished,False,True,False,Residential,6775140,7280439,0.47733333333333333
+C-Scheme,1.4,3000,1463,2,2,2,2,0,West,Fully-Furnished,True,False,False,Residential,27232103,29976997,0.4876666666666667
+Malviya Nagar,4.2,2700,1421,3,3,3,2,4,East,Fully-Furnished,True,True,False,Residential,18512756,19931520,0.5262962962962963
+Vatika,20.1,1500,616,1,1,2,1,4,East,Unfurnished,True,True,False,Residential,2510679,2881013,0.4106666666666667
+Chitrakoot,15.8,2000,859,3,3,3,2,2,West,Fully-Furnished,False,True,False,Residential,6252944,6709838,0.4295
+Raja Park,2.2,9000,4485,4,4,2,3,18,North,Unfurnished,False,True,False,Residential,50949811,55218830,0.49833333333333335
+Gokulpura,14.5,3000,1309,3,3,2,4,0,South,Unfurnished,True,True,False,Residential,7443460,8498473,0.43633333333333335
+Gokulpura,14.5,2000,1024,2,2,1,2,0,West,Semi-Furnished,True,True,False,Residential,6796670,7642719,0.512
+Jagatpura,14.2,1200,563,2,2,1,2,20,East,Unfurnished,False,False,False,Residential,2954629,3215251,0.4691666666666667
+Kalwar Road,25.8,2250,1030,2,1,1,3,22,South,Unfurnished,False,False,False,Residential,2077364,2386872,0.4577777777777778
+Murlipura,26.3,1350,543,1,1,1,1,22,East,Unfurnished,True,False,False,Residential,1646261,1734526,0.4022222222222222
+Mahapura,24.8,2400,1244,2,2,2,3,13,East,Unfurnished,True,True,False,Industrial,3849002,4329587,0.5183333333333333
+Vatika,20.1,2000,989,2,2,2,2,2,East,Semi-Furnished,True,True,False,Residential,5217532,5563881,0.4945
+Durgapura,8.7,2250,1185,2,2,2,3,13,East,Unfurnished,True,True,False,Residential,6304524,6637313,0.5266666666666666
+Kalwar Road,25.8,4500,1977,3,3,2,4,11,East,Semi-Furnished,False,False,False,Residential,6609028,7346245,0.43933333333333335
+Jagatpura,14.2,5400,2430,4,4,3,4,10,South,Semi-Furnished,True,True,False,Residential,23530332,26373749,0.45
+Murlipura,26.3,2250,1251,2,2,1,3,12,North,Semi-Furnished,True,True,False,Residential,5031622,5582861,0.556
+Sanganer,17.6,1800,734,3,3,1,2,10,North,Unfurnished,True,False,False,Residential,3051105,3318652,0.4077777777777778
+Chomu,38.2,3600,1750,4,4,3,2,25,North,Unfurnished,False,True,False,Residential,4118441,4718807,0.4861111111111111
+Chomu,38.2,2000,1049,2,2,2,2,0,North,Unfurnished,True,False,False,Residential,2448572,2678289,0.5245
+Mahapura,24.8,3600,1532,3,3,2,4,8,West,Unfurnished,True,True,False,Industrial,6561414,6977848,0.4255555555555556
+Vatika,20.1,2400,1205,3,3,2,3,24,West,Semi-Furnished,False,False,False,Residential,4694524,5052097,0.5020833333333333
+Mansarovar Extension,9.2,1350,705,1,1,1,1,5,South,Unfurnished,False,True,False,Residential,5021972,5410071,0.5222222222222223
+Amer,11.2,3000,1503,3,3,2,2,0,North,Fully-Furnished,True,True,False,Residential,11559295,12442936,0.501
+Sikar Road,19.8,2700,1307,3,2,2,3,18,West,Semi-Furnished,True,False,False,Residential,5260524,5605839,0.4840740740740741
+Chomu,38.2,2400,1260,2,2,2,2,10,North,Unfurnished,True,False,False,Agricultural,2286837,2571610,0.525
+Adarsh Nagar,5.2,2250,1186,3,3,1,2,13,North,Fully-Furnished,False,False,False,Residential,6664701,7608788,0.5271111111111111
+Dhawas Road,12.8,4500,2414,4,4,3,4,7,East,Unfurnished,False,True,False,Residential,19871618,22181608,0.5364444444444444
+Durgapura,8.7,1500,718,3,3,1,1,15,North,Semi-Furnished,False,True,False,Residential,4353876,4765576,0.4786666666666667
+Amer,11.2,5400,2748,3,2,3,4,2,South,Semi-Furnished,True,False,False,Residential,25921721,27834514,0.5088888888888888
+Vatika,20.1,1350,599,2,2,1,1,13,North,Unfurnished,True,True,False,Residential,2296875,2559714,0.4437037037037037
+Mansarovar Extension,9.2,1350,625,3,3,2,1,4,North,Unfurnished,False,True,False,Residential,4748230,5246282,0.46296296296296297
+Ajmer Road,16.3,2250,1180,2,2,2,2,14,East,Fully-Furnished,True,True,False,Residential,6130128,6915353,0.5244444444444445
+Chitrakoot,15.8,2400,1119,2,2,3,2,13,West,Semi-Furnished,True,True,False,Residential,6599697,6981428,0.46625
+Raja Park,2.2,4500,2213,3,3,3,3,21,North,Unfurnished,True,False,False,Residential,22936351,24461463,0.49177777777777776
+Vaishali Nagar,8.9,1350,784,1,1,1,1,3,East,Semi-Furnished,True,True,False,Residential,6911400,7564242,0.5807407407407408
+Pink City,0.8,2250,1118,2,1,2,2,34,East,Unfurnished,True,True,False,Residential,10076288,11359191,0.4968888888888889
+Dhawas Road,12.8,2000,816,2,2,1,3,7,East,Unfurnished,True,True,False,Residential,4793699,5240628,0.408
+C-Scheme,1.4,3000,1561,4,4,3,2,10,North,Semi-Furnished,False,True,False,Commercial,34919797,38349778,0.5203333333333333
+Vivek Vihar,6.2,4500,2435,5,4,3,2,25,North,Unfurnished,True,True,True,Residential,25648184,28309406,0.5411111111111111
+Chomu,38.2,2400,1198,3,2,2,3,22,North,Unfurnished,True,False,False,Residential,2234370,2482310,0.49916666666666665
+Lal Kothi,2.8,5400,2466,3,2,3,2,22,South,Fully-Furnished,True,False,False,Residential,33521670,37494774,0.45666666666666667
+Lal Kothi,2.8,2400,1441,2,2,2,2,2,West,Unfurnished,True,True,False,Residential,14220743,16206947,0.6004166666666667
+Pratap Nagar,11.8,2000,979,3,2,2,2,6,South,Fully-Furnished,True,True,False,Residential,6823169,7535172,0.4895
+Sindhi Camp,1.4,2400,1373,3,3,3,3,3,North,Fully-Furnished,True,True,True,Residential,23639274,25929847,0.5720833333333334
+Dhawas Road,12.8,4500,2143,4,3,2,4,3,West,Semi-Furnished,True,True,False,Residential,17355111,19740418,0.4762222222222222
+Kalwar Road,25.8,2000,1081,2,1,3,2,11,North,Unfurnished,False,True,False,Residential,3428078,3717464,0.5405
+Gokulpura,14.5,1350,694,1,1,2,1,4,South,Semi-Furnished,False,False,False,Residential,3450589,3788979,0.5140740740740741
+Bagru,32.6,1800,1021,2,2,2,2,11,North,Unfurnished,True,True,False,Residential,2258285,2479485,0.5672222222222222
+Durgapura,8.7,1500,791,3,3,2,2,2,North,Unfurnished,False,False,False,Residential,5128854,5694327,0.5273333333333333
+Pink City,0.8,2250,1192,3,3,3,3,12,North,Unfurnished,True,True,False,Residential,12664453,14375382,0.5297777777777778
+Sanganer,17.6,2250,1064,3,3,2,2,17,North,Unfurnished,True,True,False,Residential,4145652,4385607,0.4728888888888889
+Hathod,15.5,1350,660,1,1,1,1,9,North,Unfurnished,True,True,False,Residential,2593240,2735193,0.4888888888888889
+Bani Park,2.6,2000,1197,2,1,2,2,5,North,Fully-Furnished,True,True,False,Residential,15188162,16843511,0.5985
+New Sanganer Road,15.2,3000,1548,3,3,2,2,7,North,Unfurnished,True,True,False,Residential,8296031,9031402,0.516
+Shyam Nagar,5.8,3000,1588,3,3,2,2,19,West,Unfurnished,True,True,True,Residential,12089741,12946654,0.5293333333333333
+Civil Lines,1.8,4500,2098,3,3,3,4,12,North,Unfurnished,True,True,True,Residential,38012067,41632681,0.4662222222222222
+Amer,11.2,3600,1892,3,3,2,3,4,North,Unfurnished,False,True,False,Residential,10127254,11301570,0.5255555555555556
+Bindayaka,21.7,3000,1393,3,3,3,3,2,East,Fully-Furnished,False,True,False,Residential,8823388,9365212,0.4643333333333333
+Jaisinghpura,16.8,2400,1270,2,2,1,2,2,North,Unfurnished,True,True,False,Residential,7948746,8678078,0.5291666666666667
+Durgapura,8.7,2700,1270,3,3,2,2,12,South,Unfurnished,False,True,False,Residential,5495074,6221130,0.4703703703703704
+Hathod,15.5,3600,1535,4,4,2,3,4,East,Unfurnished,True,True,False,Residential,8557841,9244219,0.4263888888888889
+Ajmer Road,16.3,1200,699,2,2,1,2,14,North,Unfurnished,False,True,False,Residential,3109305,3422202,0.5825
+Sitapura Industrial Area,18.5,2400,1009,2,2,3,2,16,East,Fully-Furnished,True,False,False,Industrial,3465067,3853688,0.42041666666666666
+Chomu,38.2,2250,974,2,2,2,2,18,South,Unfurnished,True,False,False,Residential,1842943,1978868,0.4328888888888889
+Hathod,15.5,1350,573,2,1,2,2,12,East,Unfurnished,True,False,False,Residential,2323341,2522043,0.42444444444444446
+Murlipura,26.3,1200,665,2,1,2,2,9,South,Semi-Furnished,False,False,False,Residential,2404574,2688543,0.5541666666666667
+Malviya Nagar,4.2,2000,1042,2,2,2,2,3,South,Semi-Furnished,True,True,False,Residential,10411430,11832356,0.521
+Murlipura,26.3,1350,731,2,2,2,2,16,East,Semi-Furnished,True,True,False,Residential,3119909,3365268,0.5414814814814815
+Mansarovar,7.2,4050,2561,3,3,2,3,28,East,Semi-Furnished,True,True,True,Residential,33892990,36244538,0.6323456790123457
+Gokulpura,14.5,1500,875,2,2,1,2,2,North,Unfurnished,True,False,False,Residential,5114819,5718671,0.5833333333333334
+Ajmer Road,16.3,1350,773,2,2,2,2,14,West,Unfurnished,True,False,False,Residential,3412374,3784921,0.5725925925925925
+New Sanganer Road,15.2,3000,1505,3,3,2,3,1,North,Fully-Furnished,False,True,False,Residential,12059729,13055593,0.5016666666666667
+Pink City,0.8,2250,1112,3,3,3,2,9,South,Unfurnished,True,True,False,Residential,12470280,13186192,0.49422222222222223
+Amer,11.2,4500,2541,3,3,2,4,25,West,Semi-Furnished,True,True,False,Residential,14297376,15379531,0.5646666666666667
+Shyam Nagar,5.8,1200,500,2,2,1,2,22,East,Unfurnished,True,True,True,Residential,4302053,4907207,0.4166666666666667
+Raja Park,2.2,2400,1124,2,2,2,3,2,North,Semi-Furnished,True,True,False,Residential,15847359,16841360,0.4683333333333333
+Bagru,32.6,1800,1070,3,3,2,2,5,West,Fully-Furnished,False,True,False,Residential,3135518,3333602,0.5944444444444444
+Sirsi Road,18.2,3000,1523,4,3,3,3,0,West,Unfurnished,True,True,False,Residential,13472853,14941331,0.5076666666666667
+Tonk Road,12.5,1200,512,3,3,2,2,22,North,Semi-Furnished,True,True,False,Residential,2712490,3088072,0.4266666666666667
+Sirsi Road,18.2,1800,814,3,2,2,2,15,East,Unfurnished,True,True,False,Residential,4026595,4303033,0.45222222222222225
+Murlipura,26.3,1500,884,3,2,2,1,5,South,Unfurnished,True,True,False,Residential,3164372,3348362,0.5893333333333334
+Sitapura Industrial Area,18.5,5400,2757,3,3,3,2,4,North,Semi-Furnished,False,True,False,Industrial,18068290,19746840,0.5105555555555555
+Gokulpura,14.5,1800,1044,3,3,3,2,1,West,Unfurnished,False,True,False,Residential,6054712,6382873,0.58
+Sirsi Road,18.2,1350,655,3,3,1,2,8,West,Semi-Furnished,True,True,False,Residential,4403661,4805665,0.48518518518518516
+Gopalpura Bypass,13.4,2400,1145,3,3,1,3,6,South,Unfurnished,True,True,False,Residential,6718698,7164800,0.47708333333333336
+Sindhi Camp,1.4,2700,1276,2,2,2,2,25,East,Semi-Furnished,True,True,True,Commercial,22468523,23917270,0.4725925925925926
+Durgapura,8.7,2250,1189,3,3,2,2,24,East,Unfurnished,True,True,False,Residential,5896817,6397208,0.5284444444444445
+Sindhi Camp,1.4,4500,2161,3,3,2,3,9,South,Unfurnished,True,True,True,Residential,28770767,30884903,0.4802222222222222
+Dhawas Road,12.8,3000,1641,4,4,2,3,4,East,Unfurnished,False,True,False,Residential,11385978,12914424,0.547
+Gopalpura Bypass,13.4,1350,586,2,2,2,2,3,East,Unfurnished,True,False,False,Residential,3734205,4126830,0.43407407407407406
+Shyam Nagar,5.8,2250,1318,2,2,2,2,12,West,Fully-Furnished,True,True,True,Residential,13718880,14939605,0.5857777777777777
+Pratap Nagar,11.8,1500,709,3,3,2,2,8,East,Unfurnished,True,False,False,Residential,4605101,4892513,0.4726666666666667
+Mansarovar Extension,9.2,3000,1677,2,1,2,4,0,East,Semi-Furnished,False,True,False,Residential,19577810,21236628,0.559
+Chomu,38.2,1350,621,3,3,1,2,13,North,Semi-Furnished,True,True,False,Agricultural,1270120,1432184,0.46
+Dhawas Road,12.8,2250,1026,2,2,3,2,2,East,Semi-Furnished,True,False,False,Residential,7910071,8478180,0.456
+Kukas,28.9,1350,743,3,2,1,1,15,North,Unfurnished,False,False,False,Agricultural,1306085,1410458,0.5503703703703704
+Chitrakoot,15.8,3000,1303,2,1,1,3,14,East,Unfurnished,False,True,False,Residential,7163946,7867457,0.43433333333333335
+Pratap Nagar,11.8,1500,818,3,3,1,2,12,South,Unfurnished,True,True,False,Residential,4215175,4536430,0.5453333333333333
+Durgapura,8.7,5400,3062,4,4,2,4,23,North,Unfurnished,True,True,False,Residential,20418795,22766303,0.567037037037037
+Sirsi Road,18.2,2400,1413,3,3,3,2,15,West,Unfurnished,False,False,False,Residential,6612646,7523380,0.58875
+Murlipura,26.3,2000,1130,2,2,2,2,15,South,Semi-Furnished,True,True,False,Residential,3941960,4350521,0.565
+Tonk Road,12.5,2000,1082,3,3,2,3,0,North,Fully-Furnished,False,True,False,Residential,7186718,8008539,0.541
+Chitrakoot,15.8,1200,523,1,1,2,2,21,West,Unfurnished,True,True,False,Residential,2631863,2949437,0.43583333333333335
+Kukas,28.9,1500,756,2,1,1,1,12,East,Unfurnished,True,True,False,Residential,2182708,2302273,0.504
+Sanganer,17.6,1350,641,1,1,1,2,0,North,Fully-Furnished,True,False,False,Residential,3985456,4441696,0.4748148148148148
+Chitrakoot,15.8,2250,1116,3,3,1,2,5,North,Semi-Furnished,False,True,False,Residential,6762474,7282480,0.496
+C-Scheme,1.4,2000,951,2,2,1,3,27,West,Unfurnished,True,True,False,Residential,10600730,11190483,0.4755
+Murlipura,26.3,2700,1506,4,4,1,2,19,North,Semi-Furnished,True,True,False,Residential,6260167,6692246,0.5577777777777778
+Sirsi Road,18.2,1350,798,2,2,1,2,19,North,Semi-Furnished,True,True,False,Residential,5018364,5761178,0.5911111111111111
+Hathod,15.5,3600,1687,3,3,3,4,10,East,Unfurnished,True,False,False,Residential,8365870,9162653,0.4686111111111111
+Gopalpura Bypass,13.4,1200,669,2,2,2,2,1,North,Fully-Furnished,False,True,False,Residential,6865008,7231836,0.5575
+Hathod,15.5,1350,656,2,1,1,2,17,East,Semi-Furnished,False,False,False,Residential,2986681,3365676,0.48592592592592593
+Durgapura,8.7,3600,1743,3,2,2,3,13,South,Semi-Furnished,True,False,False,Residential,10504004,11306919,0.4841666666666667
+Sirsi Road,18.2,2250,975,2,2,2,2,8,North,Unfurnished,False,True,False,Residential,4615296,5182667,0.43333333333333335
+C-Scheme,1.4,4050,2583,4,4,3,3,27,West,Unfurnished,True,True,False,Residential,40835503,46274002,0.6377777777777778
+Durgapura,8.7,5400,2853,4,4,3,2,18,East,Semi-Furnished,False,True,False,Residential,26129529,27765763,0.5283333333333333
+Amer,11.2,3600,1547,4,4,2,4,17,East,Unfurnished,False,False,False,Residential,8203580,9232392,0.4297222222222222
+Sirsi Road,18.2,1800,812,3,2,3,2,25,West,Fully-Furnished,True,True,False,Residential,4980085,5678665,0.45111111111111113
+Mahapura,24.8,1200,516,3,3,2,2,22,East,Unfurnished,True,False,False,Industrial,1920124,2056224,0.43
+Tonk Road,12.5,4500,2516,4,4,2,3,5,East,Unfurnished,True,False,False,Residential,15119801,16445099,0.5591111111111111
+Vivek Vihar,6.2,2250,1268,2,2,2,2,16,West,Fully-Furnished,True,True,True,Residential,12960527,13858209,0.5635555555555556
+Durgapura,8.7,3600,1868,3,3,2,2,9,West,Unfurnished,False,False,False,Residential,8923548,9977108,0.5188888888888888
+Vaishali Nagar Extension,10.8,2400,1108,2,2,2,2,2,North,Semi-Furnished,False,False,False,Residential,8240252,9411568,0.46166666666666667
+Pink City,0.8,4500,2512,4,4,3,2,19,East,Semi-Furnished,True,False,False,Residential,38474605,43944632,0.5582222222222222
+Murlipura,26.3,1800,817,3,3,1,1,12,South,Semi-Furnished,True,True,False,Residential,2630274,3007141,0.4538888888888889
+New Sanganer Road,15.2,5400,2751,3,3,3,4,17,South,Unfurnished,True,False,False,Residential,14119353,15349459,0.5094444444444445
+Gopalpura Bypass,13.4,1200,531,2,2,2,1,7,North,Semi-Furnished,False,False,False,Residential,3358883,3856978,0.4425
+Chitrakoot,15.8,2400,1134,2,2,2,3,13,East,Unfurnished,True,False,False,Residential,5607531,5961370,0.4725
+Hathod,15.5,1200,641,2,2,1,1,11,East,Unfurnished,True,True,False,Residential,2508715,2758617,0.5341666666666667
+Sindhi Camp,1.4,1800,961,2,1,2,1,23,East,Unfurnished,False,True,True,Residential,8329348,8936690,0.5338888888888889
+Gopalpura Bypass,13.4,4500,2306,3,2,2,4,17,North,Fully-Furnished,False,True,False,Residential,16471508,18338916,0.5124444444444445
+Sirsi Road,18.2,1800,797,1,1,1,2,23,South,Unfurnished,True,False,False,Residential,3412571,3731921,0.44277777777777777
+Bani Park,2.6,4050,2220,3,3,3,4,2,East,Fully-Furnished,True,True,False,Residential,41644371,46618486,0.5481481481481482
+Gokulpura,14.5,2400,1337,2,2,2,2,3,South,Semi-Furnished,True,False,False,Residential,6637086,7090604,0.5570833333333334
+Civil Lines,1.8,2250,1298,2,2,3,3,30,South,Unfurnished,True,False,True,Residential,19149783,21170204,0.5768888888888889
+Tonk Road,12.5,2000,911,2,2,2,3,11,North,Unfurnished,False,True,False,Residential,3983794,4375663,0.4555
+Jhotwara,22.4,1800,1076,2,2,1,2,0,East,Fully-Furnished,False,False,False,Residential,4902212,5485160,0.5977777777777777
+Mahapura,24.8,2000,1061,3,3,3,3,21,East,Unfurnished,False,False,False,Industrial,3055097,3322935,0.5305
+Tonk Road,12.5,4500,2234,4,4,3,3,3,West,Unfurnished,False,False,False,Residential,13258810,15237050,0.49644444444444447
+Raja Park,2.2,3600,1861,3,3,3,2,11,South,Fully-Furnished,True,False,False,Residential,24901722,26933390,0.5169444444444444
+Adarsh Nagar,5.2,1350,729,1,1,2,2,22,East,Unfurnished,True,False,False,Residential,4392637,4805598,0.54
+Vatika,20.1,4500,2061,4,3,2,2,22,South,Semi-Furnished,True,False,False,Residential,8781387,9921665,0.458
+Mahapura,24.8,1800,1075,3,3,3,1,20,East,Unfurnished,False,True,False,Industrial,3789264,4003051,0.5972222222222222
+Raja Park,2.2,2700,1745,4,4,1,3,6,East,Unfurnished,True,True,False,Residential,16811584,18535537,0.6462962962962963
+Sanganer,17.6,2250,917,2,2,2,2,7,South,Unfurnished,True,True,False,Residential,3638677,3854956,0.40755555555555556
+Civil Lines,1.8,3600,1730,2,2,2,3,21,North,Unfurnished,True,False,True,Residential,28609456,30377139,0.48055555555555557
+Mansarovar Extension,9.2,1800,1066,2,1,2,1,6,East,Unfurnished,True,True,False,Residential,7774377,8193523,0.5922222222222222
+New Sanganer Road,15.2,1500,606,2,2,2,2,23,North,Semi-Furnished,True,True,False,Residential,3196129,3670513,0.404
+Mansarovar,7.2,4500,2186,4,4,2,3,12,West,Semi-Furnished,True,True,True,Residential,30594939,32262443,0.48577777777777775
+New Sanganer Road,15.2,2000,1165,2,2,3,3,18,North,Unfurnished,False,True,False,Residential,5504093,6047985,0.5825
+Kukas,28.9,1200,500,2,1,2,1,11,East,Unfurnished,True,True,False,Residential,1308470,1407180,0.4166666666666667
+Dhawas Road,12.8,2000,955,2,1,2,2,4,West,Semi-Furnished,True,True,False,Residential,5504199,6179049,0.4775
+Dhawas Road,12.8,2700,1522,2,1,3,3,0,North,Fully-Furnished,True,True,False,Residential,15417229,16868627,0.5637037037037037
+Ajmer Road,16.3,2000,1140,3,3,1,2,16,West,Unfurnished,True,False,False,Residential,4046757,4627231,0.57
+Civil Lines,1.8,2250,1111,3,2,2,2,11,North,Semi-Furnished,True,False,True,Residential,20026745,21287192,0.49377777777777776
+Gokulpura,14.5,2400,1129,3,2,2,2,8,East,Unfurnished,False,True,False,Residential,5127594,5821495,0.47041666666666665
+Amer,11.2,2700,1190,2,2,2,2,1,South,Semi-Furnished,True,False,False,Residential,6531109,7396563,0.44074074074074077
+Tonk Road,12.5,3000,1253,3,2,1,3,7,North,Semi-Furnished,False,True,False,Residential,6862704,7774236,0.4176666666666667
+Vaishali Nagar,8.9,2250,1303,2,2,2,2,9,South,Semi-Furnished,True,False,False,Residential,9053509,9698215,0.5791111111111111
+Vaishali Nagar,8.9,1800,915,1,1,2,1,0,South,Semi-Furnished,False,True,False,Residential,7269255,7687396,0.5083333333333333
+Pratap Nagar,11.8,1350,583,2,1,1,1,25,East,Unfurnished,False,True,False,Residential,3002485,3308608,0.4318518518518519
+Adarsh Nagar,5.2,4500,1959,3,3,3,3,23,East,Unfurnished,True,False,False,Residential,12541035,14059986,0.43533333333333335
+Sitapura Industrial Area,18.5,2250,1046,3,2,3,2,16,West,Unfurnished,True,False,False,Industrial,3647534,3852337,0.4648888888888889
+Shyam Nagar,5.8,1800,967,2,2,3,2,7,East,Fully-Furnished,True,True,True,Residential,11755724,12947539,0.5372222222222223
+Jhotwara,22.4,1200,530,3,3,1,2,22,South,Unfurnished,True,False,False,Residential,1535115,1752301,0.44166666666666665
+Mahapura,24.8,2700,1355,3,2,2,3,6,South,Unfurnished,True,False,False,Industrial,4669590,5076877,0.5018518518518519
+Bagru,32.6,1500,690,2,2,1,2,24,North,Semi-Furnished,False,False,False,Residential,1662277,1819107,0.46
+Vivek Vihar,6.2,1200,554,1,1,1,2,9,East,Unfurnished,True,True,True,Residential,5628395,6005664,0.46166666666666667
+Bagru,32.6,2250,1296,3,2,1,3,2,East,Unfurnished,False,True,False,Agricultural,2748217,3136732,0.576
+Sanganer,17.6,2400,1000,2,2,1,2,8,North,Semi-Furnished,False,False,False,Residential,4071751,4577215,0.4166666666666667
+Sitapura Industrial Area,18.5,1200,712,1,1,2,2,0,North,Semi-Furnished,False,True,False,Industrial,3788496,4344556,0.5933333333333334
+Murlipura,26.3,1500,778,3,2,2,2,25,East,Unfurnished,True,True,False,Residential,2266352,2530902,0.5186666666666667
+Mahapura,24.8,4500,2257,5,5,2,2,9,East,Semi-Furnished,False,False,False,Industrial,9198458,9944603,0.5015555555555555
+Sindhi Camp,1.4,4500,2169,3,3,3,2,33,North,Semi-Furnished,False,True,True,Residential,30419116,34759766,0.482
+Mahapura,24.8,3600,1948,3,2,2,4,12,East,Unfurnished,False,True,False,Industrial,7319494,7770309,0.5411111111111111
+Pink City,0.8,2250,1223,2,2,1,3,30,East,Unfurnished,True,False,False,Residential,10949337,11801028,0.5435555555555556
+Dhawas Road,12.8,1200,500,2,2,2,2,2,East,Fully-Furnished,True,True,False,Residential,4561934,5077265,0.4166666666666667
+Sindhi Camp,1.4,3000,1856,4,4,3,4,21,North,Unfurnished,True,True,True,Residential,26979150,30117336,0.6186666666666667
+Vatika,20.1,1350,581,1,1,2,2,11,North,Semi-Furnished,False,False,False,Residential,2202866,2520689,0.43037037037037035
+Vivek Vihar,6.2,1800,860,3,2,2,1,0,South,Semi-Furnished,True,True,True,Residential,9758088,10304494,0.4777777777777778
+Jhotwara,22.4,3000,1604,3,3,1,2,24,North,Unfurnished,False,True,False,Residential,5024192,5681820,0.5346666666666666
+Ajmer Road,16.3,1350,716,3,3,2,2,10,North,Unfurnished,True,False,False,Residential,3150186,3579627,0.5303703703703704
+Jaisinghpura,16.8,1800,923,1,1,3,2,8,North,Semi-Furnished,True,False,False,Residential,7006267,7822533,0.5127777777777778
+Murlipura,26.3,2400,1228,2,2,3,3,20,North,Semi-Furnished,True,True,False,Residential,4668115,5196264,0.5116666666666667
+Vatika,20.1,2250,1168,3,2,3,2,7,North,Fully-Furnished,True,True,False,Residential,6883245,7381861,0.5191111111111111
+Durgapura,8.7,1500,693,2,2,1,1,17,South,Fully-Furnished,False,True,False,Residential,4070428,4543932,0.462
+Ajmer Road,16.3,2250,1231,2,2,3,2,10,North,Unfurnished,False,False,False,Residential,5566032,5956378,0.5471111111111111
+Jagatpura,14.2,2250,1190,2,2,3,3,13,West,Unfurnished,True,True,False,Residential,8207336,9149755,0.5288888888888889
+Chitrakoot,15.8,2700,1436,2,2,1,2,12,West,Unfurnished,False,False,False,Residential,6315200,6711208,0.5318518518518518
+Vatika,20.1,1350,719,2,2,2,2,5,North,Unfurnished,False,True,False,Residential,2727514,3106123,0.5325925925925926
+Vivek Vihar,6.2,3600,2010,4,4,3,3,11,East,Semi-Furnished,True,True,True,Residential,29625869,33610533,0.5583333333333333
+Civil Lines,1.8,3000,1825,3,3,2,3,4,South,Unfurnished,True,True,True,Residential,30285841,33945459,0.6083333333333333
+C-Scheme,1.4,1800,1027,3,2,1,2,34,North,Unfurnished,False,True,False,Residential,10002344,10529931,0.5705555555555556
+Kukas,28.9,1800,993,2,1,3,2,12,East,Unfurnished,False,True,False,Residential,2575281,2923983,0.5516666666666666
+Kalwar Road,25.8,1500,830,3,3,2,2,7,North,Unfurnished,False,False,False,Residential,2412812,2698654,0.5533333333333333
+Hathod,15.5,2000,1013,3,3,1,2,25,North,Fully-Furnished,True,True,False,Residential,4395339,4771586,0.5065
+Vaishali Nagar Extension,10.8,1500,764,2,2,1,2,3,North,Fully-Furnished,True,False,False,Residential,7019270,7546000,0.5093333333333333
+Bagru,32.6,5400,2989,3,3,3,3,16,South,Unfurnished,True,True,False,Agricultural,5371975,6157732,0.5535185185185185
+Sanganer,17.6,3000,1484,2,1,1,4,0,West,Semi-Furnished,True,True,False,Residential,9363422,10152437,0.49466666666666664
+Lal Kothi,2.8,4500,2409,5,4,2,2,28,East,Unfurnished,True,True,False,Residential,28786884,31506490,0.5353333333333333
+Vaishali Nagar Extension,10.8,4500,2213,3,3,2,2,17,North,Fully-Furnished,True,False,False,Residential,17149714,19028136,0.49177777777777776
+Jhotwara,22.4,1350,648,2,2,2,2,19,North,Semi-Furnished,True,False,False,Residential,2282049,2456887,0.48
+Amer,11.2,4500,1897,3,3,3,4,7,North,Semi-Furnished,True,True,False,Residential,13961268,15926289,0.42155555555555557
+Dhawas Road,12.8,1200,638,3,3,2,1,2,East,Unfurnished,False,True,False,Residential,3885975,4196681,0.5316666666666666
+Vivek Vihar,6.2,4500,1916,2,2,2,4,6,South,Semi-Furnished,True,True,True,Residential,23939580,25985724,0.42577777777777776
+Chitrakoot,15.8,5400,2583,5,5,3,4,10,East,Unfurnished,False,False,False,Residential,21691212,23602366,0.47833333333333333
+Lal Kothi,2.8,4050,2452,5,5,3,3,0,East,Semi-Furnished,False,True,False,Residential,49483427,52917198,0.6054320987654321
+Kalwar Road,25.8,2700,1283,3,3,2,2,13,South,Unfurnished,False,True,False,Residential,3259821,3536547,0.4751851851851852
+Chomu,38.2,5400,2775,4,3,3,4,20,East,Unfurnished,False,False,False,Residential,8170024,8724998,0.5138888888888888
+Mansarovar Extension,9.2,1350,665,2,2,1,2,1,East,Semi-Furnished,True,True,False,Residential,7815319,8323365,0.4925925925925926
+Raja Park,2.2,2250,1325,3,2,2,2,27,East,Semi-Furnished,True,True,False,Residential,13412939,15263726,0.5888888888888889
+Sikar Road,19.8,1800,890,3,3,1,1,16,North,Unfurnished,False,False,False,Residential,2711524,3025453,0.49444444444444446
+Jagatpura,14.2,3600,2001,5,5,2,2,11,East,Unfurnished,True,True,False,Residential,17020702,19440161,0.5558333333333333
+C-Scheme,1.4,1800,1039,3,2,2,2,31,West,Unfurnished,False,True,False,Residential,10617892,12030996,0.5772222222222222
+Chomu,38.2,1200,503,3,3,1,2,0,East,Semi-Furnished,True,False,False,Agricultural,1096836,1166933,0.4191666666666667
+Jaisinghpura,16.8,1800,799,2,2,2,1,3,East,Semi-Furnished,False,True,False,Residential,5690651,6005210,0.4438888888888889
+Murlipura,26.3,5400,2377,4,3,3,4,12,South,Unfurnished,True,True,False,Residential,11231658,12718930,0.4401851851851852
+Sindhi Camp,1.4,3000,1368,3,3,2,4,24,North,Unfurnished,True,True,True,Commercial,25482056,27597421,0.456
+Lal Kothi,2.8,2700,1630,4,4,2,2,34,East,Unfurnished,True,False,False,Residential,12508494,14124870,0.6037037037037037
+Sikar Road,19.8,2000,1009,3,3,2,2,6,North,Unfurnished,True,True,False,Residential,4316515,4709367,0.5045
+Jagatpura,14.2,2400,1406,2,2,2,2,0,East,Fully-Furnished,False,True,False,Residential,11025481,12439051,0.5858333333333333
+Jhotwara,22.4,1350,756,2,2,2,2,7,West,Semi-Furnished,False,False,False,Residential,2963163,3132460,0.56
+Mansarovar Extension,9.2,3000,1373,2,1,2,4,2,East,Semi-Furnished,True,False,False,Residential,16602324,17662589,0.45766666666666667
+Gokulpura,14.5,2400,1232,3,3,1,2,7,North,Semi-Furnished,False,False,False,Residential,6583284,7135599,0.5133333333333333
+Tonk Road,12.5,3000,1244,2,1,3,2,17,East,Unfurnished,False,False,False,Residential,5514156,6249347,0.4146666666666667
+Vaishali Nagar,8.9,2000,814,1,1,2,2,0,North,Semi-Furnished,True,True,False,Residential,6724677,7718673,0.407
+Hathod,15.5,1350,789,3,2,1,1,16,North,Semi-Furnished,False,False,False,Residential,2853031,3230244,0.5844444444444444
+Raja Park,2.2,3000,1647,3,3,2,4,5,South,Fully-Furnished,True,True,False,Residential,18802064,21564145,0.549
+Chomu,38.2,5400,3111,4,4,3,3,25,North,Fully-Furnished,True,True,False,Residential,11418638,12653637,0.5761111111111111
+Gopalpura Bypass,13.4,2250,1236,2,1,2,2,3,North,Semi-Furnished,True,False,False,Residential,8807263,9292513,0.5493333333333333
+Bagru,32.6,5400,2518,4,4,3,2,22,North,Unfurnished,True,True,False,Residential,8405503,9330795,0.4662962962962963
+Sitapura Industrial Area,18.5,2250,1245,3,2,1,3,9,North,Unfurnished,True,False,False,Industrial,4308104,4803849,0.5533333333333333
+Pink City,0.8,4050,2263,3,3,3,3,12,East,Semi-Furnished,True,False,False,Commercial,54151418,57550001,0.5587654320987654
+Gokulpura,14.5,1500,694,2,2,1,1,8,North,Unfurnished,True,True,False,Residential,3114683,3552054,0.46266666666666667
+Raja Park,2.2,2400,1212,3,3,3,2,6,East,Unfurnished,True,True,False,Residential,13005557,14457973,0.505
+Hathod,15.5,5400,2726,5,4,3,2,0,East,Fully-Furnished,True,True,False,Residential,24872202,27789574,0.5048148148148148
+Bani Park,2.6,2250,1457,2,1,2,2,33,East,Semi-Furnished,True,True,False,Residential,16531183,18447032,0.6475555555555556
+Vatika,20.1,3600,1881,3,3,3,3,19,North,Unfurnished,True,True,False,Residential,8251195,8968550,0.5225
+Chitrakoot,15.8,3600,1869,3,3,2,4,13,East,Semi-Furnished,False,False,False,Residential,12740124,13780940,0.5191666666666667
+New Sanganer Road,15.2,1800,1034,3,3,2,2,8,North,Unfurnished,False,True,False,Residential,4451850,4835059,0.5744444444444444
+Vaishali Nagar Extension,10.8,1200,492,2,2,2,2,18,North,Semi-Furnished,True,True,False,Residential,3779190,4278417,0.41
+Chitrakoot,15.8,1200,634,1,1,1,2,18,South,Fully-Furnished,True,True,False,Residential,3886432,4383255,0.5283333333333333
+Hathod,15.5,1200,612,3,3,1,2,1,East,Semi-Furnished,True,True,False,Residential,3535677,4049125,0.51
+Ajmer Road,16.3,1500,866,2,2,2,2,25,West,Unfurnished,True,True,False,Residential,3316662,3790107,0.5773333333333334
+Vaishali Nagar,8.9,2700,1221,3,3,2,3,11,South,Unfurnished,False,False,False,Residential,6414544,7290379,0.45222222222222225
+Ajmer Road,16.3,1800,792,2,2,2,2,21,East,Unfurnished,True,True,False,Residential,3271408,3583228,0.44
+Pratap Nagar,11.8,2250,1064,3,2,1,2,0,West,Fully-Furnished,False,True,False,Residential,7463286,8392895,0.4728888888888889
+Sirsi Road,18.2,1800,1054,2,2,2,2,18,West,Unfurnished,True,True,False,Residential,4825535,5118380,0.5855555555555556
+Civil Lines,1.8,2250,1292,2,2,2,2,11,East,Unfurnished,True,True,True,Residential,18766656,20231094,0.5742222222222222
+Raja Park,2.2,2000,1225,2,2,3,3,9,East,Fully-Furnished,True,True,False,Residential,17165409,18955388,0.6125
+Mansarovar Extension,9.2,3000,1596,2,1,1,4,7,East,Unfurnished,True,True,False,Residential,14021543,15982664,0.532
+Gopalpura Bypass,13.4,2250,1013,2,1,3,2,17,West,Fully-Furnished,True,True,False,Residential,7452039,8025340,0.45022222222222225
+Kukas,28.9,1350,723,1,1,2,2,3,West,Unfurnished,True,True,False,Residential,2077581,2343505,0.5355555555555556
+Mansarovar,7.2,2000,1094,2,1,1,2,20,East,Fully-Furnished,True,True,True,Residential,12185219,13651343,0.547
+Sitapura Industrial Area,18.5,2400,1256,3,3,2,3,3,East,Semi-Furnished,True,True,False,Industrial,6020684,6469284,0.5233333333333333
+Jagatpura,14.2,2250,1147,2,1,2,3,2,North,Fully-Furnished,True,True,False,Residential,9928617,10856600,0.5097777777777778
+Chomu,38.2,2000,1057,3,2,1,2,6,West,Unfurnished,False,False,False,Residential,1873654,2003074,0.5285
+Gopalpura Bypass,13.4,2000,805,3,3,2,3,19,South,Fully-Furnished,True,True,False,Residential,4982216,5673096,0.4025
+Murlipura,26.3,1800,937,1,1,3,2,8,East,Semi-Furnished,True,True,False,Residential,4555467,4849112,0.5205555555555555
+Chomu,38.2,1500,821,2,1,1,2,1,North,Fully-Furnished,True,False,False,Residential,2640649,2810948,0.5473333333333333
+Chitrakoot,15.8,1500,828,1,1,2,2,6,North,Unfurnished,False,True,False,Residential,4667662,4983245,0.552
+Bagru,32.6,3000,1683,3,2,1,2,15,East,Unfurnished,False,True,False,Residential,4133814,4513971,0.561
+Chomu,38.2,1350,689,1,1,2,2,11,East,Semi-Furnished,False,False,False,Residential,1517890,1703036,0.5103703703703704
+Kalwar Road,25.8,5400,2437,4,4,2,2,23,North,Unfurnished,True,True,False,Residential,8258137,9429017,0.4512962962962963
+Adarsh Nagar,5.2,3000,1669,4,3,3,2,16,West,Semi-Furnished,True,True,False,Residential,15698943,17540532,0.5563333333333333
+Bindayaka,21.7,3000,1659,3,3,1,4,12,North,Unfurnished,False,False,False,Residential,4865841,5556334,0.553
+Kalwar Road,25.8,1500,709,2,2,2,2,12,North,Fully-Furnished,False,True,False,Residential,2860672,3263875,0.4726666666666667
+Tonk Road,12.5,4500,1867,3,3,3,4,6,West,Semi-Furnished,False,True,False,Residential,12965993,13758068,0.41488888888888886
+Vatika,20.1,2700,1089,2,2,2,2,19,North,Fully-Furnished,False,True,False,Residential,4355471,4808391,0.4033333333333333
+Vatika,20.1,3000,1693,2,2,2,3,21,North,Unfurnished,False,True,False,Residential,6229740,7126609,0.5643333333333334
+Mansarovar Extension,9.2,1800,1026,2,2,3,2,2,North,Fully-Furnished,True,False,False,Residential,10429618,11178085,0.57
+Kukas,28.9,1350,756,1,1,2,2,18,South,Semi-Furnished,True,False,False,Agricultural,1654673,1767030,0.56
+Pratap Nagar,11.8,2700,1392,2,2,1,3,22,South,Unfurnished,False,False,False,Residential,5719654,6178503,0.5155555555555555
+Pratap Nagar,11.8,1350,549,2,2,2,2,7,North,Unfurnished,True,False,False,Residential,3163936,3464156,0.4066666666666667
+Amer,11.2,2400,981,2,1,1,2,1,East,Fully-Furnished,True,True,False,Residential,8073653,9176886,0.40875
+Gopalpura Bypass,13.4,5400,2262,4,4,2,2,23,East,Unfurnished,True,False,False,Residential,15555284,16967700,0.41888888888888887
+Vaishali Nagar Extension,10.8,1200,703,2,2,2,2,2,South,Fully-Furnished,True,True,False,Residential,6429898,6798522,0.5858333333333333
+Civil Lines,1.8,1800,924,3,3,2,2,7,North,Fully-Furnished,True,False,True,Residential,18449988,20009925,0.5133333333333333
+Jagatpura,14.2,1500,843,3,3,2,2,9,North,Semi-Furnished,True,True,False,Residential,6208323,7021891,0.562
+Sanganer,17.6,1800,777,2,2,2,1,25,North,Unfurnished,True,True,False,Residential,2629530,2977955,0.43166666666666664
+Tonk Road,12.5,1350,601,3,2,1,2,3,West,Unfurnished,True,False,False,Residential,2953704,3222496,0.4451851851851852
+Tonk Road,12.5,5400,2423,4,3,2,3,25,West,Unfurnished,True,True,False,Residential,15469907,16978853,0.4487037037037037
+Murlipura,26.3,2400,1270,3,2,1,2,4,South,Unfurnished,True,False,False,Residential,3848468,4362862,0.5291666666666667
+Adarsh Nagar,5.2,1800,1022,3,2,2,1,15,South,Semi-Furnished,False,True,False,Residential,5846631,6507380,0.5677777777777778
+Mansarovar,7.2,7200,3544,4,4,3,3,12,North,Fully-Furnished,True,True,True,Residential,73149118,81390670,0.4922222222222222
+C-Scheme,1.4,3000,1924,4,3,3,4,25,South,Unfurnished,True,True,False,Residential,31784940,34230832,0.6413333333333333
+Bani Park,2.6,7200,4205,6,6,2,2,16,South,Fully-Furnished,False,True,False,Residential,68152217,73974482,0.5840277777777778
+Vaishali Nagar,8.9,4500,2087,4,4,3,2,12,North,Semi-Furnished,False,True,False,Residential,20930082,23132294,0.4637777777777778
+Mahapura,24.8,2000,807,2,2,2,3,22,South,Unfurnished,False,True,False,Industrial,2307378,2606201,0.4035
+Gokulpura,14.5,4500,2390,4,4,3,3,6,North,Unfurnished,True,False,False,Residential,16230763,17661006,0.5311111111111111
+Adarsh Nagar,5.2,4500,1927,2,2,3,2,6,East,Unfurnished,False,False,False,Residential,12003597,13646960,0.4282222222222222
+Murlipura,26.3,2700,1167,2,2,1,2,5,East,Unfurnished,True,False,False,Residential,3694636,4082557,0.43222222222222223
+Civil Lines,1.8,7200,3299,6,6,3,3,34,South,Unfurnished,True,True,True,Residential,78884539,86385091,0.45819444444444446
+Bindayaka,21.7,3600,1961,4,4,2,4,2,East,Semi-Furnished,True,False,False,Residential,10911729,12112187,0.5447222222222222
+New Sanganer Road,15.2,1350,562,2,1,1,2,4,West,Semi-Furnished,True,True,False,Residential,3350490,3650288,0.4162962962962963
+Bagru,32.6,1500,786,2,2,2,2,24,East,Unfurnished,True,True,False,Agricultural,1419431,1557213,0.524
+Sirsi Road,18.2,2000,897,2,2,2,2,3,North,Semi-Furnished,True,False,False,Residential,5741102,6184203,0.4485
+Sikar Road,19.8,2250,1068,2,1,1,2,13,North,Semi-Furnished,True,True,False,Residential,5234129,5552825,0.4746666666666667
+Vivek Vihar,6.2,1200,519,2,2,2,1,18,North,Unfurnished,False,False,True,Residential,3896764,4331604,0.4325
+Durgapura,8.7,1350,606,2,2,1,2,13,East,Fully-Furnished,False,False,False,Residential,4383809,4856927,0.4488888888888889
+Lal Kothi,2.8,6000,2780,4,4,2,3,32,South,Semi-Furnished,True,True,False,Residential,34999391,37476065,0.4633333333333333
+C-Scheme,1.4,2400,1493,2,2,2,2,26,North,Semi-Furnished,False,True,False,Commercial,28310315,29803441,0.6220833333333333
+Sindhi Camp,1.4,4050,2318,4,3,3,4,19,South,Semi-Furnished,True,True,True,Residential,37204507,39870910,0.5723456790123457
+Ajmer Road,16.3,1200,712,1,1,2,2,11,South,Unfurnished,True,True,False,Residential,2984000,3410870,0.5933333333333334
+Bagru,32.6,1800,754,3,3,2,2,15,East,Unfurnished,False,True,False,Residential,1748647,1864303,0.41888888888888887
+Raja Park,2.2,2700,1440,2,2,2,2,14,South,Semi-Furnished,True,True,False,Residential,14473786,16287325,0.5333333333333333
+New Sanganer Road,15.2,1800,744,2,2,1,2,10,East,Unfurnished,True,False,False,Residential,3298777,3581885,0.41333333333333333
+Murlipura,26.3,3600,1792,3,2,2,2,10,South,Unfurnished,True,True,False,Residential,6259578,6783152,0.49777777777777776
+New Sanganer Road,15.2,1500,693,3,3,1,1,15,North,Unfurnished,True,True,False,Residential,3266457,3624576,0.462
+Sanganer,17.6,1350,771,1,1,2,1,4,East,Unfurnished,True,True,False,Residential,3521373,3951395,0.5711111111111111
+Jaisinghpura,16.8,1200,575,1,1,1,2,2,East,Unfurnished,True,True,False,Residential,4583781,4949790,0.4791666666666667
+Raja Park,2.2,3600,1746,3,3,2,3,8,North,Unfurnished,True,True,False,Residential,19885009,21469744,0.485
+Vaishali Nagar Extension,10.8,1800,813,2,1,3,2,5,North,Unfurnished,True,True,False,Residential,6249123,6709129,0.45166666666666666
+Jhotwara,22.4,2250,1261,2,1,1,2,14,North,Unfurnished,True,False,False,Residential,3905768,4290386,0.5604444444444444
+Chomu,38.2,4500,2551,3,3,3,2,6,North,Unfurnished,False,True,False,Residential,6332536,6991071,0.5668888888888889
+Jhotwara,22.4,4500,2427,3,3,3,2,2,North,Semi-Furnished,False,True,False,Residential,12069786,13709815,0.5393333333333333
+Durgapura,8.7,1350,745,2,2,1,2,14,North,Unfurnished,True,True,False,Residential,3996011,4389873,0.5518518518518518
+Mahapura,24.8,4500,2693,5,4,3,3,8,North,Unfurnished,False,True,False,Industrial,13770452,14803645,0.5984444444444444
+Hathod,15.5,2400,1350,3,3,3,2,11,East,Unfurnished,False,False,False,Residential,5400766,6022309,0.5625
+Gokulpura,14.5,2000,922,1,1,1,2,0,East,Unfurnished,True,True,False,Residential,5663386,6401943,0.461
+Gokulpura,14.5,2000,875,2,2,3,2,4,West,Unfurnished,False,True,False,Residential,4359745,4623960,0.4375
+Raja Park,2.2,9000,4391,6,5,2,3,24,West,Fully-Furnished,False,True,False,Residential,60512949,66838262,0.48788888888888887
+Gokulpura,14.5,1800,994,1,1,2,2,5,North,Unfurnished,True,True,False,Residential,4969933,5669331,0.5522222222222222
+Hathod,15.5,1800,889,3,3,2,1,18,East,Unfurnished,True,True,False,Residential,3058198,3451680,0.4938888888888889
+Mansarovar,7.2,2700,1533,4,3,2,3,0,West,Fully-Furnished,True,False,True,Residential,24506798,28002985,0.5677777777777778
+Bagru,32.6,1200,606,2,2,2,1,23,East,Semi-Furnished,True,True,False,Residential,1555334,1699371,0.505
+Vaishali Nagar Extension,10.8,1200,708,2,2,2,2,22,East,Unfurnished,False,False,False,Residential,3982091,4295794,0.59
+Sikar Road,19.8,2250,1152,3,3,2,2,4,East,Fully-Furnished,False,True,False,Residential,6386447,7088940,0.512
+Sanganer,17.6,3000,1740,4,4,3,4,0,North,Semi-Furnished,True,True,False,Residential,14936380,16698455,0.58
+Bindayaka,21.7,1200,496,3,3,1,2,18,West,Semi-Furnished,True,True,False,Residential,2042431,2165734,0.41333333333333333
+Jagatpura,14.2,1350,591,2,2,2,1,6,North,Semi-Furnished,True,True,False,Residential,4560686,4872895,0.43777777777777777
+Kalwar Road,25.8,2700,1461,2,1,2,3,19,East,Unfurnished,False,True,False,Residential,4007475,4325762,0.5411111111111111
+Bagru,32.6,1500,866,1,1,2,2,13,East,Unfurnished,True,True,False,Residential,1877900,2144023,0.5773333333333334
+Gokulpura,14.5,2250,957,3,2,2,3,0,East,Unfurnished,True,True,False,Residential,5667914,6127297,0.42533333333333334
+Malviya Nagar,4.2,2400,1164,3,2,2,2,0,East,Fully-Furnished,True,True,False,Residential,15026140,16911936,0.485
+Malviya Nagar,4.2,6000,3155,6,5,3,3,16,East,Unfurnished,True,False,False,Residential,48238624,52172933,0.5258333333333334
+Sitapura Industrial Area,18.5,2000,820,2,2,1,3,6,South,Semi-Furnished,False,False,False,Industrial,2885842,3069686,0.41
+Murlipura,26.3,5400,3109,6,6,3,2,3,East,Semi-Furnished,True,True,False,Residential,21105937,24186989,0.5757407407407408
+Adarsh Nagar,5.2,2250,1280,3,3,3,2,18,South,Fully-Furnished,True,False,False,Residential,8721190,9703248,0.5688888888888889
+Civil Lines,1.8,9000,4865,4,4,3,4,14,North,Semi-Furnished,True,True,True,Residential,135349284,143806390,0.5405555555555556
+Adarsh Nagar,5.2,2700,1137,2,2,2,2,0,East,Unfurnished,True,True,False,Residential,8226213,8742312,0.4211111111111111
+Shyam Nagar,5.8,2700,1205,2,2,2,2,22,East,Fully-Furnished,True,True,True,Residential,13607138,14355989,0.4462962962962963
+Bani Park,2.6,2700,1534,2,2,1,2,32,South,Unfurnished,True,True,False,Residential,12096487,13081537,0.5681481481481482
+Vatika,20.1,5400,2471,5,4,2,2,22,North,Unfurnished,True,True,False,Residential,13042661,14754711,0.4575925925925926
+Vaishali Nagar Extension,10.8,2000,959,1,1,1,2,21,North,Semi-Furnished,True,False,False,Residential,5620842,6288083,0.4795
+Durgapura,8.7,3000,1698,2,1,1,3,1,West,Semi-Furnished,True,True,False,Residential,14006660,15369244,0.566
+Bani Park,2.6,2250,1358,2,1,1,3,8,East,Semi-Furnished,True,True,False,Residential,18505794,20324859,0.6035555555555555
+Vivek Vihar,6.2,3000,1675,3,2,1,3,7,East,Fully-Furnished,True,True,True,Residential,19922983,22700134,0.5583333333333333
+Vivek Vihar,6.2,5400,3041,6,5,2,3,14,West,Unfurnished,True,False,True,Residential,34040530,36551294,0.5631481481481482
+Civil Lines,1.8,2000,1218,2,2,2,2,1,East,Unfurnished,True,True,True,Residential,25309951,26679417,0.609
+Vaishali Nagar,8.9,5400,2363,3,3,2,2,23,East,Unfurnished,False,False,False,Residential,16005305,17320410,0.4375925925925926
+Pratap Nagar,11.8,3000,1379,3,3,2,4,19,North,Semi-Furnished,True,False,False,Residential,8292419,9410515,0.45966666666666667
+Vivek Vihar,6.2,3600,1571,2,2,3,4,21,East,Unfurnished,True,True,True,Residential,15384200,17493351,0.4363888888888889
+Durgapura,8.7,2400,1224,2,2,1,2,5,North,Unfurnished,True,False,False,Residential,6412660,7087570,0.51
+Bagru,32.6,3600,1730,3,3,2,3,10,North,Fully-Furnished,True,False,False,Agricultural,4761610,5200317,0.48055555555555557
+Vatika,20.1,2250,925,2,2,2,2,4,North,Fully-Furnished,True,True,False,Residential,4904597,5227930,0.4111111111111111
+Sindhi Camp,1.4,2000,1233,3,3,3,2,7,West,Semi-Furnished,True,True,True,Residential,18322801,20357490,0.6165
+Murlipura,26.3,1350,781,2,2,2,1,9,East,Unfurnished,False,True,False,Residential,2319152,2640050,0.5785185185185185
+Chitrakoot,15.8,1200,651,2,2,2,2,10,North,Unfurnished,True,True,False,Residential,3933100,4393220,0.5425
+Kukas,28.9,1500,689,1,1,2,2,13,West,Unfurnished,False,False,False,Residential,1615908,1837351,0.4593333333333333
+Shyam Nagar,5.8,2400,1298,3,3,2,3,11,North,Fully-Furnished,False,False,True,Residential,12267658,13241722,0.5408333333333334
+Vaishali Nagar Extension,10.8,2250,950,2,2,3,2,24,South,Unfurnished,True,False,False,Residential,4878980,5552056,0.4222222222222222
+Vivek Vihar,6.2,2000,1154,3,3,3,2,23,North,Fully-Furnished,False,False,True,Residential,11391277,12842905,0.577
+Kukas,28.9,2250,1304,2,2,2,3,4,South,Semi-Furnished,True,True,False,Residential,4404939,4892089,0.5795555555555556
+Raja Park,2.2,2000,999,1,1,3,2,32,East,Unfurnished,False,True,False,Residential,9674848,10492751,0.4995
+Civil Lines,1.8,9000,5350,6,6,3,2,14,North,Unfurnished,True,True,True,Residential,126958187,143530943,0.5944444444444444
+Chitrakoot,15.8,1500,793,1,1,2,2,24,North,Fully-Furnished,True,True,False,Residential,5355557,6106574,0.5286666666666666
+Mahapura,24.8,1500,767,2,1,2,1,17,South,Semi-Furnished,False,False,False,Industrial,2286140,2453804,0.5113333333333333
+Lal Kothi,2.8,3000,1727,2,2,2,3,24,North,Unfurnished,True,False,False,Residential,14463209,16007397,0.5756666666666667
+Bagru,32.6,2250,1004,3,3,1,2,23,West,Unfurnished,True,False,False,Residential,1996191,2187341,0.44622222222222224
+Chomu,38.2,1500,862,2,1,1,2,17,East,Unfurnished,False,False,False,Agricultural,1208835,1361351,0.5746666666666667
+Hathod,15.5,1350,680,2,2,1,2,10,East,Fully-Furnished,True,True,False,Residential,4446454,4786693,0.5037037037037037
+Mansarovar Extension,9.2,2250,1088,3,2,3,2,7,East,Semi-Furnished,True,False,False,Residential,10260254,11325158,0.48355555555555557
+Sanganer,17.6,2700,1315,2,2,3,3,13,East,Semi-Furnished,True,True,False,Residential,7705936,8655473,0.48703703703703705
+Sanganer,17.6,2700,1196,3,3,3,2,15,South,Unfurnished,False,False,False,Residential,4579042,5240321,0.44296296296296295
+Sitapura Industrial Area,18.5,2400,997,1,1,3,3,20,East,Semi-Furnished,False,False,False,Industrial,3960153,4392926,0.41541666666666666
+Jaisinghpura,16.8,2700,1124,2,2,1,2,8,West,Unfurnished,True,True,False,Residential,6582223,7403989,0.4162962962962963
+Chitrakoot,15.8,1800,959,1,1,2,1,20,East,Unfurnished,True,False,False,Residential,4132140,4390952,0.5327777777777778
+Bindayaka,21.7,1350,647,1,1,2,2,24,North,Unfurnished,True,True,False,Residential,1836721,1950833,0.4792592592592593
+Malviya Nagar,4.2,2000,986,2,2,2,2,11,East,Unfurnished,True,True,False,Residential,8285163,8772489,0.493
+Amer,11.2,1350,742,3,3,1,1,20,North,Fully-Furnished,True,True,False,Residential,4426821,4897254,0.5496296296296296
+Murlipura,26.3,5400,2864,3,3,2,2,10,East,Unfurnished,True,True,False,Residential,12232107,13056692,0.5303703703703704
+Sindhi Camp,1.4,2400,1194,3,3,1,2,4,North,Fully-Furnished,True,True,True,Residential,17131888,18989787,0.4975
+Jagatpura,14.2,1350,758,2,2,1,2,18,East,Fully-Furnished,True,False,False,Residential,5314322,5707787,0.5614814814814815
+Jaisinghpura,16.8,2400,1305,3,3,1,3,6,South,Unfurnished,False,True,False,Residential,6289316,6989653,0.54375
+Vaishali Nagar,8.9,3600,1441,3,3,2,3,19,North,Fully-Furnished,False,True,False,Residential,11460637,12491087,0.4002777777777778
+Vaishali Nagar Extension,10.8,1800,760,2,1,2,1,13,West,Unfurnished,False,True,False,Residential,3824863,4250623,0.4222222222222222
+Pink City,0.8,9000,4193,6,6,3,2,6,East,Unfurnished,True,True,False,Residential,83139116,88448226,0.4658888888888889
+Mahapura,24.8,3600,2030,4,4,2,2,20,North,Fully-Furnished,True,False,False,Industrial,11124500,12513959,0.5638888888888889
+Gokulpura,14.5,1200,613,1,1,1,1,2,West,Fully-Furnished,True,False,False,Residential,4717768,4977574,0.5108333333333334
+Lal Kothi,2.8,2400,1328,3,3,3,2,15,East,Unfurnished,False,False,False,Residential,11748609,12883176,0.5533333333333333
+Sindhi Camp,1.4,3600,2184,4,4,3,4,26,West,Unfurnished,False,True,True,Residential,30964488,32773057,0.6066666666666667
+Lal Kothi,2.8,6000,2850,5,4,2,2,16,East,Unfurnished,True,True,False,Residential,31818052,36270574,0.475
+Pratap Nagar,11.8,1200,603,2,2,2,2,2,South,Fully-Furnished,True,True,False,Residential,5059255,5759682,0.5025
