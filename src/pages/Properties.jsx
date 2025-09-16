@@ -25,7 +25,7 @@ const Properties = () => {
   const [sortOrder, setSortOrder] = useState('asc');
   const [searchQuery, setSearchQuery] = useState('');
   const [filters, setFilters] = useState({
-    priceRange: { min: 0, max: 10000000 },
+    priceRange: { min: 0, max: 100000000 },
     propertyType: [],
     bedrooms: [],
     bathrooms: [],
@@ -168,7 +168,7 @@ const Properties = () => {
 
   const clearFilters = () => {
     setFilters({
-      priceRange: { min: 0, max: 10000000 },
+      priceRange: { min: 0, max: 100000000 },
       propertyType: [],
       bedrooms: [],
       bathrooms: [],

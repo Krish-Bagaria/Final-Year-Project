@@ -1,0 +1,102 @@
+[
+  {
+    "id": "IN-1",
+    "title": "3BHK Apartment in Koramangala",
+    "description": "Premium 3BHK near Forum Mall with modern amenities",
+    "priceINR": 18500000,
+    "price": 18500000,
+    "location": {
+      "address": "80 Feet Road",
+      "city": "Bengaluru",
+      "state": "KA",
+      "zipCode": "560095",
+      "coordinates": { "lat": 12.9352, "lng": 77.6245 },
+      "area": "Koramangala"
+    },
+    "type": "apartment",
+    "status": "for-sale",
+    "category": "premium",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 1550,
+    "yearBuilt": 2019,
+    "features": ["Gym", "Pool", "Power Backup", "Clubhouse"],
+    "amenities": ["Near Metro", "Near IT Park"],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800"
+    ],
+    "owner": {"id": "O-1", "name": "Aarav Singh", "email": "aarav@example.com", "phone": "+91-98XXXXXX01"},
+    "isVerified": true,
+    "aiPricePredictionINR": 19200000,
+    "aiPricePrediction": 19200000,
+    "createdAt": "2024-11-10T00:00:00.000Z",
+    "updatedAt": "2024-11-10T00:00:00.000Z"
+  },
+  {
+    "id": "IN-2",
+    "title": "2BHK in Powai with Lake View",
+    "description": "Scenic 2BHK overlooking Powai Lake, great connectivity",
+    "priceINR": 26000000,
+    "price": 26000000,
+    "location": {
+      "address": "Hiranandani Gardens",
+      "city": "Mumbai",
+      "state": "MH",
+      "zipCode": "400076",
+      "coordinates": { "lat": 19.1166, "lng": 72.9090 },
+      "area": "Powai"
+    },
+    "type": "apartment",
+    "status": "for-sale",
+    "category": "luxury",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 1020,
+    "yearBuilt": 2021,
+    "features": ["Lake View", "Gym", "Parking"],
+    "amenities": ["Near Metro", "Near Hospital"],
+    "images": [
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800"
+    ],
+    "owner": {"id": "O-2", "name": "Neha Sharma", "email": "neha@example.com", "phone": "+91-98XXXXXX02"},
+    "isVerified": true,
+    "aiPricePredictionINR": 27200000,
+    "aiPricePrediction": 27200000,
+    "createdAt": "2024-10-02T00:00:00.000Z",
+    "updatedAt": "2024-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "IN-3",
+    "title": "Commercial Office Space, Cyber City",
+    "description": "Grade-A office space suitable for startups and SMEs",
+    "priceINR": 15000000,
+    "price": 15000000,
+    "location": {
+      "address": "DLF Phase 3",
+      "city": "Gurugram",
+      "state": "HR",
+      "zipCode": "122002",
+      "coordinates": { "lat": 28.4946, "lng": 77.0888 },
+      "area": "DLF Cyber City"
+    },
+    "type": "commercial",
+    "status": "for-sale",
+    "category": "commercial",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 1800,
+    "yearBuilt": 2017,
+    "features": ["Central AC", "High-Speed Lifts", "Power Backup"],
+    "amenities": ["Near Metro", "Parking"],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800"
+    ],
+    "owner": {"id": "O-3", "name": "Rahul Verma", "email": "rahul@example.com", "phone": "+91-98XXXXXX03"},
+    "isVerified": true,
+    "aiPricePredictionINR": 15800000,
+    "aiPricePrediction": 15800000,
+    "createdAt": "2024-09-15T00:00:00.000Z",
+    "updatedAt": "2024-09-15T00:00:00.000Z"
+  }
+]
+

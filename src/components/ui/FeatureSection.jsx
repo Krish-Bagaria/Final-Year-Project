@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
 const FeatureSection = ({ features }) => {
@@ -39,12 +40,25 @@ const FeatureSection = ({ features }) => {
                   </div>
                   
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">
-                    {feature.title}
+                    {feature.to ? (
+                      <Link to={feature.to} className="hover:underline">
+                        {feature.title}
+                      </Link>
+                    ) : (
+                      feature.title
+                    )}
                   </h3>
                   
                   <p className="text-gray-600 leading-relaxed">
                     {feature.description}
                   </p>
+                  {feature.to && (
+                    <div className="mt-4">
+                      <Link to={feature.to} className="text-primary-600 hover:text-primary-700">
+                        Learn more →
+                      </Link>
+                    </div>
+                  )}
                 </div>
               </motion.div>
             );

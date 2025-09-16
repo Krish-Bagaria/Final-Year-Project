@@ -21,12 +21,11 @@ const PropertyList = ({
   onSaveProperty 
 }) => {
   const formatPrice = (price) => {
-    if (price >= 1000000) {
-      return `$${(price / 1000000).toFixed(1)}M`;
-    } else if (price >= 1000) {
-      return `$${(price / 1000).toFixed(0)}K`;
-    }
-    return `$${price.toLocaleString()}`;
+    return new Intl.NumberFormat('en-IN', {
+      style: 'currency',
+      currency: 'INR',
+      maximumFractionDigits: 0,
+    }).format(price);
   };
 
   const getCategoryColor = (category) => {

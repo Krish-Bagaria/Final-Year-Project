@@ -1,0 +1,21 @@
+{
+  "Koramangala": [
+    { "date": "2021-01-01", "pricePerSqFtINR": 9200 },
+    { "date": "2022-01-01", "pricePerSqFtINR": 9800 },
+    { "date": "2023-01-01", "pricePerSqFtINR": 10500 },
+    { "date": "2024-01-01", "pricePerSqFtINR": 11000 }
+  ],
+  "Powai": [
+    { "date": "2021-01-01", "pricePerSqFtINR": 30000 },
+    { "date": "2022-01-01", "pricePerSqFtINR": 32500 },
+    { "date": "2023-01-01", "pricePerSqFtINR": 34500 },
+    { "date": "2024-01-01", "pricePerSqFtINR": 36000 }
+  ],
+  "DLF Cyber City": [
+    { "date": "2021-01-01", "pricePerSqFtINR": 11500 },
+    { "date": "2022-01-01", "pricePerSqFtINR": 12500 },
+    { "date": "2023-01-01", "pricePerSqFtINR": 13500 },
+    { "date": "2024-01-01", "pricePerSqFtINR": 14000 }
+  ]
+}
+

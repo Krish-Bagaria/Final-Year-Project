@@ -31,8 +31,8 @@ const FilterSidebar = ({ filters, onFiltersChange, onClearFilters }) => {
   ];
 
   const locations = [
-    'New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix',
-    'Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose'
+    'Bengaluru', 'Mumbai', 'Gurugram', 'Delhi', 'Hyderabad',
+    'Pune', 'Chennai', 'Kolkata', 'Noida', 'Ahmedabad'
   ];
 
   const features = [
@@ -71,12 +71,11 @@ const FilterSidebar = ({ filters, onFiltersChange, onClearFilters }) => {
   };
 
   const formatPrice = (price) => {
-    if (price >= 1000000) {
-      return `$${(price / 1000000).toFixed(1)}M`;
-    } else if (price >= 1000) {
-      return `$${(price / 1000).toFixed(0)}K`;
-    }
-    return `$${price.toLocaleString()}`;
+    return new Intl.NumberFormat('en-IN', {
+      style: 'currency',
+      currency: 'INR',
+      maximumFractionDigits: 0,
+    }).format(price);
   };
 
   const FilterSection = ({ title, icon: Icon, children }) => (
@@ -115,7 +114,7 @@ const FilterSidebar = ({ filters, onFiltersChange, onClearFilters }) => {
             <input
               type="range"
               min="0"
-              max="10000000"
+              max="100000000"
               step="50000"
               value={filters.priceRange.min}
               onChange={(e) => handleRangeFilterChange('priceRange', 'min', e.target.value)}
@@ -129,7 +128,7 @@ const FilterSidebar = ({ filters, onFiltersChange, onClearFilters }) => {
             <input
               type="range"
               min="0"
-              max="10000000"
+              max="100000000"
               step="50000"
               value={filters.priceRange.max}
               onChange={(e) => handleRangeFilterChange('priceRange', 'max', e.target.value)}

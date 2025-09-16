@@ -20,6 +20,10 @@ import Admin from './pages/Admin';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import NotFound from './pages/NotFound';
+import SmartSearch from './pages/SmartSearch';
+import InvestmentAnalytics from './pages/InvestmentAnalytics';
+import MortgageCalculator from './pages/MortgageCalculator';
+import MarketInsights from './pages/MarketInsights';
 
 // Styles
 import './index.css';
@@ -39,6 +43,10 @@ function App() {
                 <Route path="/property/:id" element={<PropertyDetails />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/contact" element={<Contact />} />
+                <Route path="/smart-search" element={<SmartSearch />} />
+                <Route path="/investment-analytics" element={<InvestmentAnalytics />} />
+                <Route path="/mortgage-calculator" element={<MortgageCalculator />} />
+                <Route path="/market-insights" element={<MarketInsights />} />
                 
                 {/* Auth Routes */}
                 <Route path="/login" element={<Login />} />

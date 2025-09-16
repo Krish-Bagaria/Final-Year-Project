@@ -33,6 +33,7 @@ const Home = () => {
       description: 'AI-powered search with advanced filters to find your perfect property',
       color: 'text-blue-500',
       bgColor: 'bg-blue-50',
+      to: '/smart-search'
     },
     {
       icon: BarChart3,
@@ -40,6 +41,7 @@ const Home = () => {
       description: 'Comprehensive ROI analysis and market trend predictions',
       color: 'text-green-500',
       bgColor: 'bg-green-50',
+      to: '/investment-analytics'
     },
     {
       icon: Shield,
@@ -61,6 +63,7 @@ const Home = () => {
       description: 'Calculate your monthly payments and total costs',
       color: 'text-red-500',
       bgColor: 'bg-red-50',
+      to: '/mortgage-calculator'
     },
     {
       icon: Target,
@@ -68,6 +71,7 @@ const Home = () => {
       description: 'Real-time market data and investment opportunities',
       color: 'text-indigo-500',
       bgColor: 'bg-indigo-50',
+      to: '/market-insights'
     },
   ];
 

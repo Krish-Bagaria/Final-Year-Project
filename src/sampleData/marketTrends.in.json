@@ -1,0 +1,69 @@
+[
+  {
+    "id": "MT-IN-1",
+    "location": "Bengaluru - Koramangala",
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "period": "monthly",
+    "averagePriceINR": 14500000,
+    "priceChange": 4.2,
+    "volume": 320,
+    "daysOnMarket": 38,
+    "pricePerSqFtINR": 11000,
+    "trend": "rising",
+    "confidence": 82,
+    "dataPoints": [
+      { "date": "2024-01-01", "valueINR": 13600000, "volume": 300 },
+      { "date": "2024-03-01", "valueINR": 14000000, "volume": 310 },
+      { "date": "2024-05-01", "valueINR": 14300000, "volume": 315 },
+      { "date": "2024-07-01", "valueINR": 14500000, "volume": 320 }
+    ],
+    "createdAt": "2024-07-01T00:00:00.000Z",
+    "updatedAt": "2024-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "MT-IN-2",
+    "location": "Mumbai - Powai",
+    "city": "Mumbai",
+    "area": "Powai",
+    "period": "monthly",
+    "averagePriceINR": 25000000,
+    "priceChange": 5.1,
+    "volume": 410,
+    "daysOnMarket": 44,
+    "pricePerSqFtINR": 36000,
+    "trend": "rising",
+    "confidence": 88,
+    "dataPoints": [
+      { "date": "2024-01-01", "valueINR": 23500000, "volume": 380 },
+      { "date": "2024-03-01", "valueINR": 24200000, "volume": 395 },
+      { "date": "2024-05-01", "valueINR": 24700000, "volume": 405 },
+      { "date": "2024-07-01", "valueINR": 25000000, "volume": 410 }
+    ],
+    "createdAt": "2024-07-01T00:00:00.000Z",
+    "updatedAt": "2024-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "MT-IN-3",
+    "location": "Gurugram - DLF Cyber City",
+    "city": "Gurugram",
+    "area": "DLF Cyber City",
+    "period": "monthly",
+    "averagePriceINR": 16500000,
+    "priceChange": 3.4,
+    "volume": 210,
+    "daysOnMarket": 42,
+    "pricePerSqFtINR": 14000,
+    "trend": "rising",
+    "confidence": 79,
+    "dataPoints": [
+      { "date": "2024-01-01", "valueINR": 15800000, "volume": 200 },
+      { "date": "2024-03-01", "valueINR": 16000000, "volume": 205 },
+      { "date": "2024-05-01", "valueINR": 16300000, "volume": 208 },
+      { "date": "2024-07-01", "valueINR": 16500000, "volume": 210 }
+    ],
+    "createdAt": "2024-07-01T00:00:00.000Z",
+    "updatedAt": "2024-07-01T00:00:00.000Z"
+  }
+]
+
